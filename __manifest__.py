@@ -9,17 +9,28 @@
 # -------------------------------------------------------
 # Developer: MeNoSoft
 # Website: https://menosoft.ir
-# Project: MeNo Persian Translator for Odoo 
+# Project: MeNo Persian Translator for Odoo
 # Part of MeNoSoft. See LICENSE file for full copyright and licensing details.
 # -------------------------------------------------------
 #
 
 {
     "name": "MeNo Persian Translator for Odoo",
-    "summary": "بارگذاری و همگام‌سازی دسته‌جمعی فایل‌های ترجمه فارسی در مِنو 19",
+    "summary": "Automated batch loading and synchronization of Persian (fa_IR) translation files in Odoo 19",
     "description": """
-        ماژول اختصاصی جهت بارگذاری خودکار و بهینه‌سازی فایل‌های ترجمه فارسی (.po)
-        برای بخش‌های مختلف ERP مِنو نسخه 19 با معماری فیلدهای JSONB و بازنویسی استاندارد.
+MeNo Persian Translator for Odoo 19
+===================================
+A high-performance enterprise utility designed to automate the batch loading,
+synchronization, and deployment of Persian (fa_IR) PO translation files across Odoo 19 apps.
+
+Key Features & Capabilities:
+----------------------------
+* Automated batch import of PO translation files from local module paths.
+* Native compatibility with Odoo 19 JSONB translatable field architecture.
+* Automatic verification and activation of the Persian (fa_IR) language pack.
+* Configurable overwrite options (safeguard custom strings or reset to base translation).
+* Optimized memory footprint and batch operations to avoid server timeouts.
+* Enterprise-grade security: restricted strictly to System Administrators (Settings).
     """,
     "author": "MeNoSoft Team",
     "website": "https://menosoft.ir",
@@ -37,4 +48,3 @@
     "application": False,
     "auto_install": False,
 }
-
