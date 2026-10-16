@@ -13,6 +13,7 @@ Website: https://menosoft.ir
 Project: MeNo Persian Translator for Odoo 19
 Part of MeNoSoft. See LICENSE file for full copyright and licensing details.
 -------------------------------------------------------
+```
 ---
 
 <div align="center">
