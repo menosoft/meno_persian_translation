@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+# -*- coding: utf-8 -*-
+#
+#  __  __         _   _        ____         __  _
+# |  \/  |  ___  | \ | |  ___ / ___|  ___  / _|| |_
+# | |\/| | / _ \ |  \| | / _ \\___ \ / _ \| |_ | __|
+# | |  | ||  __/ | |\  || (_) |___) | (_) |  _|| |_
+# |_|  |_| \___| |_| \_| \___/|____/ \___/|_|   \__|
+#
+# ************************************************************
+# Developer: MeNoSoft
+# Website: https://menosoft.ir
+# Project: MeNo Persian Translator for Odoo 
+# Part of MeNoSoft. See LICENSE file for full copyright and licensing details.
+# ************************************************************
+#
+-->
+<odoo>
+    <record id="view_persian_import_language" model="ir.ui.view">
+        <field name="name">persian.language.import.form</field>
+        <field name="model">persian.language.import</field>
+        <field name="arch" type="xml">
+            <form string="بارگذاری دسته‌جمعی ترجمه">
+                <sheet>
+                    <div class="alert alert-info" role="alert">
+                        این عملیات تمامی فایل‌های ترجمه <code>.po</code> موجود در پکیج ماژول را خوانده و ساختار ترجمه سیستم را به‌صورت دسته‌جمعی به‌روزرسانی می‌کند.
+                    </div>
+                    <group>
+                        <group>
+                            <field name="code" />
+                            <field name="overwrite" />
+                        </group>
+                    </group>
+                    <notebook invisible="not log_messages">
+                        <page string="گزارش عملیات" name="logs">
+                            <field
+                                name="log_messages"
+                                readonly="1"
+                                class="border p-2 bg-light rounded"
+                            />
+                        </page>
+                    </notebook>
+                </sheet>
+                <footer>
+                    <button
+                        name="import_lang"
+                        string="شروع بارگذاری"
+                        type="object"
+                        class="btn-primary"
+                        data-hotkey="q"
+                    />
+                    <button
+                        string="بستن"
+                        class="btn-secondary"
+                        special="cancel"
+                        data-hotkey="z"
+                    />
+                </footer>
+            </form>
+        </field>
+    </record>
+
+    <record id="action_view_persian_import_language" model="ir.actions.act_window">
+        <field name="name">بارگذاری دسته‌جمعی ترجمه فارسی</field>
+        <field name="res_model">persian.language.import</field>
+        <field name="view_mode">form</field>
+        <field name="target">new</field>
+    </record>
+
+    <!-- قرارگیری در زیرمنوی استاندارد ترجمه مِنو -->
+    <menuitem
+        id="menu_view_persian_import_language"
+        name="واردسازی فایل‌های ترجمه فارسی"
+        action="action_view_persian_import_language"
+        parent="base.menu_translation"
+        sequence="110"
+        groups="base.group_system"
+    />
+</odoo>

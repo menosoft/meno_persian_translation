@@ -1,0 +1,178 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ai_documents_account
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:19+0000\n"
+"PO-Revision-Date: 2026-10-12 18:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "%(b_open)sContracts & NDAs%(b_close)s go to the %(legal)s folder."
+msgstr ""
+"بخش %(b_open)sقراردادها و توافق‌نامه‌های عدم افشا (NDAs)%(b_close)s به پوشه "
+"%(legal)s منتقل می‌شود."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"%(b_open)sInsurance contracts%(b_close)s go to the %(insurance)s folder."
+msgstr ""
+"بخش %(b_open)sقراردادهای بیمه%(b_close)s به پوشه %(insurance)s منتقل می‌شود."
+
+#. module: ai_documents_account
+#: model:ir.model.fields,field_description:ai_documents_account.field_documents_document__ai_document_or_env_company_id
+msgid "AI Company"
+msgstr "شرکت هوش مصنوعی"
+
+#. module: ai_documents_account
+#: model:ir.model,name:ai_documents_account.model_ai_documents_sort
+msgid "Ai Documents Sort"
+msgstr "مرتب‌سازی اسناد هوش مصنوعی"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "Company > Email"
+msgstr "شرکت > ایمیل"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "Company > Name"
+msgstr "شرکت > نام"
+
+#. module: ai_documents_account
+#: model:ir.model.fields,field_description:ai_documents_account.field_ai_documents_sort__display_name
+#: model:ir.model.fields,field_description:ai_documents_account.field_documents_document__display_name
+#: model:ir.model.fields,field_description:ai_documents_account.field_ir_actions_server__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: ai_documents_account
+#: model:ir.model,name:ai_documents_account.model_documents_document
+msgid "Document"
+msgstr "سند"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"First, check the file to see if it contains a single document or if several "
+"documents are collated together."
+msgstr ""
+"ابتدا فایل را بررسی کنید تا ببینید حاوی یک سند واحد است یا چند سند به صورت "
+"ترکیبی در کنار هم قرار گرفته‌اند."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "For this, use this field: %s"
+msgstr "برای این منظور، از این فیلد استفاده کنید: %s"
+
+#. module: ai_documents_account
+#: model:ir.model.fields,field_description:ai_documents_account.field_ai_documents_sort__id
+#: model:ir.model.fields,field_description:ai_documents_account.field_documents_document__id
+#: model:ir.model.fields,field_description:ai_documents_account.field_ir_actions_server__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "If it is a customer invoice, trigger the action to create one."
+msgstr "اگر فاکتور مشتری است، کنش ایجاد آن را فعال کنید."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "If it is false, continue with the normal process"
+msgstr "اگر نادرست است، فرآیند عادی را ادامه دهید"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If it is true, add the tag %(b_open)s\"To Split\"%(b_close)s and stop there."
+" This way, we'll know we first need to manually split it into different "
+"files."
+msgstr ""
+"اگر درست است، برچسب %(b_open)s«جهت تفکیک»%(b_close)s را اضافه کرده و متوقف "
+"شوید. به این ترتیب، متوجه خواهیم شد که ابتدا باید آن را به صورت دستی به "
+"فایل‌های مختلف تفکیک کنیم."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If the customer is %(b_open)sanyone else%(b_close)s, create a Customer "
+"Invoice."
+msgstr ""
+"اگر مشتری %(b_open)سهر شخص دیگری%(b_close)s است، یک فاکتور مشتری ایجاد کنید."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If the customer is %s it means it is a vendor bill, trigger the Create "
+"Vendor Bill action."
+msgstr ""
+"اگر مشتری %s باشد یعنی صورت‌حساب فروشنده است، کنش ایجاد صورت‌حساب فروشنده را"
+" فعال کنید."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If the customer of the invoice is us (%(company_name)s, with email "
+"%(company_email)s), create a Vendor Bill."
+msgstr ""
+"اگر مشتری فاکتور خودمان هستیم (%(company_name)s، با ایمیل "
+"%(company_email)s)، یک صورت‌حساب فروشنده ایجاد کنید."
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If the document is %(b_open)snot an invoice%(b_close)s, move it to the "
+"correct folder:"
+msgstr ""
+"اگر سند %(b_open)سفاکتور نیست%(b_close)s، آن را به پوشه صحیح منتقل کنید:"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid ""
+"If the document is an %(b_open)sinvoice%(b_close)s, move it to the "
+"%(finance)s folder then trigger the relevant action:"
+msgstr ""
+"اگر سند یک %(b_open)سفاکتور%(b_close)s است، آن را به پوشه %(finance)s منتقل "
+"کرده و سپس کنش مربوطه را فعال کنید:"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "Is considered multipage"
+msgstr "چندصفحه‌ای در نظر گرفته می‌شود"
+
+#. module: ai_documents_account
+#. odoo-python
+#: code:addons/ai_documents_account/wizard/ai_documents_sort.py:0
+msgid "Otherwise, %s"
+msgstr "در غیر این صورت، %s"
+
+#. module: ai_documents_account
+#: model:ir.model,name:ai_documents_account.model_ir_actions_server
+msgid "Server Action"
+msgstr "کنش سرور"

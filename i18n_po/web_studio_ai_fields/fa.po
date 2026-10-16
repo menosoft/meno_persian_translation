@@ -1,0 +1,251 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_studio_ai_fields
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:34+0000\n"
+"PO-Revision-Date: 2026-10-12 18:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/properties/field_properties/field_properties.xml:0
+msgid "AI"
+msgstr "هوش مصنوعی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/interactive_editor.js:0
+msgid "AI Field"
+msgstr "فیلد هوش مصنوعی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Add Field"
+msgstr "افزودن فیلد"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Add Values"
+msgstr "افزودن مقادیر"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Add an AI Field"
+msgstr "افزودن فیلد هوش مصنوعی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Checkbox"
+msgstr "چک‌باکس"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Date"
+msgstr "تاریخ"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Datetime"
+msgstr "تاریخ و زمان"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Decimal"
+msgstr "اعشاری"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Discard"
+msgstr "صرف‌نظر کردن"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Edit Values"
+msgstr "ویرایش مقادیر"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Field Type"
+msgstr "نوع فیلد"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "HTML"
+msgstr "HTML"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Integer"
+msgstr "عدد صحیح"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Many2one"
+msgstr "چند به یک (Many2one)"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Monetary"
+msgstr "مبلغی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Multiline Text"
+msgstr "متن چندخطی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI CheckBox"
+msgstr "چک‌باکس هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Date"
+msgstr "تاریخ هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Datetime"
+msgstr "تاریخ و زمان هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Decimal"
+msgstr "عدد اعشاری هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI HTML"
+msgstr "اچ‌تی‌ام‌ال هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Integer"
+msgstr "عدد صحیح هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Many2One"
+msgstr "رابطه چند به یک هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Monetary"
+msgstr "فیلد مبالغ هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Multiline Text"
+msgstr "متن چندخطی هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Selection"
+msgstr "انتخابی هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Tags"
+msgstr "برچسب‌های هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "New AI Text"
+msgstr "متن هوش مصنوعی جدید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/properties/field_properties/field_properties.xml:0
+msgid "Prompt"
+msgstr "پرامپت (دستورالعمل)"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Relation"
+msgstr "رابطه"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Selection"
+msgstr "انتخابی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Selection Values"
+msgstr "مقادیر انتخابی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.js:0
+msgid "Text"
+msgstr "متن"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "Write a prompt, use '/field' to insert dynamic values"
+msgstr "یک پرامپت بنویسید، برای درج مقادیر پویا از «/field» استفاده کنید"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "ai icon"
+msgstr "آیکون هوش مصنوعی"
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "button to run your prompt."
+msgstr "دکمه‌ای برای اجرای پرامپت شما."
+
+#. module: web_studio_ai_fields
+#. odoo-javascript
+#: code:addons/web_studio_ai_fields/static/src/client_action/view_editor/interactive_editor/field_configuration/ai_field_configuration_dialog.xml:0
+msgid "fields won't update automatically - Click the"
+msgstr "فیلدها به طور خودکار به‌روزرسانی نمی‌شوند - روی این گزینه کلیک کنید:"

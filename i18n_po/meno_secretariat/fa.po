@@ -1,0 +1,2182 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_secretariat
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:14+0000\n"
+"PO-Revision-Date: 2026-10-12 18:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_secretariat
+#: model:ir.actions.report,print_report_name:meno_secretariat.action_report_secretariat_letter_a4_pdf
+#: model:ir.actions.report,print_report_name:meno_secretariat.action_report_secretariat_letter_a4_web
+#: model:ir.actions.report,print_report_name:meno_secretariat.action_report_secretariat_letter_a5_pdf
+#: model:ir.actions.report,print_report_name:meno_secretariat.action_report_secretariat_letter_a5_web
+msgid "'نامه_%s' % (object.name or 'پیش‌نویس').replace('/', '_')"
+msgstr "'نامه_%s' % (object.name or 'پیش‌نویس').replace('/', '_')"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+msgid "<strong class=\"title-font\">هامش و دستورات:</strong>"
+msgstr "<strong class=\"title-font\">هامش و دستورات:</strong>"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_archive_confirm_wizard
+msgid "<strong>توجه:</strong> فیلد \"شماره پرونده / بایگانی\" خالی است!"
+msgstr "<strong>توجه:</strong> فیلد \"شماره پرونده / بایگانی\" خالی است!"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__paper_size__a4
+msgid "A4"
+msgstr "A4"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__paper_size__a5
+msgid "A5"
+msgstr "A5"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_needaction
+msgid "Action Needed"
+msgstr "اقدام مورد نیاز"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_ids
+msgid "Activities"
+msgstr "فعالیت‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr "دکوراسیون استثنای فعالیت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_state
+msgid "Activity State"
+msgstr "وضعیت فعالیت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_type_icon
+msgid "Activity Type Icon"
+msgstr "آیکون نوع فعالیت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_attachment_count
+msgid "Attachment Count"
+msgstr "تعداد پیوست‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__attachment_type
+msgid "Attachment Type"
+msgstr "نوع پیوست"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "CC:"
+msgstr "رونوشت (CC):"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__is_editable
+msgid "Can Edit?"
+msgstr "قابلیت ویرایش دارد؟"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__can_register
+msgid "Can Register"
+msgstr "قابلیت ثبت دارد"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__can_sign
+msgid "Can Sign"
+msgstr "قابلیت امضا دارد"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__create_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__create_uid
+msgid "Created by"
+msgstr "ایجادشده توسط"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__create_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__date_routed
+msgid "Date Routed"
+msgstr "تاریخ ارجاع/گردش"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_hr_department
+msgid "Department"
+msgstr "دپارتمان / بخش"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_hr_department__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__display_name
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__file_name
+msgid "File Name"
+msgstr "نام فایل"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_follower_ids
+msgid "Followers"
+msgstr "دنبال‌کنندگان"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "دنبال‌کنندگان (مخاطبان)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "آیکون فونت‌آوسام مانند fa-tasks"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__has_message
+msgid "Has Message"
+msgstr "دارای پیام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_hr_department__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_exception_icon
+msgid "Icon"
+msgstr "آیکون"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "آیکون برای نمایش فعالیت استثنایی."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "در صورت انتخاب، پیام‌های جدید نیازمند توجه شما خواهند بود."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__message_has_error
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "در صورت انتخاب، برخی پیام‌ها خطای تحویل دارند."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__is_current_user_reviewer
+msgid "Is Current User Reviewer"
+msgstr "آیا کاربر جاری بررسی‌کننده است"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__is_current_user_signer
+msgid "Is Current User Signer"
+msgstr "آیا کاربر جاری امضاکننده است"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_is_follower
+msgid "Is Follower"
+msgstr "دنبال‌کننده است"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__write_uid
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__write_date
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__letter_id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__letter_id
+msgid "Letter"
+msgstr "نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_has_error
+msgid "Message Delivery error"
+msgstr "خطای تحویل پیام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_ids
+msgid "Messages"
+msgstr "پیام‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr "مهلت فعالیت من"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr "مهلت فعالیت بعدی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_summary
+msgid "Next Activity Summary"
+msgstr "خلاصه فعالیت بعدی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_type_id
+msgid "Next Activity Type"
+msgstr "نوع فعالیت بعدی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_needaction_counter
+msgid "Number of Actions"
+msgstr "تعداد کنش‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_has_error_counter
+msgid "Number of errors"
+msgstr "تعداد خطاها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "تعداد پیام‌های نیازمند اقدام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "تعداد پیام‌های دارای خطای تحویل"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.layout_meno_letter
+msgid "Page"
+msgstr "صفحه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__rating_ids
+msgid "Ratings"
+msgstr "امتیازات"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "Ref to letter No."
+msgstr "عطف به نامه شماره"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__activity_user_id
+msgid "Responsible User"
+msgstr "کاربر مسئول"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "خطای تحویل پیامک"
+
+#. module: meno_secretariat
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_root
+msgid "Secretariat"
+msgstr "دبیرخانه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"وضعیت بر اساس فعالیت‌ها\n"
+"سررسیدگذشته: تاریخ سررسید گذشته است\n"
+"امروز: تاریخ فعالیت امروز است\n"
+"برنامه‌ریزی‌شده: فعالیت‌های آتی."
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "Subject:"
+msgstr "موضوع:"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "نوع فعالیت استثنا روی رکورد."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__website_message_ids
+msgid "Website Messages"
+msgstr "پیام‌های وب‌سایت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter__website_message_ids
+msgid "Website communication history"
+msgstr "تاریخچه ارتباطات وب‌سایت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "dated"
+msgstr "مورخ"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.layout_meno_letter
+msgid "of"
+msgstr "از"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "آیا از بایگانی کردن این نامه مطمئن هستید؟"
+msgstr "آیا از بایگانی کردن این نامه مطمئن هستید؟"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_archive_confirm_wizard
+msgid ""
+"آیا مایل هستید سیستم از شماره اندیکاتور نامه جهت شماره بایگانی استفاده کند و"
+" نامه بایگانی شود؟"
+msgstr ""
+"آیا مایل هستید سیستم از شماره اندیکاتور نامه جهت شماره بایگانی استفاده کند و"
+" نامه بایگانی شود؟"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ارجاع"
+msgstr "ارجاع"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__route_ids
+msgid "ارجاعات"
+msgstr "ارجاعات"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ارجاعات (کارتابل)"
+msgstr "ارجاعات (کارتابل)"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_route
+msgid "ارجاعات نامه / کارتابل"
+msgstr "ارجاعات نامه / کارتابل"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__from_user_id
+msgid "ارجاع‌دهنده"
+msgstr "ارجاع‌دهنده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "ارجاع‌شده به من"
+msgstr "ارجاع‌شده به من"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ارسال برای امضا"
+msgstr "ارسال برای امضا"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ارسال برای بررسی"
+msgstr "ارسال برای بررسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.layout_meno_letter
+msgid "از"
+msgstr "از"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "اسکن نامه امضاشده"
+msgstr "اسکن نامه امضاشده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_attachment__attachment_type__scanned_hardcopy
+msgid "اسکن هارد کپی"
+msgstr "اسکن نسخه چاپی (هاردکپی)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "اطلاعات اصلی"
+msgstr "اطلاعات اصلی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "اطلاعات امضا"
+msgstr "اطلاعات امضا"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "اطلاعات نامه وارده فرستنده"
+msgstr "اطلاعات نامه وارده فرستنده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "الگوی تولید شماره اندیکاتور"
+msgstr "الگوی تولید شماره اندیکاتور"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_numbering_template
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_numbering_template
+msgid "الگوی شماره‌گذاری نامه"
+msgstr "الگوی شماره‌گذاری نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "الگوی شماره‌گذاری نامه‌ها"
+msgstr "الگوی شماره‌گذاری نامه‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "امضا"
+msgstr "امضا"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "امضا شده"
+msgstr "امضاشده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__signed
+msgid "امضا شده / نهایی"
+msgstr "امضاشده / نهایی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "امضا کردن نامه"
+msgstr "امضا کردن نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__signature_type__electronic
+msgid "امضای الکترونیک"
+msgstr "امضای الکترونیک"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__signature_type__manual
+msgid "امضای دستی"
+msgstr "امضای دستی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__state__done
+msgid "انجام شد"
+msgstr "انجام شد"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__paper_size
+msgid "اندازه کاغذ"
+msgstr "اندازه کاغذ"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_reject_wizard_form
+msgid "انصراف"
+msgstr "انصراف"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__letter_language__en
+msgid "انگلیسی"
+msgstr "انگلیسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.actions.act_window,help:meno_secretariat.action_secretariat_letter
+msgid "اولین نامه خود را در سیستم ثبت کنید"
+msgstr "اولین نامه خود را در سیستم ثبت کنید"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_res_company__print_letter_background
+#: model:ir.model.fields,help:meno_secretariat.field_res_config_settings__print_letter_background
+msgid "اگر فعال باشد، تصویر سربرگ در فایل PDF نهایی رندر و چاپ می‌شود."
+msgstr "اگر فعال باشد، تصویر سربرگ در فایل PDF نهایی رندر و چاپ می‌شود."
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__irzar
+msgid "ایران زر (IRZar) - رسمی و متراکم"
+msgstr "ایران زر (IRZar) - رسمی و متراکم"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__irzarbold
+msgid "ایران زر بولد (IRZar Bold)"
+msgstr "ایران زر بولد (IRZar Bold)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__iransansx
+msgid "ایران سنس (IRANSansX FaNum) - شرکتی و مدرن"
+msgstr "ایران سنس (IRANSansX FaNum) - شرکتی و مدرن"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__iransansxbold
+msgid "ایران سنس بولد (IRANSansX Bold FaNum)"
+msgstr "ایران سنس بولد (IRANSansX Bold FaNum)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__irlotus
+msgid "ایران لوتوس (IRLotus) - کلاسیک و بخشنامه‌ای"
+msgstr "ایران لوتوس (IRLotus) - کلاسیک و بخشنامه‌ای"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__irlotusbold
+msgid "ایران لوتوس بولد (IRLotus Bold)"
+msgstr "ایران لوتوس بولد (IRLotus Bold)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__irnazanin
+msgid "ایران نازنین (IRNazanin) - رسمی و استاندارد دولتی"
+msgstr "ایران نازنین (IRNazanin) - رسمی و استاندارد دولتی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__irnazaninbold
+msgid "ایران نازنین بولد (IRNazanin Bold)"
+msgstr "ایران نازنین بولد (IRNazanin Bold)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "بازگشت به نامه شماره"
+msgstr "بازگشت به نامه شماره"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "بالا (Top)"
+msgstr "بالا (Top)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "بایگانی"
+msgstr "بایگانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__archived
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "بایگانی شده"
+msgstr "بایگانی‌شده"
+
+#. module: meno_secretariat
+#: model:ir.actions.act_window,name:meno_secretariat.action_secretariat_letter_archived
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_letter_archived
+msgid "بایگانی شده‌ها"
+msgstr "بایگانی‌شده‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "بایگانی‌شده"
+msgstr "بایگانی‌شده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "بدنه نامه"
+msgstr "بدنه نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "بررسی‌کنندگان مجاز"
+msgstr "بررسی‌کنندگان مجاز"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__company_reviewer_ids
+msgid "بررسی‌کنندگان مجاز سیستم"
+msgstr "بررسی‌کنندگان مجاز سیستم"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "برگشت به پیش‌نویس"
+msgstr "برگشت به پیش‌نویس"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_archive_confirm_wizard
+msgid "بله، بایگانی شود"
+msgstr "بله، بایگانی شود"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "تاریخ"
+msgstr "تاریخ"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__date_done
+msgid "تاریخ انجام"
+msgstr "تاریخ انجام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__letter_date
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+msgid "تاریخ ثبت"
+msgstr "تاریخ ثبت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "تاریخ ثبت (ماه)"
+msgstr "تاریخ ثبت (ماه)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__original_letter_date
+msgid "تاریخ نامه فرستنده"
+msgstr "تاریخ نامه فرستنده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__date
+msgid "تاریخ و ساعت"
+msgstr "تاریخ و ساعت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_reject_wizard_form
+msgid "تایید و بازگشت نامه"
+msgstr "تایید و بازگشت نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__signer_signature_image
+msgid "تصویر امضا"
+msgstr "تصویر امضا"
+
+#. module: meno_secretariat
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_config
+msgid "تنظیمات"
+msgstr "تنظیمات"
+
+#. module: meno_secretariat
+#: model:ir.actions.act_window,name:meno_secretariat.action_secretariat_config_settings
+msgid "تنظیمات دبیرخانه"
+msgstr "تنظیمات دبیرخانه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "تنظیمات طراحی و چاپ قالب‌ها"
+msgstr "تنظیمات طراحی و چاپ قالب‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "تنظیمات عمومی و فونت"
+msgstr "تنظیمات عمومی و فونت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "تنظیمات واترمارک"
+msgstr "تنظیمات واترمارک"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__description
+msgid "توضیحات"
+msgstr "توضیحات"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "تیتر (گیرنده و موضوع)"
+msgstr "تیتر (گیرنده و موضوع)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ثبت شده"
+msgstr "ثبت‌شده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__registered
+msgid "ثبت شده / در جریان"
+msgstr "ثبت‌شده / در جریان"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "ثبت و شماره‌گذاری"
+msgstr "ثبت و شماره‌گذاری"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "ثبت‌شده / در جریان"
+msgstr "ثبت‌شده / در جریان"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "جستجوی نامه"
+msgstr "جستجوی نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "جلوگیری از تغییر پیشوند"
+msgstr "جلوگیری از تغییر پیشوند"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "جهت"
+msgstr "جهت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__action_type
+msgid "جهت / بابت"
+msgstr "جهت / بابت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__action_type__for_info
+msgid "جهت اطلاع"
+msgstr "جهت اطلاع"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__action_type__for_action
+msgid "جهت اقدام"
+msgstr "جهت اقدام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__action_type__for_signature
+msgid "جهت امضا"
+msgstr "جهت امضا"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_top_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_top_a4_en
+msgid "حاشیه بالا A4 انگلیسی (mm)"
+msgstr "حاشیه بالا A4 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_top_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_top_a4_fa
+msgid "حاشیه بالا A4 فارسی (mm)"
+msgstr "حاشیه بالا A4 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_top_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_top_a5_en
+msgid "حاشیه بالا A5 انگلیسی (mm)"
+msgstr "حاشیه بالا A5 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_top_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_top_a5_fa
+msgid "حاشیه بالا A5 فارسی (mm)"
+msgstr "حاشیه بالا A5 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_right_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_right_a4_en
+msgid "حاشیه راست A4 انگلیسی (mm)"
+msgstr "حاشیه راست A4 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_right_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_right_a4_fa
+msgid "حاشیه راست A4 فارسی (mm)"
+msgstr "حاشیه راست A4 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_right_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_right_a5_en
+msgid "حاشیه راست A5 انگلیسی (mm)"
+msgstr "حاشیه راست A5 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_right_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_right_a5_fa
+msgid "حاشیه راست A5 فارسی (mm)"
+msgstr "حاشیه راست A5 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_bottom_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_bottom_a4_en
+msgid "حاشیه پایین A4 انگلیسی (mm)"
+msgstr "حاشیه پایین A4 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_bottom_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_bottom_a4_fa
+msgid "حاشیه پایین A4 فارسی (mm)"
+msgstr "حاشیه پایین A4 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_bottom_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_bottom_a5_en
+msgid "حاشیه پایین A5 انگلیسی (mm)"
+msgstr "حاشیه پایین A5 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_bottom_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_bottom_a5_fa
+msgid "حاشیه پایین A5 فارسی (mm)"
+msgstr "حاشیه پایین A5 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_left_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_left_a4_en
+msgid "حاشیه چپ A4 انگلیسی (mm)"
+msgstr "حاشیه چپ A4 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_left_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_left_a4_fa
+msgid "حاشیه چپ A4 فارسی (mm)"
+msgstr "حاشیه چپ A4 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_left_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_left_a5_en
+msgid "حاشیه چپ A5 انگلیسی (mm)"
+msgstr "حاشیه چپ A5 انگلیسی (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__margin_left_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__margin_left_a5_fa
+msgid "حاشیه چپ A5 فارسی (mm)"
+msgstr "حاشیه چپ A5 فارسی (mm)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "حاشیه‌ها (Margins)"
+msgstr "حاشیه‌ها (Margins)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_res_company__letter_static_prefix
+#: model:ir.model.fields,help:meno_secretariat.field_res_config_settings__letter_static_prefix
+msgid ""
+"حرف یا عبارتی که در برخی الگوهای شماره‌گذاری به عنوان ثابت استفاده می‌شود."
+msgstr ""
+"حرف یا عبارتی که در برخی الگوهای شماره‌گذاری به عنوان ثابت استفاده می‌شود."
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter_copy__recipient_type__external
+msgid "خارجی (اشخاص/شرکت‌ها)"
+msgstr "خارجی (اشخاص/شرکت‌ها)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__is_read
+msgid "خوانده شده"
+msgstr "خوانده‌شده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_archive_confirm_wizard
+msgid "خیر، انصراف"
+msgstr "خیر، انصراف"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__urgency__very_urgent
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "خیلی فوری"
+msgstr "خیلی فوری"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__security_level__highly_confidential
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "خیلی محرمانه"
+msgstr "خیلی محرمانه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__letter_type__internal
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "داخلی"
+msgstr "داخلی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter_copy__recipient_type__internal
+msgid "داخلی (پرسنل)"
+msgstr "داخلی (پرسنل)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__has_attachment
+msgid "دارای پیوست"
+msgstr "دارای پیوست"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "دبیرخانه"
+msgstr "دبیرخانه"
+
+#. module: meno_secretariat
+#: model:res.groups,name:meno_secretariat.group_secretariat_manager
+msgid "دبیرخانه / مدیر (دسترسی کل)"
+msgstr "دبیرخانه / مدیر (دسترسی کل)"
+
+#. module: meno_secretariat
+#: model:res.groups,name:meno_secretariat.group_secretariat_user
+msgid "دبیرخانه / کاربر (کارتابل)"
+msgstr "دبیرخانه / کاربر (کارتابل)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__state__pending
+msgid "در انتظار"
+msgstr "در انتظار"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__to_sign
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "در انتظار امضا"
+msgstr "در انتظار امضا"
+
+#. module: meno_secretariat
+#: model:ir.actions.act_window,name:meno_secretariat.action_secretariat_letter_review
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_letter_review
+msgid "در انتظار بررسی"
+msgstr "در انتظار بررسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "در حال بررسی"
+msgstr "در حال بررسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__review
+msgid "در حال بررسی (دبیرخانه)"
+msgstr "در حال بررسی (دبیرخانه)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_res_company__is_sequence_locked
+#: model:ir.model.fields,help:meno_secretariat.field_res_config_settings__is_sequence_locked
+msgid "در صورت فعال بودن، توالی نامه‌ها به صورت دستی قابل ویرایش نخواهد بود."
+msgstr "در صورت فعال بودن، توالی نامه‌ها به صورت دستی قابل ویرایش نخواهد بود."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__reply_to_id
+msgid "در پاسخ به نامه (عطف)"
+msgstr "در پاسخ به نامه (عطف)"
+
+#. module: meno_secretariat
+#: model:res.groups,comment:meno_secretariat.group_secretariat_user
+msgid "دسترسی به کارتابل شخصی و نامه‌های مرتبط با خود کاربر."
+msgstr "دسترسی به کارتابل شخصی و نامه‌های مرتبط با خود کاربر."
+
+#. module: meno_secretariat
+#: model:res.groups,comment:meno_secretariat.group_secretariat_manager
+msgid "دسترسی کامل به تمامی نامه‌ها، ارجاعات و امکان ابطال پیش‌نویس‌ها."
+msgstr "دسترسی کامل به تمامی نامه‌ها، ارجاعات و امکان ابطال پیش‌نویس‌ها."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__paraph
+msgid "دستور / پاراف"
+msgstr "دستور / پاراف"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_reject_wizard_form
+msgid "دلیل خود را اینجا بنویسید..."
+msgstr "دلیل خود را اینجا بنویسید..."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__reason
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_reject_wizard_form
+msgid "دلیل رد نامه"
+msgstr "دلیل رد نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "راست (Right)"
+msgstr "راست (Right)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_route__state__rejected
+msgid "رد شد"
+msgstr "رد شد"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "رد نامه توسط امضاکننده"
+msgstr "رد نامه توسط امضاکننده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__sequence
+msgid "ردیف"
+msgstr "ردیف"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_attachment__attachment_type__media
+msgid "رسانه"
+msgstr "رسانه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "رنگ (CSS)"
+msgstr "رنگ (CSS)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_text_color
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_text_color
+msgid "رنگ واترمارک متنی"
+msgstr "رنگ واترمارک متنی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "رونوشت:"
+msgstr "رونوشت:"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__copy_ids
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "رونوشت‌ها"
+msgstr "رونوشت‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_letter_copy
+msgid "رونوشت‌های نامه"
+msgstr "رونوشت‌های نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__reset_sequence_yearly
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__reset_sequence_yearly
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "ریست سالانه (شمسی)"
+msgstr "بازنشانی سالانه (شمسی)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_res_company__reset_sequence_yearly
+#: model:ir.model.fields,help:meno_secretariat.field_res_config_settings__reset_sequence_yearly
+msgid "ریست شدن خودکار شمارنده در ابتدای هر سال شمسی."
+msgstr "بازنشانی خودکار شمارنده در ابتدای هر سال شمسی."
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__letter_language
+msgid "زبان نامه"
+msgstr "زبان نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__sahel
+msgid "ساحل (Sahel FD) - مدرن و خوانا"
+msgstr "ساحل (Sahel FD) - مدرن و خوانا"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__sahelbold
+msgid "ساحل بولد (Sahel Bold FD)"
+msgstr "ساحل بولد (Sahel Bold FD)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_6
+msgid "سال / شماره (الگوی ساده) (مثال: 1405/0001)"
+msgstr "سال / شماره (الگوی ساده) (مثال: 1405/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_4
+msgid "سال / نوع نامه / شماره (مثال: 1405/ص/0001)"
+msgstr "سال / نوع نامه / شماره (مثال: 1405/ص/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_3
+msgid "سال / پیشوند ثابت / شماره (مثال: 1405/م/0001)"
+msgstr "سال / پیشوند ثابت / شماره (مثال: 1405/م/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_2
+msgid "سال / کد واحد / شماره (مثال: 1405/42/0001)"
+msgstr "سال / کد واحد / شماره (مثال: 1405/42/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_5
+msgid "سال / کد واحد / نوع نامه / شماره (مثال: 1405/42/د/0001)"
+msgstr "سال / کد واحد / نوع نامه / شماره (مثال: 1405/42/د/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_1
+msgid "سال و ماه / کد واحد / شماره (مثال: 140502/42/0001)"
+msgstr "سال و ماه / کد واحد / شماره (مثال: 140502/42/0001)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_numbering_template__template_7
+msgid "سال و ماه و روز / شماره (مثال: 14050211/0001)"
+msgstr "سال و ماه و روز / شماره (مثال: 14050211/0001)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز زیرتیتر A4 (px)"
+msgstr "سایز زیرتیتر A4 (px)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز زیرتیتر A5 (px)"
+msgstr "سایز زیرتیتر A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_body_font_size_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_body_font_size_a4
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت بدنه A4 (px)"
+msgstr "سایز فونت بدنه A4 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_body_font_size_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_body_font_size_a5
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت بدنه A5 (px)"
+msgstr "سایز فونت بدنه A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_title_font_size_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_title_font_size_a4
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت تیتر A4 (px)"
+msgstr "سایز فونت تیتر A4 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_title_font_size_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_title_font_size_a5
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت تیتر A5 (px)"
+msgstr "سایز فونت تیتر A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_subtitle_font_size_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_subtitle_font_size_a4
+msgid "سایز فونت زیرتیتر A4 (px)"
+msgstr "سایز فونت زیرتیتر A4 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_subtitle_font_size_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_subtitle_font_size_a5
+msgid "سایز فونت زیرتیتر A5 (px)"
+msgstr "سایز فونت زیرتیتر A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_page_num_font_size
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_page_num_font_size
+msgid "سایز فونت شماره صفحه (px)"
+msgstr "سایز فونت شماره صفحه (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_meta_font_size
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_meta_font_size
+msgid "سایز فونت متادیتا (px)"
+msgstr "سایز فونت متادیتا (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_sign_name_font_size_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_sign_name_font_size_a4
+msgid "سایز فونت نام امضا A4 (px)"
+msgstr "سایز فونت نام امضا A4 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_sign_name_font_size_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_sign_name_font_size_a5
+msgid "سایز فونت نام امضا A5 (px)"
+msgstr "سایز فونت نام امضا A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_small_font_size_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_small_font_size_a4
+msgid "سایز فونت کوچک A4 (px)"
+msgstr "سایز فونت کوچک A4 (px)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت کوچک A4 (رونوشت، پاراف) (px)"
+msgstr "سایز فونت کوچک A4 (رونوشت، پاراف) (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_small_font_size_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_small_font_size_a5
+msgid "سایز فونت کوچک A5 (px)"
+msgstr "سایز فونت کوچک A5 (px)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز فونت کوچک A5 (رونوشت، پاراف) (px)"
+msgstr "سایز فونت کوچک A5 (رونوشت، پاراف) (px)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز نام امضاکننده A4 (px)"
+msgstr "سایز نام امضاکننده A4 (px)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "سایز نام امضاکننده A5 (px)"
+msgstr "سایز نام امضاکننده A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__security_level__secret
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "سری"
+msgstr "سری"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__security_level
+msgid "سطح طبقه‌بندی"
+msgstr "سطح طبقه‌بندی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__job_title
+msgid "سمت / عنوان"
+msgstr "سمت / عنوان"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__signer_job_title
+msgid "سمت امضاکننده"
+msgstr "سمت امضاکننده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__role_title
+msgid "سمت خطاب"
+msgstr "سمت خطاب"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_attachment__attachment_type__document
+msgid "سند"
+msgstr "سند"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__reference_ids
+msgid "سوابق مرتبط"
+msgstr "سوابق مرتبط"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__shabnam
+msgid "شبنم (Shabnam FD) - شرکتی و ساختاریافته"
+msgstr "شبنم (Shabnam FD) - شرکتی و ساختاریافته"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__shabnambold
+msgid "شبنم بولد (Shabnam Bold FD)"
+msgstr "شبنم بولد (Shabnam Bold FD)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "شرح دستور"
+msgstr "شرح دستور"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__company_id
+msgid "شرکت"
+msgstr "شرکت"
+
+#. module: meno_secretariat
+#: model_terms:ir.actions.act_window,help:meno_secretariat.action_secretariat_letter
+msgid ""
+"شما می‌توانید نامه‌های داخلی، صادره و وارده را مدیریت کرده و گردش کار آنها "
+"را کنترل کنید."
+msgstr ""
+"شما می‌توانید نامه‌های داخلی، صادره و وارده را مدیریت کرده و گردش کار آن‌ها "
+"را کنترل کنید."
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+msgid "شماره"
+msgstr "شماره"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__name
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "شماره اندیکاتور"
+msgstr "شماره اندیکاتور"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__original_letter_number
+msgid "شماره نامه فرستنده"
+msgstr "شماره نامه فرستنده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__archive_ref
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "شماره پرونده / بایگانی"
+msgstr "شماره پرونده / بایگانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__letter_type__outgoing
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "صادره"
+msgstr "صادره"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.layout_meno_letter
+msgid "صفحه"
+msgstr "صفحه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__samim
+msgid "صمیم (Samim FD) - ساده و روان"
+msgstr "صمیم (Samim FD) - ساده و روان"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__samimbold
+msgid "صمیم بولد (Samim Bold FD)"
+msgstr "صمیم بولد (Samim Bold FD)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__partner_id
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "طرف خارجی"
+msgstr "طرف خارجی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__security_level__normal
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__urgency__normal
+msgid "عادی"
+msgstr "عادی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__closing_phrase
+msgid "عبارت پایانی"
+msgstr "عبارت پایانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__name
+msgid "عنوان"
+msgstr "عنوان"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__addressee_title
+msgid "عنوان خطاب"
+msgstr "عنوان خطاب"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__letter_language__fa
+msgid "فارسی"
+msgstr "فارسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله از بالا"
+msgstr "فاصله از بالا"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله از بالا (Offset)"
+msgstr "فاصله از بالا (افست)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله از راست"
+msgstr "فاصله از راست"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله از چپ"
+msgstr "فاصله از چپ"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_block_margin_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_block_margin_a4
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله بین بلوک‌ها A4 (px)"
+msgstr "فاصله بین بلوک‌ها A4 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_block_margin_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_block_margin_a5
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله بین بلوک‌ها A5 (px)"
+msgstr "فاصله بین بلوک‌ها A5 (px)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_body_line_height_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_body_line_height_a4
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله خطوط بدنه A4"
+msgstr "فاصله خطوط بدنه A4"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_body_line_height_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_body_line_height_a5
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله خطوط بدنه A5"
+msgstr "فاصله خطوط بدنه A5"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_meta_line_heightA4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_meta_line_heightA4
+msgid "فاصله خطوط متادیتا A4"
+msgstr "فاصله خطوط متادیتا A4"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_meta_line_heightA5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_meta_line_heightA5
+msgid "فاصله خطوط متادیتا A5"
+msgstr "فاصله خطوط متادیتا A5"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__page_num_bottom_a4
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__page_num_bottom_a4
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله شماره صفحه از پایین A4 (mm)"
+msgstr "فاصله شماره صفحه از پایین A4 (mm)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__page_num_bottom_a5
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__page_num_bottom_a5
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله شماره صفحه از پایین A5 (mm)"
+msgstr "فاصله شماره صفحه از پایین A5 (mm)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فاصله‌گذاری بلوک‌ها"
+msgstr "فاصله‌گذاری بلوک‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__file_data
+msgid "فایل"
+msgstr "فایل"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__scanned_manual_signature
+msgid "فایل اسکن شده (امضای دستی)"
+msgstr "فایل اسکن‌شده (امضای دستی)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "فرستنده"
+msgstr "فرستنده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__sender_user_id
+msgid "فرستنده داخلی"
+msgstr "فرستنده داخلی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__urgency__urgent
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "فوری"
+msgstr "فوری"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "فوری / خیلی فوری"
+msgstr "فوری / خیلی فوری"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__urgency
+msgid "فوریت"
+msgstr "فوریت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_font_body
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_font_body
+msgid "فونت بدنه نامه"
+msgstr "فونت بدنه نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_font_title
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_font_title
+msgid "فونت عناوین نامه"
+msgstr "فونت عناوین نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "فونت‌ها"
+msgstr "فونت‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قالب A4 انگلیسی"
+msgstr "قالب A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قالب A4 فارسی"
+msgstr "قالب A4 فارسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قالب A5 انگلیسی"
+msgstr "قالب A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قالب A5 فارسی"
+msgstr "قالب A5 فارسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قالب شماره‌گذاری"
+msgstr "قالب شماره‌گذاری"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__is_sequence_locked
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__is_sequence_locked
+msgid "قفل کردن توالی"
+msgstr "قفل کردن توالی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "قفل کردن پیشوند دستی"
+msgstr "قفل کردن پیشوند دستی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "متادیتا (شماره، تاریخ، پیوست)"
+msgstr "متادیتا (شماره، تاریخ، پیوست)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__body
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "متن نامه"
+msgstr "متن نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_text_preview
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_text_preview
+msgid "متن واترمارک پیش‌نمایش"
+msgstr "متن واترمارک پیش‌نمایش"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_text_draft
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_text_draft
+msgid "متن واترمارک پیش‌نویس"
+msgstr "متن واترمارک پیش‌نویس"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__paraf_text
+msgid "متن پاراف / دستور"
+msgstr "متن پاراف / دستور"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "متن پیش‌نمایش"
+msgstr "متن پیش‌نمایش"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "متن پیش‌نویس"
+msgstr "متن پیش‌نویس"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "متن‌های واترمارک"
+msgstr "متن‌های واترمارک"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "مثال: جناب آقای / سرکار خانم"
+msgstr "مثال: جناب آقای / سرکار خانم"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_secretariat_letter_copy__action_type
+msgid "مثال: جهت استحضار"
+msgstr "مثال: جهت استحضار"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "مثال: علی رضایی"
+msgstr "مثال: علی رضایی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "مثال: مدیر فنی"
+msgstr "مثال: مدیر فنی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__security_level__confidential
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "محرمانه"
+msgstr "محرمانه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_right_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_right_a4_en
+msgid "مختصات X وب A4 انگلیسی"
+msgstr "مختصات X وب A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_left_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_left_a4_fa
+msgid "مختصات X وب A4 فارسی"
+msgstr "مختصات X وب A4 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_right_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_right_a5_en
+msgid "مختصات X وب A5 انگلیسی"
+msgstr "مختصات X وب A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_left_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_left_a5_fa
+msgid "مختصات X وب A5 فارسی"
+msgstr "مختصات X وب A5 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_left_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_left_a4_en
+msgid "مختصات X پی‌دی‌اف A4 انگلیسی"
+msgstr "مختصات X پی‌دی‌اف A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_right_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_right_a4_fa
+msgid "مختصات X پی‌دی‌اف A4 فارسی"
+msgstr "مختصات X پی‌دی‌اف A4 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_left_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_left_a5_en
+msgid "مختصات X پی‌دی‌اف A5 انگلیسی"
+msgstr "مختصات X پی‌دی‌اف A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_right_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_right_a5_fa
+msgid "مختصات X پی‌دی‌اف A5 فارسی"
+msgstr "مختصات X پی‌دی‌اف A5 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_top_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_top_a4_en
+msgid "مختصات Y وب A4 انگلیسی"
+msgstr "مختصات Y وب A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_top_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_top_a4_fa
+msgid "مختصات Y وب A4 فارسی"
+msgstr "مختصات Y وب A4 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_top_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_top_a5_en
+msgid "مختصات Y وب A5 انگلیسی"
+msgstr "مختصات Y وب A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_web_top_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_web_top_a5_fa
+msgid "مختصات Y وب A5 فارسی"
+msgstr "مختصات Y وب A5 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_top_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_top_a4_en
+msgid "مختصات Y پی‌دی‌اف A4 انگلیسی"
+msgstr "مختصات Y پی‌دی‌اف A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_top_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_top_a4_fa
+msgid "مختصات Y پی‌دی‌اف A4 فارسی"
+msgstr "مختصات Y پی‌دی‌اف A4 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_top_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_top_a5_en
+msgid "مختصات Y پی‌دی‌اف A5 انگلیسی"
+msgstr "مختصات Y پی‌دی‌اف A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__meta_pdf_top_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__meta_pdf_top_a5_fa
+msgid "مختصات Y پی‌دی‌اف A5 فارسی"
+msgstr "مختصات Y پی‌دی‌اف A5 فارسی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "مدیر محترم شرکت مِنوسافت"
+msgstr "مدیر محترم شرکت مِنوسافت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "مسئول بررسی"
+msgstr "مسئول بررسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__reviewer_id
+msgid "مسئول بررسی (پیش‌نویس)"
+msgstr "مسئول بررسی (پیش‌نویس)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_reviewer_ids
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_reviewer_ids
+msgid "مسئولین بررسی نامه"
+msgstr "مسئولین بررسی نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "مسئولین بررسی و تایید"
+msgstr "مسئولین بررسی و تأیید"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "مقدار پیشوند ثابت"
+msgstr "مقدار پیشوند ثابت"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "منتظر بررسی من"
+msgstr "منتظر بررسی من"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+msgid "مهلت پاسخ"
+msgstr "مهلت پاسخ"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__deadline_date
+msgid "مهلت پاسخ‌گویی"
+msgstr "مهلت پاسخ‌گویی"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "مهلت گذشته"
+msgstr "مهلت گذشته"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "مورخ"
+msgstr "مورخ"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "موضوع"
+msgstr "موضوع"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__subject
+msgid "موضوع نامه"
+msgstr "موضوع نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "موضوع:"
+msgstr "موضوع:"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "موقعیت متادیتا (خروجی PDF)"
+msgstr "موقعیت متادیتا (خروجی PDF)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "موقعیت متادیتا (نمایشگر وب)"
+msgstr "موقعیت متادیتا (نمایشگر وب)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__signer_name
+msgid "نام امضاکننده"
+msgstr "نام امضاکننده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__scanned_file_name
+msgid "نام فایل اسکن شده"
+msgstr "نام فایل اسکن‌شده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__name
+msgid "نام گیرنده"
+msgstr "نام گیرنده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_archive_confirm_wizard__letter_id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_reject_wizard__letter_id
+msgid "نامه"
+msgstr "نامه"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_letter
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "نامه اداری"
+msgstr "نامه اداری"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_attachment__attachment_type__letter
+msgid "نامه سیستمی"
+msgstr "نامه سیستمی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__letter_id
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__letter_id
+msgid "نامه مرتبط"
+msgstr "نامه مرتبط"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_attachment__linked_letter_id
+msgid "نامه پیوست شده"
+msgstr "نامه پیوست‌شده"
+
+#. module: meno_secretariat
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_letters
+msgid "نامه‌ها"
+msgstr "نامه‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "نامه‌های من (فرستنده)"
+msgstr "نامه‌های من (فرستنده)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__result_note
+msgid "نتیجه اقدام"
+msgstr "نتیجه اقدام"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__action_type
+msgid "نوع ارجاع"
+msgstr "نوع ارجاع"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__signature_type
+msgid "نوع امضا"
+msgstr "نوع امضا"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__letter_type
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "نوع نامه"
+msgstr "نوع نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__recipient_type
+msgid "نوع گیرنده"
+msgstr "نوع گیرنده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "هامش و دستورات:"
+msgstr "هامش و دستورات:"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_archive_confirm_wizard
+msgid "هشدار بایگانی"
+msgstr "هشدار بایگانی"
+
+#. module: meno_secretariat
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_letter_all
+msgid "همه نامه‌ها"
+msgstr "همه نامه‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "واترمارک بایگانی"
+msgstr "واترمارک بایگانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_archived_image
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_archived_image
+msgid "واترمارک حالت بایگانی"
+msgstr "واترمارک حالت بایگانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_draft_image
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_draft_image
+msgid "واترمارک حالت پیش‌نویس"
+msgstr "واترمارک حالت پیش‌نویس"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__watermark_global_image
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__watermark_global_image
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "واترمارک عمومی (لوگو)"
+msgstr "واترمارک عمومی (لوگو)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "واترمارک پیش‌نویس"
+msgstr "واترمارک پیش‌نویس"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__department_id
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_list
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "واحد سازمانی"
+msgstr "واحد سازمانی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__department_id
+msgid "واحد سازمانی / دپارتمان"
+msgstr "واحد سازمانی / دپارتمان"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__letter_type__incoming
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "وارده"
+msgstr "وارده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__vazirmatn
+msgid "وزیرمتن (Vazirmatn FD) - شرکتی و استاندارد وب"
+msgstr "وزیرمتن (Vazirmatn FD) - شرکتی و استاندارد وب"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__vazirmatnbold
+msgid "وزیرمتن بولد (Vazirmatn Bold FD)"
+msgstr "وزیرمتن بولد (Vazirmatn Bold FD)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__state
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__state
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "وضعیت"
+msgstr "وضعیت"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_archive_confirm_wizard
+msgid "ویزارد تایید بایگانی با شماره اندیکاتور"
+msgstr "ویزارد تأیید بایگانی با شماره اندیکاتور"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_reject_wizard
+msgid "ویزارد ثبت دلیل رد نامه"
+msgstr "ویزارد ثبت دلیل رد نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__paraf_ids
+msgid "پاراف‌ها / دستورات"
+msgstr "پاراف‌ها / دستورات"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "پاراف‌ها و دستورات"
+msgstr "پاراف‌ها و دستورات"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_letter_paraf
+msgid "پاراف‌ها و هامش‌های نامه"
+msgstr "پاراف‌ها و هامش‌های نامه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_paraf__user_id
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.letter_content_partial
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.report_letter_pdf_base
+msgid "پاراف‌کننده"
+msgstr "پاراف‌کننده"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "پایین (Bottom)"
+msgstr "پایین (Bottom)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__parastoo
+msgid "پرستو (Parastoo FD) - اداری و خوانا"
+msgstr "پرستو (Parastoo FD) - اداری و خوانا"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__parastoobold
+msgid "پرستو بولد (Parastoo Bold FD)"
+msgstr "پرستو بولد (Parastoo Bold FD)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "پس‌زمینه سربرگ"
+msgstr "پس‌زمینه سربرگ"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_bg_a4_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_bg_a4_en
+msgid "پس‌زمینه نامه A4 انگلیسی"
+msgstr "پس‌زمینه نامه A4 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_bg_a4_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_bg_a4_fa
+msgid "پس‌زمینه نامه A4 فارسی"
+msgstr "پس‌زمینه نامه A4 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_bg_a5_en
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_bg_a5_en
+msgid "پس‌زمینه نامه A5 انگلیسی"
+msgstr "پس‌زمینه نامه A5 انگلیسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_bg_a5_fa
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_bg_a5_fa
+msgid "پس‌زمینه نامه A5 فارسی"
+msgstr "پس‌زمینه نامه A5 فارسی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__followup_ids
+msgid "پیرو"
+msgstr "پیرو"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_static_prefix
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_static_prefix
+msgid "پیشوند ثابت"
+msgstr "پیشوند ثابت"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__letter_sequence_prefix
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__letter_sequence_prefix
+msgid "پیشوند شماره‌گذاری"
+msgstr "پیشوند شماره‌گذاری"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "پیشوند پایه"
+msgstr "پیشوند پایه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_res_company__letter_sequence_prefix
+#: model:ir.model.fields,help:meno_secretariat.field_res_config_settings__letter_sequence_prefix
+msgid "پیشوند پیش‌فرض برای رکوردها پیش از تخصیص شماره نهایی."
+msgstr "پیشوند پیش‌فرض برای رکوردها پیش از تخصیص شماره نهایی."
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "پیش‌نمایش"
+msgstr "پیش‌نمایش"
+
+#. module: meno_secretariat
+#: model:ir.actions.report,name:meno_secretariat.action_report_secretariat_letter_a4_web
+msgid "پیش‌نمایش نامه (A4 - Web)"
+msgstr "پیش‌نمایش نامه (A4 - وب)"
+
+#. module: meno_secretariat
+#: model:ir.actions.report,name:meno_secretariat.action_report_secretariat_letter_a5_web
+msgid "پیش‌نمایش نامه (A5 - Web)"
+msgstr "پیش‌نمایش نامه (A5 - وب)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__secretariat_letter__state__draft
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_search
+msgid "پیش‌نویس"
+msgstr "پیش‌نویس"
+
+#. module: meno_secretariat
+#: model:ir.actions.act_window,name:meno_secretariat.action_secretariat_letter_draft
+#: model:ir.ui.menu,name:meno_secretariat.menu_secretariat_letter_draft
+msgid "پیش‌نویس‌ها"
+msgstr "پیش‌نویس‌ها"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "پیوست"
+msgstr "پیوست"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__attachment_ids
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "پیوست‌ها"
+msgstr "پیوست‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model,name:meno_secretariat.model_secretariat_attachment
+msgid "پیوست‌های نامه"
+msgstr "پیوست‌های نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "چاپ رسمی نامه"
+msgstr "چاپ رسمی نامه"
+
+#. module: meno_secretariat
+#: model:ir.actions.report,name:meno_secretariat.action_report_secretariat_letter_a4_pdf
+msgid "چاپ نامه (A4 - PDF)"
+msgstr "چاپ نامه (A4 - PDF)"
+
+#. module: meno_secretariat
+#: model:ir.actions.report,name:meno_secretariat.action_report_secretariat_letter_a5_pdf
+msgid "چاپ نامه (A5 - PDF)"
+msgstr "چاپ نامه (A5 - PDF)"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "چاپ و صفحه"
+msgstr "چاپ و صفحه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_company__print_letter_background
+#: model:ir.model.fields,field_description:meno_secretariat.field_res_config_settings__print_letter_background
+msgid "چاپ پس‌زمینه سربرگ در خروجی PDF"
+msgstr "چاپ پس‌زمینه سربرگ در خروجی PDF"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.res_config_settings_view_form_secretariat
+msgid "چپ (Left)"
+msgstr "چپ (Left)"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__signer_user_id
+msgid "کاربر امضاکننده"
+msgstr "کاربر امضاکننده"
+
+#. module: meno_secretariat
+#: model:ir.actions.act_window,name:meno_secretariat.action_secretariat_letter
+msgid "کارتابل نامه‌ها"
+msgstr "کارتابل نامه‌ها"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_hr_department__secretariat_code
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_department_form_inherit_secretariat
+msgid "کد دبیرخانه"
+msgstr "کد دبیرخانه"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,help:meno_secretariat.field_hr_department__secretariat_code
+msgid "کد عددی واحد برای استفاده در شماره نامه"
+msgstr "کد عددی واحد برای استفاده در شماره نامه"
+
+#. module: meno_secretariat
+#: model_terms:ir.ui.view,arch_db:meno_secretariat.view_secretariat_letter_form
+msgid "گردش کار، امضا و قالب‌بندی"
+msgstr "گردش کار، امضا و قالب‌بندی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_route__to_user_id
+msgid "گیرنده"
+msgstr "گیرنده"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__partner_id
+msgid "گیرنده خارجی"
+msgstr "گیرنده خارجی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter_copy__employee_id
+msgid "گیرنده داخلی"
+msgstr "گیرنده داخلی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields,field_description:meno_secretariat.field_secretariat_letter__final_internal_recipient_id
+msgid "گیرنده نهایی داخلی"
+msgstr "گیرنده نهایی داخلی"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_body__yekanbakh
+msgid "یکان بخ (YekanBakh FaNum) - شرکتی و مینیمال"
+msgstr "یکان بخ (YekanBakh FaNum) - شرکتی و مینیمال"
+
+#. module: meno_secretariat
+#: model:ir.model.fields.selection,name:meno_secretariat.selection__res_company__letter_font_title__yekanbakhbold
+msgid "یکان بخ بولد (YekanBakh Bold FaNum)"
+msgstr "یکان بخ بولد (YekanBakh Bold FaNum)"

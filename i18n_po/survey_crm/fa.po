@@ -1,0 +1,294 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* survey_crm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:32+0000\n"
+"PO-Revision-Date: 2026-10-12 18:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "%(participant_name)s %(category_name)s results"
+msgstr "نتایج %(category_name)s برای %(participant_name)s"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "1-10 employees"
+msgstr "۱ تا ۱۰ کارمند"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "100+ employees"
+msgstr "بیش از ۱۰۰ کارمند"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "11-100 employees"
+msgstr "۱۱ تا ۱۰۰ کارمند"
+
+#. module: survey_crm
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_survey_view_kanban
+msgid ""
+"<br/>\n"
+"                        <span class=\"text-muted\">Leads</span>"
+msgstr ""
+"<br/>\n"
+"                        <span class=\"text-muted\">سرنخ‌ها</span>"
+
+#. module: survey_crm
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_user_input_view_form
+msgid "<span class=\"o_stat_text\">Lead</span>"
+msgstr "<span class=\"o_stat_text\">سرنخ</span>"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "A team/committee"
+msgstr "یک تیم / کمیته"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "Answers"
+msgstr "پاسخ‌ها"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__team_id
+msgid "Assign Leads to"
+msgstr "تخصیص سرنخ‌ها به"
+
+#. module: survey_crm
+#: model:ir.model.fields,help:survey_crm.field_survey_question__generate_lead
+msgid "At least one of the question answers can generate leads."
+msgstr "حداقل یکی از پاسخ‌های این پرسش قابلیت ایجاد سرنخ فروش دارد."
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "Comment"
+msgstr "توضیح"
+
+#. module: survey_crm
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_question_view_form
+msgid "Create Leads"
+msgstr "ایجاد سرنخ‌ها"
+
+#. module: survey_crm
+#: model:ir.model,website_form_label:survey_crm.model_crm_lead
+msgid "Create an Opportunity"
+msgstr "ایجاد فرصت فروش"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Create leads when key answers are chosen"
+msgstr "ایجاد سرنخ در صورت انتخاب پاسخ‌های کلیدی"
+
+#. module: survey_crm
+#: model:ir.model.fields,help:survey_crm.field_survey_question_answer__generate_lead
+msgid "Creates a lead when participants choose this answer"
+msgstr "در صورت انتخاب این پاسخ توسط شرکت‌کنندگان، یک سرنخ ایجاد می‌شود"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_crm_lead__display_name
+#: model:ir.model.fields,field_description:survey_crm.field_crm_team__display_name
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question__display_name
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question_answer__display_name
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__display_name
+#: model:ir.model.fields,field_description:survey_crm.field_survey_user_input__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Expanding sales"
+msgstr "توسعه و رشد فروش"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Getting to know you"
+msgstr "آشنایی بیشتر با شما"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_crm_lead__id
+#: model:ir.model.fields,field_description:survey_crm.field_crm_team__id
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question__id
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question_answer__id
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__id
+#: model:ir.model.fields,field_description:survey_crm.field_survey_user_input__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Improving efficiency"
+msgstr "بهبود بهره‌وری و کارایی"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_crm_lead
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__lead_ids
+#: model:ir.model.fields,field_description:survey_crm.field_survey_user_input__lead_id
+msgid "Lead"
+msgstr "سرنخ"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question__generate_lead
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__generate_lead
+msgid "Lead Generating"
+msgstr "تولید سرنخ"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Lead Qualification"
+msgstr "اعتبارسنجی و واجد شرایط‌سازی سرنخ"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question_answer__generate_lead
+msgid "Lead creation"
+msgstr "ایجاد سرنخ"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_survey_survey__lead_count
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_survey_view_form
+msgid "Leads"
+msgstr "سرنخ‌ها"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Let's start with a basic question. What's your email address?"
+msgstr "بیایید با یک پرسش اساسی شروع کنیم. آدرس ایمیل شما چیست؟"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Me"
+msgstr "خودم"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "My Manager/Executive"
+msgstr "مدیر مستقیم / مقام ارشد من"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "New"
+msgstr "جدید"
+
+#. module: survey_crm
+#: model:ir.model.fields,help:survey_crm.field_survey_survey__lead_count
+msgid "Number of leads created by this survey"
+msgstr "تعداد سرنخ‌های ایجادشده توسط این نظرسنجی"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Reducing costs"
+msgstr "کاهش هزینه‌ها"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_crm_team
+msgid "Sales Team"
+msgstr "تیم فروش"
+
+#. module: survey_crm
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_survey_view_form
+msgid "Select a Sales team"
+msgstr "انتخاب یک تیم فروش"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "Skipped"
+msgstr "رد شده"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_survey_survey
+#: model:ir.model.fields,field_description:survey_crm.field_crm_lead__origin_survey_id
+msgid "Survey"
+msgstr "نظرسنجی"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_survey_question_answer
+msgid "Survey Label"
+msgstr "برچسب نظرسنجی"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_survey_question
+msgid "Survey Question"
+msgstr "سوال نظرسنجی"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_survey_question__survey_type
+msgid "Survey Type"
+msgstr "نوع نظرسنجی"
+
+#. module: survey_crm
+#: model:ir.model,name:survey_crm.model_survey_user_input
+msgid "Survey User Input"
+msgstr "پاسخ ورودی کاربر در نظرسنجی"
+
+#. module: survey_crm
+#: model:ir.model.fields,field_description:survey_crm.field_crm_team__origin_survey_ids
+msgid "Survey opportunities related to the sales team"
+msgstr "بررسی فرصت‌های فروش مربوط به این تیم فروش"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Thanks for answering!"
+msgstr "از پاسخگویی شما متشکریم!"
+
+#. module: survey_crm
+#: model_terms:ir.ui.view,arch_db:survey_crm.survey_survey_view_form
+msgid "This question generates leads"
+msgstr "این سوال سرنخ فروش ایجاد می‌کند"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "What is the size of your company?"
+msgstr "اندازه شرکت شما چند نفر است؟"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Which of the following best describes your main goal?"
+msgstr "کدام‌یک از گزینه‌های زیر بیانگر هدف اصلی شماست؟"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/templates/survey_survey.py:0
+msgid "Who will make the final decision on this purchase?"
+msgstr "چه کسی تصمیم‌گیرنده نهایی برای این خرید خواهد بود؟"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "live session"
+msgstr "جلسه زنده"
+
+#. module: survey_crm
+#. odoo-python
+#: code:addons/survey_crm/models/survey_user_input.py:0
+msgid "survey"
+msgstr "نظرسنجی"

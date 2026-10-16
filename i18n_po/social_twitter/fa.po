@@ -1,0 +1,730 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* social_twitter
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:29+0000\n"
+"PO-Revision-Date: 2026-10-12 18:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_post_template.py:0
+msgid "%(current_length)s / %(max_length)s characters to fit in a Post"
+msgstr "%(current_length)s / %(max_length)s کاراکتر برای جا شدن در یک پست"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.twitter_preview
+msgid "11m"
+msgstr "۱۱ دقیقه"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.twitter_preview
+msgid "<b class=\"text-900\">X Account</b>"
+msgstr "<b class=\"text-900\">حساب ایکس (توییتر)</b>"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "<i class=\"fa fa-comments me-1\" title=\"Comments\"/>"
+msgstr "<i class=\"fa fa-comments me-1\" title=\"نظرات\"/>"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "<i class=\"fa fa-heart me-1\" title=\"Likes\"/>"
+msgstr "<i class=\"fa fa-heart me-1\" title=\"پسندها\"/>"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid ""
+"<i class=\"fa fa-pencil me-1\" title=\"Quote a post\"/>\n"
+"                                    <span>Quote</span>"
+msgstr ""
+"<i class=\"fa fa-pencil me-1\" title=\"نقل‌قول از یک پست\"/>\n"
+"                                    <span>نقل‌قول</span>"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "<i class=\"fa fa-retweet me-1\" title=\"Repost a post\"/>"
+msgstr "<i class=\"fa fa-retweet me-1\" title=\"بازنشر پست\"/>"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "A repost already exists"
+msgstr "بازنشر این پست از قبل وجود دارد"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "Authentication failed. Please enter valid credentials."
+msgstr "احراز هویت ناموفق بود. لطفاً مشخصات معتبر وارد کنید."
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "Author Image"
+msgstr "تصویر نویسنده"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid ""
+"Can not like / unlike the tweet\n"
+"%s."
+msgstr ""
+"امکان پسندیدن / لغو پسندیدن توییت وجود ندارد\n"
+"%s."
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "Cancel"
+msgstr "لغو"
+
+#. module: social_twitter
+#: model:ir.model.fields,help:social_twitter.field_res_config_settings__twitter_use_own_account
+msgid ""
+"Check this if you want to use your personal X Developer Account instead of "
+"the provided one."
+msgstr ""
+"اگر می‌خواهید به جای حساب پیش‌فرض، از حساب توسعه‌دهنده شخصی ایکس (توییتر) "
+"خود استفاده کنید، این گزینه را علامت بزنید."
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.res_config_settings_view_form
+msgid "Consumer Key"
+msgstr "کلید مصرف‌کننده (Consumer Key)"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.res_config_settings_view_form
+msgid "Consumer Secret Key"
+msgstr "کلید محرمانه مصرف‌کننده (Consumer Secret Key)"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__create_uid
+msgid "Created by"
+msgstr "ایجادشده توسط"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__description
+msgid "Description"
+msgstr "توضیحات"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_account__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_live_post__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_media__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__display_name
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__display_twitter_preview
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__display_twitter_preview
+msgid "Display X Preview"
+msgstr "نمایش پیش‌نمایش ایکس"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_comments.js:0
+msgid ""
+"Easy, tiger! No spamming allowed. Let's stick to three replies per Tweet."
+msgstr ""
+"یواش‌تر! ارسال هرزنامه مجاز نیست. لطفاً به حداکثر سه پاسخ در هر توییت اکتفا "
+"کنید."
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "Empty post"
+msgstr "پست خالی"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_kanban_record.js:0
+msgid "Error"
+msgstr "خطا"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_twitter_quote.js:0
+msgid "Error while sending the data to the server."
+msgstr "خطا در هنگام ارسال داده‌ها به سرور."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid ""
+"Failed to delete the post\n"
+"%s."
+msgstr ""
+"حذف پست ناموفق بود\n"
+"%s."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid ""
+"Failed to fetch the posts in the same thread: '%(text)s' using the account "
+"%(account)s."
+msgstr ""
+"دریافت پست‌های موجود در همان رشته (Thread): '%(text)s' با استفاده از حساب "
+"%(account)s ناموفق بود."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "Failed to post comment: %(error)s with the account %(account)s."
+msgstr "ارسال نظر: %(error)s با حساب %(account)s ناموفق بود."
+
+#. module: social_twitter
+#: model:social.stream.type,name:social_twitter.stream_type_twitter_likes
+msgid "Favorites of"
+msgstr "موردپسندهای"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__has_twitter_account
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__has_twitter_account
+msgid "Has X Account"
+msgstr "دارای حساب ایکس است"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_res_config_settings__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_account__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_live_post__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_media__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__id
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__image
+msgid "Image"
+msgstr "تصویر"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_post_template_view_form
+msgid "Images"
+msgstr "تصاویر"
+
+#. module: social_twitter
+#: model:social.stream.type,name:social_twitter.stream_type_twitter_keyword
+msgid "Keyword"
+msgstr "کلمه کلیدی"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "Likes"
+msgstr "پسندها"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream.py:0
+msgid ""
+"Looks like you've made too many requests. Please wait a few minutes before "
+"giving it another try."
+msgstr ""
+"به نظر می‌رسد درخواست‌های زیادی ارسال کرده‌اید. لطفاً چند دقیقه صبر کنید و "
+"سپس دوباره تلاش کنید."
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_media__media_type
+msgid "Media Type"
+msgstr "نوع رسانه"
+
+#. module: social_twitter
+#: model:social.stream.type,name:social_twitter.stream_type_twitter_user_mentions
+msgid "Mentions"
+msgstr "منشن‌ها"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_post_template_view_form
+msgid "Message"
+msgstr "پیام"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__name
+msgid "Name"
+msgstr "نام"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_media.py:0
+msgid ""
+"Oops! You currently don't have an active subscription. No worries, though! You can easily get one here: %s.\n"
+"Grab a subscription and unlock a world of amazing features!"
+msgstr ""
+"اوه! شما در حال حاضر اشتراک فعالی ندارید. اما جای نگرانی نیست! به راحتی می‌توانید آن را از اینجا تهیه کنید: %s.\n"
+"اشتراک تهیه کنید و دنیایی از امکانات شگفت‌انگیز را باز کنید!"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream.py:0
+msgid "Please select a X account for this stream type."
+msgstr "لطفاً یک حساب ایکس برای این نوع جریان (Stream) انتخاب کنید."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_post_template.py:0
+msgid "Please specify either an X Message or upload some X Images."
+msgstr "لطفاً یا یک پیام ایکس مشخص کنید یا چند تصویر ایکس بارگذاری نمایید."
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "Post"
+msgstr "پست / ارسال"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.twitter_preview
+msgid "Post Image"
+msgstr "تصویر پست"
+
+#. module: social_twitter
+#: model:social.stream.type,name:social_twitter.stream_type_twitter_follow
+msgid "Posts of"
+msgstr "پست‌های"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_kanban_record.js:0
+msgid "Quote a Tweet"
+msgstr "نقل‌قول از یک توییت"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_quoted_tweet_author_link
+msgid "Quoted post author Link"
+msgstr "لینک نویسنده پست نقل‌قول‌شده"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_quoted_tweet_author_name
+msgid "Quoted post author Name"
+msgstr "نام نویسنده پست نقل‌قول‌شده"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_quoted_tweet_message
+msgid "Quoted post message"
+msgstr "متن پست نقل‌قول‌شده"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_quoted_tweet_profile_image_url
+msgid "Quoted post profile image URL"
+msgstr "آدرس تصویر پروفایل نویسنده پست نقل‌قول‌شده"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "Read More about X Accounts"
+msgstr "مطالعه بیشتر درباره حساب‌های ایکس"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "Repost"
+msgstr "بازنشر"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "Repost or Quote"
+msgstr "بازنشر یا نقل‌قول"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_retweet_count
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "Reposts"
+msgstr "بازنشرها"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__twitter_searched_keyword
+msgid "Search Keyword"
+msgstr "جستجوی کلمه کلیدی"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__twitter_followed_account_search
+msgid "Search User"
+msgstr "جستجوی کاربر"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__twitter_searched_by_id
+msgid "Searched by"
+msgstr "جستجوشده توسط"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "See older replies on x.com"
+msgstr "مشاهده پاسخ‌های قدیمی‌تر در x.com"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_account
+msgid "Social Account"
+msgstr "حساب شبکه‌های اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_live_post
+msgid "Social Live Post"
+msgstr "پست زنده اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_media
+msgid "Social Media"
+msgstr "شبکه‌های اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_post
+msgid "Social Post"
+msgstr "پست اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_post_template
+msgid "Social Post Template"
+msgstr "قالب پست اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_stream
+msgid "Social Stream"
+msgstr "جریان اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_stream_post
+msgid "Social Stream Post"
+msgstr "پست جریان اجتماعی"
+
+#. module: social_twitter
+#: model:ir.model,name:social_twitter.model_social_twitter_account
+msgid "Social X Account"
+msgstr "حساب اجتماعی ایکس"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream.py:0
+msgid ""
+"The keyword you've typed in does not look valid. Please try again with other"
+" words."
+msgstr ""
+"کلمه کلیدی واردشده معتبر به نظر نمی‌رسد. لطفاً با کلمات دیگری امتحان کنید."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_media.py:0
+msgid ""
+"The url that this service requested returned an error. Please contact the "
+"author of the app."
+msgstr ""
+"آدرس اینترنتی (URL) درخواستی توسط این سرویس خطایی بازگرداند. لطفاً با سازنده"
+" برنامه تماس بگیرید."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "This Post has been deleted."
+msgstr "این پست حذف شده است."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "This post is outdated, please refresh the stream and try again."
+msgstr "این پست قدیمی است، لطفاً جریان را تازه‌سازی کرده و دوباره تلاش کنید."
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_comment.js:0
+msgid "Tweet"
+msgstr "توییت"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_post_template_view_form
+msgid "Twitter"
+msgstr "توییتر"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_view_form
+msgid "Twitter Account"
+msgstr "حساب توییتر"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/js/stream_post_kanban_record.js:0
+msgid "Twitter Comments"
+msgstr "نظرات توییتر"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__twitter_followed_account_id
+msgid "Twitter Followed Account"
+msgstr "حساب دنبال‌شده در توییتر"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "Unauthorized. Please contact your administrator."
+msgstr "غیرمجاز. لطفاً با مدیر سیستم خود تماس بگیرید."
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_post_view_kanban
+msgid "Undo Repost"
+msgstr "لغو بازنشر"
+
+#. module: social_twitter
+#. odoo-javascript
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream.py:0
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "Unknown"
+msgstr "ناشناخته"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "Unknown error"
+msgstr "خطای ناشناخته"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_res_config_settings__twitter_use_own_account
+msgid "Use your own X Account"
+msgstr "استفاده از حساب ایکس شخصی خود"
+
+#. module: social_twitter
+#: model:ir.model.fields,help:social_twitter.field_social_media__media_type
+msgid ""
+"Used to make comparisons when we need to restrict some features to a "
+"specific media ('facebook', 'x', ...)."
+msgstr ""
+"برای مقایسه‌ زمانی استفاده می‌شود که نیاز داریم برخی امکانات را به یک رسانه "
+"خاص محدود کنیم ('facebook', 'x', ...)."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_account.py:0
+msgid ""
+"We could not upload your image, it may be corrupted, it may exceed size "
+"limit or API may have send improper response (error: %s)."
+msgstr ""
+"امکان بارگذاری تصویر شما وجود نداشت؛ ممکن است فایل خراب باشد، از حد مجاز "
+"اندازه تجاوز کرده باشد یا رابط برنامه‌نویسی (API) پاسخ نامناسبی ارسال کرده "
+"باشد (خطا: %s)."
+
+#. module: social_twitter
+#: model:ir.model.fields,help:social_twitter.field_social_post__twitter_image_ids
+#: model:ir.model.fields,help:social_twitter.field_social_post_template__twitter_image_ids
+msgid "Will attach images to your posts."
+msgstr "تصاویر را به پست‌های شما پیوست خواهد کرد."
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_author_id
+msgid "X Author ID"
+msgstr "شناسه نویسنده در ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_res_config_settings__twitter_consumer_key
+msgid "X Consumer Key"
+msgstr "کلید مصرف‌کننده ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_res_config_settings__twitter_consumer_secret_key
+msgid "X Consumer Secret Key"
+msgstr "کلید محرمانه مصرف‌کننده ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_conversation_id
+msgid "X Conversation ID"
+msgstr "شناسه گفتگو در ایکس"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.res_config_settings_view_form
+msgid "X Developer Account"
+msgstr "حساب توسعه‌دهنده ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_twitter_account__twitter_id
+msgid "X ID"
+msgstr "شناسه ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__twitter_image_ids
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__twitter_image_ids
+msgid "X Images"
+msgstr "تصاویر ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_likes_count
+msgid "X Likes"
+msgstr "پسندهای ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__twitter_message
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__twitter_message
+msgid "X Message"
+msgstr "پیام ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_account__twitter_oauth_token
+msgid "X OAuth Token"
+msgstr "توکن احراز هویت ایکس (OAuth)"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_account__twitter_oauth_token_secret
+msgid "X OAuth Token Secret"
+msgstr "توکن محرمانه احراز هویت ایکس (OAuth)"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_tweet_id
+msgid "X Post ID"
+msgstr "شناسه پست ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__is_twitter_post_limit_exceed
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__is_twitter_post_limit_exceed
+msgid "X Post Limit Exceeded"
+msgstr "حد مجاز ارسال پست در ایکس به پایان رسید"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__twitter_post_limit_message
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__twitter_post_limit_message
+msgid "X Post Limit Message"
+msgstr "پیام محدودیت پست ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_post__twitter_preview
+#: model:ir.model.fields,field_description:social_twitter.field_social_post_template__twitter_preview
+msgid "X Preview"
+msgstr "پیش‌نمایش ایکس"
+
+#. module: social_twitter
+#. odoo-javascript
+#: code:addons/social_twitter/static/src/xml/social_twitter_templates.xml:0
+msgid "X Profile Image"
+msgstr "تصویر پروفایل ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_profile_image_url
+msgid "X Profile Image URL"
+msgstr "آدرس تصویر پروفایل ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_quoted_tweet_id_str
+msgid "X Quoted post ID"
+msgstr "شناسه پست نقل‌قول‌شده در ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_comments_count
+msgid "X Replies"
+msgstr "پاسخ‌های ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_retweeted_tweet_id_str
+msgid "X Repost ID"
+msgstr "شناسه بازنشر ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_can_retweet
+msgid "X Repost Permission"
+msgstr "مجوز بازنشر در ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_screen_name
+msgid "X Screen Name"
+msgstr "نام کاربری (Screen Name) در ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_account__twitter_user_id
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream__twitter_account_user_id
+msgid "X User ID"
+msgstr "شناسه کاربر ایکس"
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_stream_post__twitter_user_likes
+msgid "X User Likes"
+msgstr "پسندهای کاربر ایکس"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "X did not provide a valid access token or it may have expired."
+msgstr "ایکس توکن دسترسی معتبری ارائه نکرده یا ممکن است منقضی شده باشد."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/controllers/main.py:0
+msgid "X did not provide a valid access token."
+msgstr "ایکس توکن دسترسی معتبری ارائه نکرد."
+
+#. module: social_twitter
+#: model:ir.model.fields,field_description:social_twitter.field_social_live_post__twitter_tweet_id
+msgid "X post id"
+msgstr "شناسه پست ایکس"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream_post.py:0
+msgid "You are not authenticated"
+msgstr "شما احراز هویت نشده‌اید"
+
+#. module: social_twitter
+#: model:ir.model.constraint,message:social_twitter.constraint_social_stream_post_tweet_uniq
+msgid "You can not store two times the same post on the same stream!"
+msgstr "نمی‌توانید یک پست را دو بار در یک جریان ذخیره کنید!"
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_stream.py:0
+msgid ""
+"You cannot create a Stream from this X account.\n"
+"It may be because it's protected. To solve this, please make sure you follow it before trying again."
+msgstr ""
+"نمی‌توانید از این حساب ایکس جریانی (Stream) ایجاد کنید.\n"
+"ممکن است به این دلیل باشد که حساب محافظت‌شده (Protected) است. برای رفع این مشکل، لطفاً پیش از تلاش مجدد، آن را دنبال کنید."
+
+#. module: social_twitter
+#. odoo-python
+#: code:addons/social_twitter/models/social_media.py:0
+msgid ""
+"You need to add the following callback URL to your X application settings: "
+"%s"
+msgstr ""
+"باید آدرس بازگشت (Callback URL) زیر را به تنظیمات اپلیکیشن ایکس خود اضافه "
+"کنید: %s"
+
+#. module: social_twitter
+#: model_terms:ir.ui.view,arch_db:social_twitter.social_stream_view_form
+msgid "e.g. #odoo"
+msgstr "مثال: #odoo"

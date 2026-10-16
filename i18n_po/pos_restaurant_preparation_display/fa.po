@@ -1,0 +1,101 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* pos_restaurant_preparation_display
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:16+0000\n"
+"PO-Revision-Date: 2026-10-12 18:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: pos_restaurant_preparation_display
+#. odoo-python
+#: code:addons/pos_restaurant_preparation_display/models/pos_prep_order.py:0
+msgid "Course"
+msgstr "دوره غذایی"
+
+#. module: pos_restaurant_preparation_display
+#. odoo-python
+#: code:addons/pos_restaurant_preparation_display/models/pos_prep_order.py:0
+msgid "Course %s Fired"
+msgstr "دوره %s ارسال/ثبت شد"
+
+#. module: pos_restaurant_preparation_display
+#. odoo-python
+#: code:addons/pos_restaurant_preparation_display/models/pos_prep_order.py:0
+msgid "Course %s Updated"
+msgstr "دوره %s به‌روزرسانی شد"
+
+#. module: pos_restaurant_preparation_display
+#. odoo-python
+#: code:addons/pos_restaurant_preparation_display/models/pos_prep_order.py:0
+msgid "Direct Sale"
+msgstr "فروش مستقیم"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_config__display_name
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_order__display_name
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_prep_display__display_name
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_prep_order__display_name
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_restaurant_order_course__display_name
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_restaurant_table__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_config__id
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_order__id
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_prep_display__id
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_prep_order__id
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_restaurant_order_course__id
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_restaurant_table__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_restaurant_order_course
+msgid "POS Restaurant Order Course"
+msgstr "دوره سفارش رستوران پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#. odoo-javascript
+#: code:addons/pos_restaurant_preparation_display/static/src/app/components/order/order.xml:0
+msgid "Pending"
+msgstr "معلق"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_pos_config
+msgid "Point of Sale Configuration"
+msgstr "پیکربندی پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "سفارشات پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model.fields,field_description:pos_restaurant_preparation_display.field_pos_prep_order__pos_course_id
+msgid "Pos Course"
+msgstr "دوره پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_pos_prep_display
+msgid "Pos Preparation Display"
+msgstr "نمایش آماده‌سازی پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_pos_prep_order
+msgid "Pos Preparation Order"
+msgstr "سفارش آماده‌سازی پایانه فروش"
+
+#. module: pos_restaurant_preparation_display
+#: model:ir.model,name:pos_restaurant_preparation_display.model_restaurant_table
+msgid "Restaurant Table"
+msgstr "میز رستوران"

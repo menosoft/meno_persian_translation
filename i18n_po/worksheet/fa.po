@@ -1,0 +1,209 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* worksheet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:36+0000\n"
+"PO-Revision-Date: 2026-10-12 18:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid "%s (copy)"
+msgstr "%s (کپی)"
+
+#. module: worksheet
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_form
+msgid "<span class=\"o_stat_text\">Worksheets</span>"
+msgstr "<span class=\"o_stat_text\">کاربرگ‌ها</span>"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__action_id
+msgid "Action"
+msgstr "کنش"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__active
+msgid "Active"
+msgstr "فعال"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_form
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_list
+msgid "Analysis"
+msgstr "تحلیل"
+
+#. module: worksheet
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_form
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_search
+msgid "Archived"
+msgstr "بایگانی‌شده"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__company_id
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_search
+msgid "Company"
+msgstr "شرکت"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__create_uid
+msgid "Created by"
+msgstr "ایجادشده توسط"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: worksheet
+#. odoo-javascript
+#: code:addons/worksheet/static/src/open_studio_button_widget/open_studio_button_widget.xml:0
+msgid "Design Template"
+msgstr "طراحی قالب"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_ir_model__display_name
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__res_model
+msgid "Host Model"
+msgstr "مدل میزبان"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_ir_model__id
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid ""
+"Keep track of and analyze intervention data. Identify recurring patterns and"
+" take preventive measures accordingly."
+msgstr ""
+"ردیابی و تحلیل داده‌های مداخله. شناسایی الگوهای تکرارشونده و اتخاذ اقدامات "
+"پیشگیرانه متناسب."
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__model_id
+msgid "Model"
+msgstr "مدل"
+
+#. module: worksheet
+#: model:ir.model,name:worksheet.model_ir_model
+msgid "Models"
+msgstr "مدل‌ها"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__name
+msgid "Name"
+msgstr "نام"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid "No data to display"
+msgstr "داده‌ای برای نمایش وجود ندارد"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__report_view_id
+msgid "Report View"
+msgstr "نمای گزارش"
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__sequence
+msgid "Sequence"
+msgstr "ترتیب"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid "The host model name should be an existing model."
+msgstr "نام مدل میزبان باید یک مدل موجود باشد."
+
+#. module: worksheet
+#: model:ir.model.fields,help:worksheet.field_worksheet_template__res_model
+msgid "The model that is using this template"
+msgstr "مدلی که از این قالب استفاده می‌کند"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid ""
+"The template to print this worksheet template should be a QWeb template."
+msgstr "قالب چاپ این کاربرگ باید یک قالب QWeb باشد."
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid ""
+"Unfortunately, you cannot unlink this worksheet template from %s because the"
+" template is still connected to tasks within the company."
+msgstr ""
+"متأسفانه نمی‌توانید این قالب کاربرگ را از %s جدا کنید زیرا این قالب همچنان "
+"به وظایفی در داخل شرکت متصل است."
+
+#. module: worksheet
+#: model:ir.model.fields,field_description:worksheet.field_worksheet_template__worksheet_count
+msgid "Worksheet Count"
+msgstr "تعداد کاربرگ‌ها"
+
+#. module: worksheet
+#: model:ir.model,name:worksheet.model_worksheet_template
+msgid "Worksheet Template"
+msgstr "قالب کاربرگ"
+
+#. module: worksheet
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_search
+msgid "Worksheet Template Search"
+msgstr "جستجوی قالب کاربرگ"
+
+#. module: worksheet
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_list
+msgid "Worksheets"
+msgstr "کاربرگ‌ها"
+
+#. module: worksheet
+#. odoo-python
+#: code:addons/worksheet/models/worksheet_template.py:0
+msgid ""
+"You can't restrict this worksheet template to '%(selected_company)s' because"
+" it's still connected to tasks in '%(tasks_company)s' (and potentially other"
+" companies). Please either unlink those tasks from this worksheet template, "
+"move them to a project for the right company, or keep this worksheet "
+"template open to all companies."
+msgstr ""
+"شما نمی‌توانید این قالب کاربرگ را به «%(selected_company)s» محدود کنید زیرا "
+"هنوز به وظایفی در «%(tasks_company)s» (و احتمالاً شرکت‌های دیگر) متصل است. "
+"لطفاً یا آن وظایف را از این قالب کاربرگ جدا کنید، آن‌ها را به پروژه‌ای برای "
+"شرکت صحیح منتقل کنید، یا این قالب کاربرگ را برای تمام شرکت‌ها باز نگه دارید."
+
+#. module: worksheet
+#: model_terms:ir.ui.view,arch_db:worksheet.worksheet_template_view_form
+msgid "e.g Device Installation"
+msgstr "به‌عنوان مثال: نصب دستگاه"

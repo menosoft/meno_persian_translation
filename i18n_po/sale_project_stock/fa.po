@@ -1,0 +1,105 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sale_project_stock
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:28+0000\n"
+"PO-Revision-Date: 2026-10-12 18:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_project_stock
+#: model:ir.model.fields,field_description:sale_project_stock.field_project_project__display_name
+#: model:ir.model.fields,field_description:sale_project_stock.field_sale_order_line__display_name
+#: model:ir.model.fields,field_description:sale_project_stock.field_stock_move__display_name
+#: model:ir.model.fields,field_description:sale_project_stock.field_stock_picking__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: sale_project_stock
+#: model:ir.model.fields,field_description:sale_project_stock.field_project_project__id
+#: model:ir.model.fields,field_description:sale_project_stock.field_sale_order_line__id
+#: model:ir.model.fields,field_description:sale_project_stock.field_stock_move__id
+#: model:ir.model.fields,field_description:sale_project_stock.field_stock_picking__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: sale_project_stock
+#: model_terms:ir.actions.act_window,help:sale_project_stock.stock_move_per_sale_order_line_action
+msgid "No stock move found"
+msgstr "هیچ انتقال موجودی یافت نشد"
+
+#. module: sale_project_stock
+#: model:ir.model,name:sale_project_stock.model_project_project
+msgid "Project"
+msgstr "پروژه"
+
+#. module: sale_project_stock
+#: model:ir.model,name:sale_project_stock.model_sale_order_line
+msgid "Sales Order Line"
+msgstr "سطر سفارش فروش"
+
+#. module: sale_project_stock
+#: model:ir.model,name:sale_project_stock.model_stock_move
+msgid "Stock Move"
+msgstr "انتقال موجودی"
+
+#. module: sale_project_stock
+#. odoo-python
+#: code:addons/sale_project_stock/models/stock_picking.py:0
+msgid ""
+"The Sales Order %(order)s linked to the Project %(project)s is cancelled. "
+"You cannot validate a stock picking on a cancelled Sales Order."
+msgstr ""
+"سفارش فروش %(order)s مرتبط با پروژه %(project)s لغو شده است. شما نمی‌توانید "
+"یک انتقال انبار را روی سفارش فروش لغو شده معتبر سازید."
+
+#. module: sale_project_stock
+#. odoo-python
+#: code:addons/sale_project_stock/models/stock_picking.py:0
+msgid ""
+"The Sales Order %(order)s linked to the Project %(project)s is currently "
+"locked. You cannot validate a stock picking on a locked Sales Order. Please "
+"create a new SO linked to this Project."
+msgstr ""
+"سفارش فروش %(order)s مرتبط با پروژه %(project)s در حال حاضر قفل است. شما "
+"نمی‌توانید انتقال انبار را روی سفارش فروش قفل‌شده معتبر سازید. لطفاً یک "
+"سفارش فروش جدید مرتبط با این پروژه ایجاد کنید."
+
+#. module: sale_project_stock
+#. odoo-python
+#: code:addons/sale_project_stock/models/stock_picking.py:0
+msgid ""
+"The Sales Order %(order)s linked to the Project %(project)s must be "
+"validated before validating the stock picking."
+msgstr ""
+"سفارش فروش %(order)s مرتبط با پروژه %(project)s باید قبل از معتبرسازی انتقال"
+" انبار، تایید و اعتبارسنجی شود."
+
+#. module: sale_project_stock
+#: model_terms:ir.actions.act_window,help:sale_project_stock.stock_move_per_sale_order_line_action
+msgid ""
+"This menu gives you the full traceability of inventory\n"
+"                operations on a specific product. You can filter on the product\n"
+"                to see all the past or future movements for the product."
+msgstr ""
+"این منو قابلیت ردیابی کامل عملیات موجودی را برای یک محصول خاص به شما می‌دهد."
+" می‌توانید روی محصول فیلتر کنید تا تمام انتقالات گذشته یا آینده آن را مشاهده"
+" کنید."
+
+#. module: sale_project_stock
+#: model:ir.model,name:sale_project_stock.model_stock_picking
+msgid "Transfer"
+msgstr "انتقال"
+
+#. module: sale_project_stock
+#: model:ir.actions.act_window,name:sale_project_stock.stock_move_per_sale_order_line_action
+msgid "Transfers"
+msgstr "انتقالات"

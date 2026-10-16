@@ -1,0 +1,48 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* industry_fsm_sms
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: industry_fsm_sms
+#: model:sms.template,name:industry_fsm_sms.sms_template_data_fsm_intervention
+msgid "Field Service: Intervention Scheduled"
+msgstr "خدمات میدانی: مداخله / سرویس برنامه‌ریزی شد"
+
+#. module: industry_fsm_sms
+#: model:sms.template,name:industry_fsm_sms.sms_template_data_fsm_onway
+msgid "Field Service: Our team is on its way to your location."
+msgstr "خدمات میدانی: تیم ما در راه مراجعت به محل شماست."
+
+#. module: industry_fsm_sms
+#: model:sms.template,body:industry_fsm_sms.sms_template_data_fsm_onway
+msgid "{{ object.company_id.name }}: We are on our way to your intervention."
+msgstr "کارشناسان {{ object.company_id.name }} به سمت شما حرکت کردند."
+
+#. module: industry_fsm_sms
+#: model:sms.template,body:industry_fsm_sms.sms_template_data_fsm_intervention
+msgid ""
+"{{ object.company_id.name }}: Your intervention is scheduled {{ 'from the ' "
+"+ format_datetime(object.planned_date_begin, tz=object.partner_id.tz, "
+"lang_code=object.partner_id.lang) + ' to the ' + "
+"format_datetime(object.date_deadline, tz=object.partner_id.tz, "
+"lang_code=object.partner_id.lang) if object.planned_date_begin and "
+"object.date_deadline else '' }}"
+msgstr ""
+"{{ object.company_id.name }}: سرویس شما برنامه‌ریزی شده است {{ 'از تاریخ ' +"
+" format_datetime(object.planned_date_begin, tz=object.partner_id.tz, "
+"lang_code=object.partner_id.lang) + ' تا ' + "
+"format_datetime(object.date_deadline, tz=object.partner_id.tz, "
+"lang_code=object.partner_id.lang) if object.planned_date_begin and "
+"object.date_deadline else '' }}"

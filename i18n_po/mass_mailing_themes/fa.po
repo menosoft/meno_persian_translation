@@ -1,0 +1,1789 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mass_mailing_themes
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:36+0000\n"
+"PO-Revision-Date: 2026-10-12 18:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "&amp;nbsp; &amp;nbsp;"
+msgstr "&amp;nbsp; &amp;nbsp;"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "&amp;nbsp;&amp;nbsp;Comment on this post&amp;nbsp;&amp;nbsp;"
+msgstr "&amp;nbsp;&amp;nbsp;ثبت دیدگاه برای این پست&amp;nbsp;&amp;nbsp;"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "*But hurry! Offer ends on"
+msgstr "*فرصت محدود است! پایان مهلت پیشنهاد در"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "*For orders over $39."
+msgstr "*برای سفارش‌های بالاتر از ۳۹ دلار."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+". I put it on hold for 6 years, waiting for the right moment to use it. I "
+"thought it would take 3 years to deprecate a 77 billion dollars company just"
+" because open source is so cool. Sometimes it's better for your self-"
+"motivation not to face reality..."
+msgstr ""
+". من آن را ۶ سال معلق نگه داشتم و منتظر زمان مناسب برای استفاده از آن بودم. "
+"تصور می‌کردم تنها ۳ سال طول می‌کشد تا یک شرکت ۷۷ میلیارد دلاری را کنار "
+"بگذاریم صرفاً به این دلیل که متن‌باز فوق‌العاده است. گاهی اوقات برای حفظ "
+"انگیزه درونی‌تان بهتر است بلافاصله با واقعیت روبرو نشوید..."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "10 Books To Read in 2022"
+msgstr "۱۰ کتاب که باید در سال ۲۰۲۲ بخوانید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"2011 was a complex year. We did not meet our expectations: we only achieved "
+"70% of the forecasted sales budget. Our management meetings were tense. We "
+"under-performed. We were not satisfied with ourselves. We had a constant "
+"feeling that we were missing something. It's a strange feeling to build "
+"extraordinary things but to not be proud of ourselves."
+msgstr ""
+"سال ۲۰۱۱ سال پیچیده‌ای بود. ما به انتظارات خود نرسیدیم: ما تنها ۷۰٪ از بودجه"
+" فروش پیش‌بینی‌شده را محقق کردیم. جلسات مدیریتی ما پرتنش بود. عملکرد ما "
+"ضعیف‌تر از حد انتظار بود و از خودمان راضی نبودیم. همواره این احساس را داشتیم"
+" که چیزی را نادیده گرفته‌ایم. احساس عجیبی است که دستاوردهای فوق‌العاده‌ای "
+"خلق کنید اما نتوانید به خود ببالید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "24/7 <br/>Customer Service"
+msgstr "خدمات مشتریان<br/>۲۴/۷"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "28 Jan 2022"
+msgstr "۲۸ ژانویه ۲۰۲۲"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "5 Ways Drones Can Better Your Live Events"
+msgstr "۵ روشی که پهپادها می‌توانند کیفیت رویدادهای زنده شما را ارتقا دهند"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"60 new modules are released every month (we became the wikipedia of the "
+"management software thanks to our strong community)"
+msgstr ""
+"هر ماه ۶۰ ماژول جدید منتشر می‌شود (ما به لطف جامعه کاربری قدرتمندمان، به "
+"دانشنامه نرم‌افزارهای مدیریتی بدل شده‌ایم)"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "7 Unexpected Signs You're Good At Your Job"
+msgstr "۷ نشانه غیرمنتظره که نشان می‌دهد در کار خود ماهر هستید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "7 Ways to Nurture Creativity"
+msgstr "۷ راهکار برای شکوفایی و پرورش خلاقیت"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"<br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">To unsubscribe, </font></span>"
+msgstr ""
+"<br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">برای لغو اشتراک، </font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "<font class=\"text-white\">$100 OFF</font>"
+msgstr "<font class=\"text-white\">۱۰۰ دلار تخفیف</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "<font class=\"text-white\">Here's your coupon code*:</font>"
+msgstr "<font class=\"text-white\">این کد تخفیف شما است*:</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "<font class=\"text-white\">VIP members only</font>"
+msgstr "<font class=\"text-white\">ویژه اعضای VIP</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "<font style=\"background-color: rgb(231, 148, 57);\">TRAVEL</font>"
+msgstr "<font style=\"background-color: rgb(231, 148, 57);\">گردشگری</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "<font style=\"background-color: rgb(231, 99, 99);\">LIFESTYLE</font>"
+msgstr "<font style=\"background-color: rgb(231, 99, 99);\">سبک زندگی</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "<font style=\"background-color: rgb(57, 123, 33);\">FOOD</font>"
+msgstr "<font style=\"background-color: rgb(57, 123, 33);\">غذا و نوشیدنی</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "<font style=\"color: rgb(173, 173, 173);\">Unsubscribe</font>"
+msgstr "<font style=\"color: rgb(173, 173, 173);\">لغو اشتراک</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">And it won't cost you a "
+"thing!</font>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">و هیچ هزینه‌ای برای شما نخواهد "
+"داشت!</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">EXCLUSIVE</font>\n"
+"                        <br/><span style=\"font-weight: bolder\"><font style=\"color: rgb(255, 255, 255);\">DEALS</font></span>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">پیشنهادهای</font>\n"
+"                        <br/><span style=\"font-weight: bolder\"><font style=\"color: rgb(255, 255, 255);\">اختصاصی</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">FREE</font>\n"
+"                        <br/><span style=\"font-weight: bolder\"><font style=\"color: rgb(255, 255, 255);\">SHIPPING</font></span>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">ارسال</font>\n"
+"                        <br/><span style=\"font-weight: bolder\"><font style=\"color: rgb(255, 255, 255);\">رایگان</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "<font style=\"color: rgb(255, 255, 255);\">Hi there!</font>"
+msgstr "<font style=\"color: rgb(255, 255, 255);\">درود!</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">Join the community to see our "
+"latest news, events, discounts and much more!</font>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">به جامعه کاربری بپیوندید تا از "
+"آخرین اخبار، رویدادها، تخفیف‌ها و موارد دیگر مطلع شوید!</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">Thank you for being one of our "
+"most loyal customers.</font>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">از اینکه یکی از وفادارترین "
+"مشتریان ما هستید، صمیمانه سپاسگزاریم.</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">The next edition of <span style=\"font-weight: bolder;\">Odoo Experience Online</span> is coming soon!\n"
+"                    <br/>To stir up your curiosity, have a look at all the great talks scheduled and highlighted in our agenda!</font>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">دوره بعدی رویداد <span style=\"font-weight: bolder;\">Odoo Experience Online</span> به‌زودی برگزار می‌شود!\n"
+"                    <br/>برای برانگیختن کنجکاوی‌تان، نگاهی به سخنرانی‌های برجسته و برنامه‌ریزی‌شده در دستور کار ما بیندازید!</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"<font style=\"color: rgb(255, 255, 255);\">Zero, zilch, nada! Odoo "
+"Experience is free for everyone!</font>"
+msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">کاملاً بدون هزینه! رویداد تجربه "
+"مِنو (Odoo Experience) برای همه رایگان است!</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"<font style=\"font-size: 24px; background-color: rgb(20, 102, 184);\" "
+"class=\"text-o-color-4\">A+</font> <font style=\"color: rgb(20, 102, 184); "
+"font-size: 24px;\"><span style=\"font-weight: "
+"normal\">Training</span></font>"
+msgstr ""
+"<font style=\"font-size: 24px; background-color: rgb(20, 102, 184);\" "
+"class=\"text-o-color-4\">+A</font> <font style=\"color: rgb(20, 102, 184); "
+"font-size: 24px;\"><span style=\"font-weight: normal\">آموزش</span></font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid ""
+"<font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;10% OFF&amp;nbsp;</font>\n"
+"                    <br/>\n"
+"                    <font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;SALES&amp;nbsp;</font>"
+msgstr ""
+"<font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;٪۱۰ تخفیف&amp;nbsp;</font>\n"
+"                    <br/>\n"
+"                    <font style=\"font-size: 62px; background-color: rgb(255, 255, 255);\">&amp;nbsp;فروش ویژه&amp;nbsp;</font>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"<i class=\"fa fa-map-marker\" contenteditable=\"false\"/> London, United "
+"Kingdom"
+msgstr "<i class=\"fa fa-map-marker\" contenteditable=\"false\"/> لندن، انگلستان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "<span class=\"fa fa-play\"/>&amp;nbsp;&amp;nbsp;WATCH VIDEO"
+msgstr "<span class=\"fa fa-play\"/>&amp;nbsp;&amp;nbsp;مشاهده ویدیو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"<span class=\"font-weight: bolder\">\n"
+"                        <font style=\"color: rgb(206, 0, 0); font-weight: normal;\">(only 195 tickets left)</font>\n"
+"                    </span>"
+msgstr ""
+"<span class=\"font-weight: bolder\">\n"
+"                        <font style=\"color: rgb(206, 0, 0); font-weight: normal;\">(تنها ۱۹۵ بلیت باقی مانده است)</font>\n"
+"                    </span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">18h30:</span>"
+msgstr "<span class=\"font-weight: bolder\">۱۸:۳۰:</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">19h00:</span>"
+msgstr "<span class=\"font-weight: bolder\">۱۹:۰۰:</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">19h30: </span>"
+msgstr "<span class=\"font-weight: bolder\">۱۹:۳۰: </span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">8h:</span>"
+msgstr "<span class=\"font-weight: bolder\">۰۸:۰۰:</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"<span class=\"font-weight: bolder\">Networking: Walking Dinner &amp; "
+"Drinks</span>"
+msgstr ""
+"<span class=\"font-weight: bolder\">شبکه‌سازی: عصرانه و پذیرایی "
+"ایستاده</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">Table Ronde</span>"
+msgstr "<span class=\"font-weight: bolder\">میزگرد (پنل گفتگو)</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "<span class=\"font-weight: bolder\">Welcome</span>"
+msgstr "<span class=\"font-weight: bolder\">خوش‌آمدگویی</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"<span class=\"font-weight: bolder\">[speaker] &amp; [speaker]'s "
+"conference</span>"
+msgstr "<span class=\"font-weight: bolder\">کنفرانس [speaker] و [speaker]</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"<span style=\"font-size: 10px;\">\n"
+"                            © 2022 All Rights Reserved\n"
+"                        </span>"
+msgstr ""
+"<span style=\"font-size: 10px;\">\n"
+"                            © ۲۰۲۲ تمامی حقوق محفوظ است\n"
+"                        </span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"<span style=\"font-size: 10px;\">\n"
+"                        <font style=\"color: rgb(112, 157, 225);\">You are receiving this email because you showed an interest in our previous events\n"
+"                        </font>\n"
+"                    </span>"
+msgstr ""
+"<span style=\"font-size: 10px;\">\n"
+"                        <font style=\"color: rgb(112, 157, 225);\">شما این ایمیل را دریافت می‌کنید زیرا به رویدادهای پیشین ما ابراز تمایل کرده بودید\n"
+"                        </font>\n"
+"                    </span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"<span style=\"font-size: 12px; font-style: normal; font-weight: bolder;\">- "
+"Lee Brown</span>"
+msgstr ""
+"<span style=\"font-size: 12px; font-style: normal; font-weight: bolder;\">- "
+"لی براون</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">.</font></span>"
+msgstr ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">.</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">8000 Marina Blvd, Suite 300</font></span>\n"
+"                <br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">Brisbane, California 94005</font></span>\n"
+"                <br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">You received this email from </font></span>"
+msgstr ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">8000 Marina Blvd, Suite 300</font></span>\n"
+"                <br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">بریزبن، کالیفرنیا ۹۴۰۰۵</font></span>\n"
+"                <br/>\n"
+"                <span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, 199);\">شما این ایمیل را دریافت کرده‌اید از طرف </font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">click here</font></span>"
+msgstr ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">اینجا کلیک کنید</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">hello@musingsoftheweek.com</font></span>"
+msgstr ""
+"<span style=\"font-size: 12px;\"><font style=\"color: rgb(183, 191, "
+"199);\">hello@musingsoftheweek.com</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid ""
+"<span style=\"font-size: 32px;\"><font style=\"font-weight: bolder; color: "
+"rgb(255, 255, 255); background-color: rgb(255, 187, "
+"0);\">SOLAR</font></span>"
+msgstr ""
+"<span style=\"font-size: 32px;\"><font style=\"font-weight: bolder; color: "
+"rgb(255, 255, 255); background-color: rgb(255, 187, 0);\">سولار "
+"(خورشیدی)</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"<span style=\"font-style: italic;\"><font class=\"text-600\">The first 20 "
+"participants will get a free copy of our business game \"Scale-"
+"Up\".</font></span>"
+msgstr ""
+"<span style=\"font-style: italic;\"><font class=\"text-600\">۲۰ شرکت‌کننده "
+"نخست یک نسخه رایگان از بازی کسب‌وکار ما تحت عنوان «Scale-Up» دریافت خواهند "
+"کرد.</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                                <font style=\"background-color: rgb(255, 255, 255); color: rgb(255, 187, 0);\">SOLAR</font>\n"
+"                            </span>"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                                <font style=\"background-color: rgb(255, 255, 255); color: rgb(255, 187, 0);\">سولار (خورشیدی)</font>\n"
+"                            </span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "<span style=\"font-weight: bolder;\">25 September 2022 - 4:30 PM</span>"
+msgstr "<span style=\"font-weight: bolder;\">۲۵ سپتامبر ۲۰۲۲ - ساعت ۱۶:۳۰</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid ""
+"<span style=\"font-weight: bolder;\"><font class=\"text-"
+"white\">VIP10</font></span>"
+msgstr ""
+"<span style=\"font-weight: bolder;\"><font class=\"text-"
+"white\">VIP10</font></span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"<span style=\"font-weight: bolder;\">And what better field to upskill in "
+"than software development?</span> Jobs have been steadily booming for years,"
+" and will continue to do so. By taking some of these free courses, you can "
+"make your CV more competitive and your portfolio more interesting."
+msgstr ""
+"<span style=\"font-weight: bolder;\">و چه حوزه‌ای بهتر از توسعه نرم‌افزار "
+"برای ارتقای مهارت‌ها؟</span> فرصت‌های شغلی این حوزه سال‌هاست که پیوسته در "
+"حال رشد است و این روند ادامه خواهد داشت. با گذراندن این دوره‌های رایگان، "
+"می‌توانید رزومه کاری خود را رقابتی‌تر و نمونه‌کارهایتان را جذاب‌تر کنید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"<span style=\"font-weight: bolder;\">Mark</span> will be helping our beloved"
+" HR team, he'll be taking care of your payroll, so be nice!"
+msgstr ""
+"<span style=\"font-weight: bolder;\">مارک</span> به تیم منابع انسانی ما ملحق"
+" شده و مسئولیت امور حقوق و دستمزد شما را بر عهده خواهد داشت، پس هوایش را "
+"داشته باشید!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"<span style=\"font-weight: bolder;\">Martin</span> is currently doing his "
+"onboarding in our remote office but you'll be seeing him in the R&amp;D "
+"department very soon."
+msgstr ""
+"<span style=\"font-weight: bolder;\">مارتین</span> در حال حاضر فرایند "
+"آنبوردینگ خود را در دفتر دورکاری سپری می‌کند، اما به‌زودی او را در بخش تحقیق"
+" و توسعه (R&amp;D) خواهید دید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "<span style=\"font-weight: bolder;\">Register now</span>"
+msgstr "<span style=\"font-weight: bolder;\">ثبت‌نام کنید</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid ""
+"<span style=\"font-weight: bolder;\">View online</span>&amp;nbsp;<span "
+"class=\"fa fa-external-link\"/>"
+msgstr ""
+"<span style=\"font-weight: bolder;\">مشاهده آنلاین</span>&amp;nbsp;<span "
+"class=\"fa fa-external-link\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "<strong>Give them a warm welcome!</strong>"
+msgstr "<strong>به گرمی به آن‌ها خوش‌آمد بگویید!</strong>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "@fpodoo"
+msgstr "@fpodoo"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"After a few months of pitching investors, I got roughly 10 LOI from "
+"different VCs. We chose Sofinnova Partners, the biggest European VC, and "
+"Xavier Niel the founder of Iliad, the only company in France funded in the "
+"past 10 years to have reached the 1 billion EUR valuation."
+msgstr ""
+"پس از چند ماه ارائه به سرمایه‌گذاران، حدود ۱۰ توافق‌نامه اولیه (LOI) از "
+"شرکت‌های سرمایه‌گذاری جسورانه (VC) دریافت کردم. ما شرکت Sofinnova Partners "
+"بزرگ‌ترین VC اروپا، و خاویر نیل، بنیان‌گذار Iliad (تنها شرکتی در فرانسه که "
+"طی ۱۰ سال گذشته با جذب سرمایه به ارزش‌گذاری ۱ میلیارد یورو رسید) را انتخاب "
+"کردیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"After having disrupted the ERP market, OpenERP moved far beyond the "
+"boundaries of traditional ERP players. The integration of business "
+"activities is no longer restricted to sales, accounting, inventory and "
+"procurements. In June 2014, we released version 8 with awesome CMS &amp; "
+"eCommerce, a Point of Sale, an integrated Business Intelligence engine and "
+"much more (3000+ modules)."
+msgstr ""
+"پس از تحول‌آفرینی در بازار ERP، شرکت OpenERP فراتر از مرزهای فعالان سنتی ERP"
+" گام نهاد. یکپارچه‌سازی فعالیت‌های کسب‌وکار دیگر محدود به فروش، حسابداری، "
+"انبارداری و تدارکات نبود. در ژوئن ۲۰۱۴، ما نسخه ۸ را همراه با سامانه مدیریت "
+"محتوا و فروشگاه ساز فوق‌العاده، پایانه فروشگاهی (POS)، موتور یکپارچه هوش "
+"تجاری و امکانات متعدد دیگر (بیش از ۳۰۰۰ ماژول) عرضه کردیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"After years of rapid growth, we achieved another amazing goal - we secured a"
+" new round of 10 Million USD of financing, jointly provided by leading "
+"venture capital firms XAnge (France), SRIW (Belgium), Sofinnova (France), "
+"and the management team."
+msgstr ""
+"پس از سال‌ها رشد پرشتاب، به دستاورد چشمگیر دیگری دست یافتیم؛ ما یک راند جدید"
+" تأمین مالی ۱۰ میلیون دلاری را با مشارکت شرکت‌های پیشرو سرمایه‌گذاری جسورانه"
+" XAnge (فرانسه)، SRIW (بلژیک)، Sofinnova (فرانسه) و تیم مدیریتی نهایی کردیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "All Rights Reserved"
+msgstr "تمامی حقوق محفوظ است"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "An interactive, fun<br/>and comprehensive experience"
+msgstr "تجربه‌ای تعاملی، جذاب<br/>و جامع"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Analysts from Big 4 started to prefer OpenERP over SAP"
+msgstr ""
+"تحلیل‌گران چهار شرکت بزرگ حسابرسی (Big 4) کم‌کم OpenERP را بر SAP ترجیح "
+"دادند"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "And a new story just started..."
+msgstr "و فصلی نو آغاز شد..."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid ""
+"Anyone with an ounce of business acumen knows that any business that wants "
+"to succeed needs a website."
+msgstr ""
+"هر کسی که اندکی هوش تجاری داشته باشد می‌داند که شرط موفقیت هر کسب‌وکاری، "
+"داشتن یک وب‌سایت است."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"As usual, I should have listened to my wife. She is way more lucid than I "
+"am. Every week I complained to her \"It's not good enough, we should grow "
+"faster, what am I missing?\" and she used to reply: \"But you already are "
+"the fastest growing company in Belgium!\" (Deloitte awarded us as"
+msgstr ""
+"طبق معمول، باید به حرف همسرم گوش می‌کردم؛ نگاه او بسیار واقع‌بینانه‌تر از من"
+" است. هر هفته پیش او گلایه می‌کردم: «این اصلاً کافی نیست، باید سریع‌تر رشد "
+"کنیم، من متوجه چه چیزی نیستم؟» و او همیشه پاسخ می‌داد: «اما تو همین حالا هم "
+"مدیر سریع‌ترین شرکت در حال رشد در بلژیک هستی!» (دیلویت این جایزه را به ما "
+"داد که"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"As we worked hard, things started to evolve. We were developing dozens of "
+"modules for OpenERP, the open source community was growing and I was even "
+"able to pay all employees' salaries at the end of the month without fear "
+"(which was a situation I struggled with for 4 years)."
+msgstr ""
+"هم‌پای تلاش‌های بی‌وقفه ما، روند اوضاع متحول شد. ده‌ها ماژول کاربردی برای "
+"OpenERP توسعه دادیم، جامعه متن‌باز گسترش یافت و من سرانجام توانستم بدون "
+"دلهره حقوق پایان ماه پرسنل را تسویه کنم (بحرانی که ۴ سال متوالی با آن "
+"دست‌به‌گریبان بودم)."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid "BEGINNING"
+msgstr "شروع"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Being a Mature Company"
+msgstr "رسیدن به بلوغ سازمانی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Best practices to digitize your company"
+msgstr "بهترین الگوها برای دیجیتالی‌سازی کسب‌وکار شما"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Big News"
+msgstr "خبر مهم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Bitten by the travel bug but looking to travel consciously? Eco-travel is "
+"the way forward."
+msgstr ""
+"شیفته سفر هستید اما می‌خواهید آگاهانه و مسئولانه سفر کنید؟ گردشگری پایدار و "
+"اکوتوریسم بهترین مسیر پیش روی شماست."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Blogging"
+msgstr "وبلاگ‌نویسی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid ""
+"Breaking IT news\n"
+"                            <br/>and Analysis"
+msgstr ""
+"تازه‌ترین اخبار فناوری اطلاعات\n"
+"                            <br/>و تحلیل‌های تخصصی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Business Case"
+msgstr "مطالعه موردی کسب‌وکار"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"But one day, someone (I don't remember who, I have a goldfish memory) made a"
+" graph of the monthly turnover of the past 2 years. It was like waking up "
+"from a nightmare. In fact, it was not that bad, we had multiplied the "
+"monthly turnover by 10 over the span of roughly two years! This is when we "
+"understood that OpenERP is a marathon, not a sprint. Only 100% growth a year"
+" is ok... if you can keep the rhythm for several years."
+msgstr ""
+"اما یک روز، یکی از همکاران (درست یادم نیست چه کسی، حافظه‌ام شبیه ماهی قرمز "
+"است!) نموداری از گردش مالی ماهانه دو سال گذشته تهیه کرد. درست مثل بیدار شدن "
+"از یک کابوس بود. در حقیقت اوضاع اصلاً بد نبود؛ ما طی حدود دو سال گردش مالی "
+"ماهانه‌مان را ۱۰ برابر کرده بودیم! آنجا بود که متوجه شدیم OpenERP یک دو "
+"ماراتن است، نه دو سرعت. رشد سالانه ۱۰۰٪ کافی است... البته تا زمانی که بتوان "
+"این آهنگ رشد را برای چند سال حفظ کرد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Changing the World"
+msgstr "تغییر جهان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Client Testimonials"
+msgstr "نظرات و رضایت مشتریان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Coffee break"
+msgstr "استراحت و صرف نوشیدنی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Communication is the key to success in any business."
+msgstr "ارتباط مؤثر، کلید موفقیت در هر کسب‌وکاری است."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Company News"
+msgstr "اخبار شرکت"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Contact"
+msgstr "تماس با ما"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Coupon Code"
+msgstr "کد تخفیف"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "Cover"
+msgstr "طرح جلد"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Cover image"
+msgstr "تصویر جلد"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"Create your very own chat room or join an existing one that sparks your "
+"interest."
+msgstr ""
+"اتاق گفتگوی اختصاصی خود را بسازید یا به اتاقی بپیوندید که موضوع آن برایتان "
+"جذاب است."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Customer Service"
+msgstr "امور مشتریان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "DON'T MISS THIS"
+msgstr "این فرصت را از دست ندهید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Delicious recipes from around the world"
+msgstr "رسپی‌های لذیذ از سراسر جهان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Delicious recipes from around the world&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"رسپی‌های لذیذ از سراسر جهان&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Destinations for an eco-holiday"
+msgstr "مقاصد گردشگری برای تعطیلات سازگار با محیط زیست"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Destinations for an eco-holiday&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"مقاصد گردشگری سازگار با محیط زیست&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"Discover Odoo, the all-in-one management platform, and its apps designed to "
+"improve employees' daily tasks. From sales and deliveries, to logistics, "
+"marketing and accounting ; learn what are the best available options to "
+"digitize your company."
+msgstr ""
+"با پلتفرم مدیریت یکپارچه مِنو و برنامه‌های آن که برای بهینه‌سازی وظایف "
+"روزانه پرسنل طراحی شده‌اند آشنا شوید. از فروش و ارسال گرفته تا لجستیک، "
+"بازاریابی و حسابداری؛ بیاموزید که بهترین راهکارها برای دیجیتالی‌سازی شرکت "
+"شما چیست."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Do you wish to become a partner?"
+msgstr "آیا مایلید پارتنر (شریک تجاری) ما شوید؟"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Do you wish to use Odoo?"
+msgstr "آیا مایل به استفاده از مِنو در کسب‌وکار خود هستید؟"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Don't hesitate to send us more!"
+msgstr "خوشحال می‌شویم موارد بیشتری را با ما در میان بگذارید!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "ENDOFSUMMER20"
+msgstr "ENDOFSUMMER20"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Easy Returns"
+msgstr "مرجوعی آسان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Event Promo"
+msgstr "تبلیغ رویداد"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"Experience everything from a virtual exhibitor's hall to multiple "
+"interactive presentations and demos."
+msgstr ""
+"همه چیز را تجربه کنید؛ از سالن نمایشگاهی مجازی تا دموها و ارائه‌های تعاملی "
+"متعدد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Facebook"
+msgstr "فیس‌بوک"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Find Out Who's Employee Of The Month"
+msgstr "ببینید چه کسی کارمند نمونه این ماه شده است"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Find out more"
+msgstr "اطلاعات بیشتر"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Find out more&amp;nbsp;<span class=\"fa fa-angle-right\"/>"
+msgstr "اطلاعات بیشتر&amp;nbsp;<span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "For more information, check the event page :"
+msgstr "جهت کسب اطلاعات بیشتر، صفحه رویداد را بررسی کنید:"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Free Delivery"
+msgstr "ارسال رایگان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Free delivery*"
+msgstr "ارسال رایگان*"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "GET 10%&amp;nbsp;OFF"
+msgstr "دریافت ۱۰٪&amp;nbsp;تخفیف"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Get 6-months' worth of knowledge<br/>in just 2 days"
+msgstr "دسترسی به دانشی معادل ۶ ماه تجربه کاری<br/>تنها در ۲ روز"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"Getting practical experience can be as likely as getting struck by lightning"
+" – <span style=\"font-style: italic;\">thank you, coronavirus</span> – but, "
+"you can take things into your own hands and use your free time to upskill."
+msgstr ""
+"کسب تجربه عملی گاهی مثل برخورد صاعقه غیرمحتمل به نظر می‌رسد – <span "
+"style=\"font-style: italic;\">دست ویروس کرونا درد نکند!</span> – با این وجود"
+" می‌توانید ابتکار عمل را به دست بگیرید و از اوقات فراغت خود برای ارتقای "
+"مهارت‌هایتان استفاده کنید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Go to the chatrooms"
+msgstr "ورود به تالارهای گفتگو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Here are some photos taken during the event:"
+msgstr "تصاویری از روند برگزاری این رویداد:"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Here are the links to our sponsors' websites if you wish to meet them:"
+msgstr ""
+"پیوندهای دسترسی به وب‌سایت حامیان رویداد در صورت تمایل به آشنایی با آن‌ها:"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "How to Code a Website Without Experience"
+msgstr "چگونه بدون تجربه قبلی یک وب‌سایت طراحی و پیاده‌سازی کنیم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"I needed to change the world. I wanted to... You know how it is when you are"
+" young; you have big dreams, a lot of energy and naive stupidity. My dream "
+"was to lead the enterprise management market with a fully open source "
+"software (I also wanted to get 100 employees before 30 years old with a "
+"self-financed company but I failed this one by only a few months)."
+msgstr ""
+"می‌خواستم دنیا را متحول کنم. قصد داشتم... خوب می‌دانید دوران جوانی چگونه "
+"است؛ رؤیاهای دور و دراز، انرژی بی‌پایان و کمی خامی و جسارت بی‌محابا. رؤیای "
+"من هدایت بازار مدیریت نرم‌افزارهای سازمانی با سامانه‌ای کاملاً متن‌باز بود "
+"(همچنین هدف گذاشته بودم تا قبل از ۳۰ سالگی بدون جذب سرمایه خارجی به ۱۰۰ "
+"پرسنل برسم، که تنها چند ماه دیرتر محقق شد)."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"I signed the LOI. I didn't realize that this contract could have turned me "
+"into a homeless person. (I already had a dog, all I needed was to lose a lot"
+" of money to become homeless). The fundraising was based on a company "
+"valuation but there was a financial mechanism to re-evaluate the company up "
+"by 9.8 m€ depending on the turnover of the next 4 years. I should have "
+"received warrants convertible into shares if we achieved the turnover "
+"targeted in the business plan."
+msgstr ""
+"توافق‌نامه اولیه (LOI) را امضا کردم، بی‌خبر از اینکه این قرارداد می‌توانست "
+"مرا به خاک سیاه بنشاند! (یک سگ داشتم و تنها چیزی که برای بی‌خانمان شدنم لازم"
+" بود از دست دادن تمام دارایی‌ام بود). روند جذب سرمایه بر پایه ارزش‌گذاری "
+"شرکت شکل گرفت، اما ساختاری مالی وجود داشت که در صورت محقق شدن اهداف فروش ۴ "
+"سال آتی، ارزش شرکت تا ۹.۸ میلیون یورو افزایش می‌یافت و در صورت دستیابی به "
+"اهداف پلن تجاری، اختیارات خریدی (وارنت) قابل تبدیل به سهام به من تعلق "
+"می‌گرفت."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "IN THIS ISSUE"
+msgstr "در این شماره می‌خوانید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"If current open source players have a real technical challenge to follow us,"
+" we also have a huge marketing challenge. Wordpress has 22% of all internet "
+"websites. We were the leader in management software, but we start with 0% of"
+" the website market."
+msgstr ""
+"اگر دیگر بازیگران متن‌باز برای رسیدن به ما با چالش‌های بزرگ فنی روبرو هستند،"
+" ما هم در زمینه بازاریابی با یک چالش غول‌آسا مواجهیم؛ وردپرس ۲۲٪ از کل "
+"وب‌سایت‌های اینترنت را در دست دارد. ما در نرم‌افزارهای مدیریت سازمان پیشتاز "
+"بودیم، اما در بازار طراحی وب‌سایت سهممان از صفر درصد آغاز می‌شد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"If you didn't gather round the coffee machine or water-tank with your colleagues this week,\n"
+"                        you've probably missed some key information."
+msgstr ""
+"اگر این هفته فرصت نکرده‌اید کنار دستگاه قهوه‌ساز با همکارانتان گپ بزنید،\n"
+"                        احتمالاً اخبار مهمی را از دست داده‌اید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid ""
+"If you wish to become a partner and offer your services in [country], take a"
+" look at"
+msgstr ""
+"چنانچه مایلید پارتنر رسمی ما شوید و خدمات خود را در [country] ارائه دهید، "
+"نگاهی بیندازید به"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid ""
+"If you wish to evaluate Odoo while taking into account your company's "
+"specific needs, you can book a free appointment with one of our"
+msgstr ""
+"اگر قصد دارید مِنو را متناسب با نیازهای اختصاصی سازمان خود بررسی و ارزیابی "
+"کنید، می‌توانید یک جلسه مشاوره رایگان با کارشناسان ما هماهنگ نمایید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Imagine waking up with more energy, more flexibility, with less stress and "
+"fewer instances of anxiously rushing out the door."
+msgstr ""
+"تصور کنید صبح‌ها با نشاط و انرژی بیشتر بیدار شوید، انعطاف‌پذیری بالاتری "
+"داشته باشید، استرس کمتری تجربه کنید و دیگر نیازی به سراسیمه دویدن به سمت درب"
+" خروج نباشد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"In 2010, we had a 100+ employees selling services on OpenERP and a powerful "
+"but ugly product. This is what happens when delivering services to customers"
+" distracts you from building an exceptional product. It was time to do a "
+"pivot in the business model."
+msgstr ""
+"در سال ۲۰۱۰ بیش از ۱۰۰ کارمند داشتیم که مشغول ارائه خدمات برای OpenERP "
+"بودند؛ محصولی بسیار قدرتمند اما از نظر کاربری ناخوشایند. این پیامد زمانی است"
+" که تمرکز بیش از حد بر تحویل پروژه‌های خدماتی، شما را از خلق یک محصول عالی و"
+" بی‌نقص بازمی‌دارد. زمان آن رسیده بود که چرخش استراتژیک (Pivot) در مدل "
+"کسب‌وکار انجام دهیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "In 2013, we had 2,000,000 users worldwide"
+msgstr ""
+"در سال ۲۰۱۳، شمار کاربران ما در سراسر جهان به بیش از ۲,۰۰۰,۰۰۰ نفر رسید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "In May 2014, we renamed the company and product to Odoo."
+msgstr "در ماه مه ۲۰۱۴، نام شرکت و محصول را به Odoo تغییر دادیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Infographic: Our Company Throughout The Generations"
+msgstr "اینفوگرافیک: روند رشد و تحول شرکت ما در گذر زمان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Interactive Odoo demo"
+msgstr "دموی تعاملی مِنو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Interview with Janet James&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"مصاحبه با جنت جیمز&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Issue\n"
+"                            <br/><span style=\"font-weight: bolder;\">#42</span>"
+msgstr ""
+"شماره\n"
+"                            <br/><span style=\"font-weight: bolder;\">#۴۲</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "Join us"
+msgstr "به ما بپیوندید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Learn more about our pricing"
+msgstr "کسب اطلاعات بیشتر درباره قیمت‌گذاری"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid ""
+"Learn through workshops, product demos, and inspiring talks from Odoo "
+"Experts and Partners."
+msgstr ""
+"از طریق کارگاه‌های عملی، دموی ابزارها و سخنرانی‌های الهام‌بخش کارشناسان و "
+"شرکای تجاری مِنو یاد بگیرید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Link 1"
+msgstr "پیوند ۱"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Link 2"
+msgstr "پیوند ۲"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Link 3"
+msgstr "پیوند ۳"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Link 4"
+msgstr "پیوند ۴"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Magazine"
+msgstr "مجله"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Making companies a better place, one app at a time"
+msgstr "بهبود بهره‌وری سازمان‌ها، گام‌به‌گام و با هر برنامه"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Man on a rock looking at mountains in the distance"
+msgstr "مردی روی صخره که به کوه‌های دوردست می‌نگرد"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Meet (other) awesome members<br/>of the community"
+msgstr "دیدار با سایر اعضای برجسته<br/>جامعه کاربری"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid ""
+"Michael Fletcher<br/>\n"
+"                   <span style=\"font-size: 12px; font-weight: bolder;\">Customer Service</span>"
+msgstr ""
+"مایکل فلچر<br/>\n"
+"                   <span style=\"font-size: 12px; font-weight: bolder;\">امور مشتریان</span>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid ""
+"Modern smartphones have all the built-in tech equal to a majority of the "
+"current professional cameras."
+msgstr ""
+"گوشی‌های هوشمند مدرن مجهز به فناوری‌هایی هستند که با اغلب دوربین‌های حرفه‌ای"
+" امروزی برابری می‌کند."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Musings on the week from"
+msgstr "تأملات و یادداشت‌های هفتگی از"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "NEW PEOPLE"
+msgstr "اعضای جدید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "New Financing in 2014"
+msgstr "تأمین مالی جدید در سال ۲۰۱۴"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Odoo Experts"
+msgstr "متخصصان مِنو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"Odoo invites you on <span class=\"font-weight: bolder\">[date]</span> at "
+"<span class=\"font-weight: bolder\">[time]</span> for their infamous "
+"roadshow in <span class=\"font-weight: bolder\">[city]</span>: an event that"
+" combines learning and networking in a casual afterwork-like atmosphere."
+msgstr ""
+"مِنو شما را در تاریخ <span class=\"font-weight: bolder\">[date]</span> و "
+"رأس ساعت <span class=\"font-weight: bolder\">[time]</span> به رویداد رودشو "
+"خود در شهر <span class=\"font-weight: bolder\">[city]</span> دعوت می‌کند: "
+"رویدادی که آموزش و شبکه‌سازی را در فضایی دوستانه و غیررسمی گرد هم می‌آورد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid ""
+"One clever use of drones is for delivering gifts — but another that's "
+"becoming popular for event safety purposes."
+msgstr ""
+"یکی از کاربردهای خلاقانه پهپادها تحویل بسته‌ها و هدایا است — اما کاربرد "
+"دیگری که محبوبیت یافته، پایش و تأمین امنیت رویدادهاست."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"OpenERP is now a compulsory subject for the baccalaureate in France like "
+"Word, Excel and PowerPoint"
+msgstr ""
+"اوپن‌ای‌آرپی اکنون همانند Word، Excel و PowerPoint، به یک سرفصل درسی الزامی "
+"در آزمون بکلوریا در فرانسه تبدیل شده است"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"Our exceptional technology allowed us to move to newer markets (CMS &amp; "
+"eCommerce) and propose a product that disrupts existing open source players "
+"(Wordpress, Magento, etc). The OpenERP CMS is so good that even top "
+"competitors admitted it publicly when we released the beta version."
+msgstr ""
+"فناوری پیشرفته ما امکان ورود به بازارهای جدیدتر (طراحی سایت و فروشگاه "
+"اینترنتی) را مهیا کرد و ابزاری ارائه دادیم که صحنه را برای بازیگران متن‌باز "
+"آن زمان (وردپرس، مجنتو و...) متحول ساخت. سیستم مدیریت محتوای ما به قدری "
+"کارآمد بود که با انتشار نسخه آزمایشی (بتا)، حتی رقبای تراز اول نیز آشکارا "
+"برتری آن را ستودند."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid ""
+"Our roundup of the most popular and latest tech related videos from last "
+"week.<br/>"
+msgstr "گلچینی از جدیدترین و محبوب‌ترین ویدیوهای فناوری در هفته گذشته.<br/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Promotion Program"
+msgstr "طرح تشویقی و تبلیغاتی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "READ MORE"
+msgstr "ادامه مطلب"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Rainy day ideas&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"ایده‌هایی برای روزهای بارانی&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Read More&amp;nbsp;<span class=\"fa fa-angle-right\"/>"
+msgstr "مطالعه بیشتر&amp;nbsp;<span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+msgid "Redeem it now"
+msgstr "هم‌اکنون فعال‌سازی کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Register now!"
+msgstr "هم‌اکنون ثبت‌نام کنید!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Registration is free, but mandatory:"
+msgstr "ثبت‌نام رایگان اما الزامی است:"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Roadshow Follow-up"
+msgstr "پیگیری رویداد رودشو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Roadshow Schedule"
+msgstr "برنامه زمانی رودشو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Save your seat now"
+msgstr "صندلی خود را رزرو کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "Schedule"
+msgstr "زمان‌بندی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "See what we've got planned"
+msgstr "برنامه‌های تدارک دیده‌شده را بررسی کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "See you soon !"
+msgstr "به امید دیدار به‌زودی!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "See you soon."
+msgstr "به امید دیدار به‌زودی."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid "See you there,"
+msgstr "به امید دیدار در این رویداد،"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid "Signature"
+msgstr "امضا"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"So in 2005, I started to develop the TinyERP product, the software that (at "
+"least in my mind) would change the enterprise world. While preparing for the"
+" \"day of the fight\" in 2006, I"
+msgstr ""
+"بنابراین در سال ۲۰۰۵، توسعه محصول TinyERP را آغاز کردم؛ نرم‌افزاری که "
+"(دست‌کم در ذهن من) قرار بود قواعد بازی دنیای نرم‌افزارهای سازمانی را دگرگون "
+"کند. در حین آماده شدن برای «روز نبرد» در سال ۲۰۰۶، من"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"Software developer training can be expensive, so we've compiled a list of "
+"free courses that are perfect for non-Computer Science graduates who want to"
+" upskill and learn to code."
+msgstr ""
+"آموزش‌های برنامه‌نویسی نرم‌افزار معمولاً پرهزینه‌اند؛ به همین دلیل فهرستی از"
+" دوره‌های رایگان را گردآوری کرده‌ایم که گزینه‌ای ایده‌آل برای افراد غیرمتخصص"
+" در علوم کامپیوتر است تا بتوانند مهارت‌های خود را ارتقا داده و کدنویسی "
+"بیاموزند."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Software development training"
+msgstr "آموزش توسعه نرم‌افزار"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Something is happening... And it's big!"
+msgstr "اتفاقی در راه است... رویدادی بزرگ!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "THE DAILY"
+msgstr "روزنامه / خبرنامه روزانه"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Thank you, once again, for your attendance at yesterday's event."
+msgstr "یک‌بار دیگر، از حضور شما در رویداد روز گذشته صمیمانه سپاسگزاریم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "The Pivot"
+msgstr "نقطه چرخش (Pivot)"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "The Rise of Odoo"
+msgstr "اوج‌گیری مِنو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "The future of smartphone video production"
+msgstr "آینده تولید محتوای ویدیویی با تلفن‌های هوشمند"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"The new financing will support the acceleration of the outstanding growth "
+"the company has seen over the last years, enabling the doubling of the "
+"commercial force and increased R&amp;D staff - already 100+ people strong."
+msgstr ""
+"تأمین مالی جدید به شتاب‌بخشی رشد چشمگیری که شرکت در سال‌های اخیر تجربه کرده "
+"کمک شایانی خواهد کرد؛ این منابع امکان دو برابر کردن تیم فروش و توسعه تیم "
+"تحقیق و توسعه (R&amp;D) — که هم‌اکنون از مرز ۱۰۰ نفر گذشته — را فراهم "
+"می‌آورد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"The night before receiving the warrants in front of the notary, my wife "
+"checked the contracts. She asked me what would be the taxation on these "
+"warrants. I rang the lawyer and guess what? Belgium is probably the only "
+"country in the world where you have to pay taxes on warrants when you "
+"receive them, even if you never reach the conditions to convert them into "
+"shares. If I had accepted these warrants, I would have had to pay a 12.5% "
+"tax on 9.8 m€; resulting in a tax of 1.2m€ to pay in 18 months! So, my wife "
+"is worth 1.2 million EUR. I would have ended up a homeless person without "
+"her, as I still did not have a salary at that time."
+msgstr ""
+"شب قبل از امضای رسمی اختیارات خرید (وارنت‌ها) در دفتر اسناد رسمی، همسرم "
+"بندهای قرارداد را بررسی کرد. او پرسید مالیات این اوراق چقدر است؟ به وکیلم "
+"زنگ زدم و نتیجه شوکه‌کننده بود: بلژیک احتمالاً تنها کشوری در جهان است که در "
+"لحظه دریافت وارنت باید مالیات آن را بدهید، حتی اگر هرگز به شرایط تبدیل آن‌ها"
+" به سهم نرسید! اگر آن وارنت‌ها را امضا می‌کردم، باید ۱۲.۵٪ مالیات بر ۹.۸ "
+"میلیون یورو می‌دادم؛ یعنی پرداخت مالیاتی معادل ۱.۲ میلیون یورو ظرف ۱۸ ماه! "
+"بنابراین همسرم برای من دست‌کم ۱.۲ میلیون یورو ارزش داشت؛ چرا که بدون دقت او،"
+" منی که در آن زمان حتی یک ریال حقوق هم دریافت نمی‌کردم، کاملاً ورشکسته "
+"می‌شدم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "The story of Odoo"
+msgstr "داستان پیدایش مِنو"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"Then the dream started to become reality. We started to get clues that what "
+"we did would change the world:"
+msgstr ""
+"سپس آن رؤیا کم‌کم به حقیقت پیوست. نشانه‌هایی دیدیم که ثابت می‌کرد کار ما در "
+"حال تغییر دادن جهان است:"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"Then, things became different. You know, tedious things like handling human "
+"resources, board meetings, dealing with big customer contracts, traveling to"
+" launch international subsidiaries. We did boring stuff like budgets, career"
+" paths, management meetings, etc."
+msgstr ""
+"سپس ماجرا شکل دیگری گرفت؛ همان کارهای خسته‌کننده سازمانی مثل سر و کله زدن با"
+" مسائل منابع انسانی، جلسات هیئت مدیره، قراردادهای کلان مشتریان و سفرهای "
+"پیاپی برای تأسیس شعب بین‌المللی. درگیر اموری روزمره مثل بودجه‌بندی، تعیین "
+"مسیر شغلی پرسنل و جلسات پی‌درپی مدیران شدیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"Three years later, I discovered you can't change the world if you are "
+"\"tiny\". Especially if the United States is part of this world, where it's "
+"better to be a BigERP, rather than a TinyERP. Can you imagine how small you "
+"feel"
+msgstr ""
+"سه سال بعد فهمیدم وقتی عنوان «کوچک» (Tiny) روی شما باشد، نمی‌توانید دنیا را "
+"تغییر دهید؛ به‌ویژه در بازاری مانند ایالات متحده که داشتن نامی مثل BigERP "
+"بسیار موجه‌تر از TinyERP است. تصور کنید چقدر احساس حقارت به شما دست می‌دهد"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "TikTok"
+msgstr "تیک‌تاک"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"To fuel my motivation, I had to pick someone to fight against. In business, "
+"it's like a playground. When you arrive in a new school, if you want to "
+"quickly become the leader, you must choose the class bully, the older guy "
+"who terrorizes small boys, and kick his butt in front of everyone. That was "
+"my strategy with SAP, the enterprise software giant."
+msgstr ""
+"برای روشن نگه‌داشتن موتور انگیزه‌ام، باید حریفی برای مبارزه انتخاب می‌کردم. "
+"دنیای تجارت درست مثل حیاط مدرسه است؛ وقتی به مدرسه‌ای تازه وارد می‌شوی، اگر "
+"بخواهی سریع جایگاه لیدری را بگیری، باید قلدورترین بچه مدرسه—همان دانش‌آموز "
+"بزرگ‌تری که بقیه را می‌ترساند—پیدا کنی و جلوی چشم همه ادبش کنی. این دقیقاً "
+"استراتژی من در رقابت با غول نرم‌افزارهای سازمانی یعنی SAP بود."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"To make things happen, I worked hard, very hard. I worked 13 hours a day, 7 "
+"days a week, with no vacation for 7 years. I lost friendships and broke up "
+"with my girlfriend in the process."
+msgstr ""
+"برای محقق ساختن اهدافم، به‌شدت تلاش کردم؛ روزی ۱۳ ساعت، ۷ روز در هفته و ۷ "
+"سال تمام بدون حتی یک روز مرخصی. در این مسیر روابط دوستانه‌ام از دست رفت و "
+"ارتباط عاطفی‌ام نیز به جدایی ختم شد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"To move forward, we raised 10 million USD in May 2014 in order to boost "
+"marketing and sales activities. In order to support our vision, we had to "
+"change the name that is not restricted to ERPs functions. We needed a name "
+"that allowed us to support our ambitions; build business solutions like CMS,"
+" eCommerce, Business Intelligence and, who knows, even sky rockets or "
+"driverless cars in the future..."
+msgstr ""
+"برای برداشتن گام‌های بلندتر، در ماه مه ۲۰۱۴ سرمایه‌ای معادل ۱۰ میلیون دلار "
+"جذب کردیم تا فعالیت‌های بازاریابی و فروش را تقویت نماییم. به منظور تحقق "
+"چشم‌اندازمان، لازم بود نامی برگزینیم که فقط به ابزارهای ERP محدود نشود؛ نامی"
+" که بتواند جاه‌طلبی‌های بزرگ ما را پوشش دهد: ساخت راهکارهای متنوع کسب‌وکار "
+"مثل CMS، تجارت الکترونیک، هوش تجاری و شاید در آینده موشک‌های فضایی یا "
+"خودروهای خودران..."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Top 5 energy-boosting morning routines"
+msgstr "۵ روتین صبحگاهی برتر برای افزایش انرژی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Top 5 energy-boosting morning routines&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"۵ روتین صبحگاهی برتر برای افزایش انرژی&amp;nbsp;\n"
+"                                <span class=\"fa fa-angle-right\"/>"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Train with the best developers"
+msgstr "آموزش زیر نظر برترین توسعه‌دهندگان"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.email_designer_themes
+msgid "Training"
+msgstr "آموزش"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid ""
+"Travel without leaving your kitchen with these international recipes. From "
+"Canada to Australia, Mexico to Sweden, and everywhere in between."
+msgstr ""
+"با این دستورپخت‌های بین‌المللی بدون خروج از آشپزخانه سفر کنید؛ از کانادا تا "
+"استرالیا، از مکزیک تا سوئد و هر جای دیگر در این میان."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Type \"/\" for commands"
+msgstr "برای دستورات، کلید «/» را تایپ کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid ""
+"Universities may give us a shiny degrees, but it does not give us the <span "
+"style=\"font-weight: bolder;\">practical skills we need to start an "
+"innovative career in tech</span>."
+msgstr ""
+"دانشگاه‌ها ممکن است مدارک درخشانی به ما بدهند، اما <span style=\"font-"
+"weight: bolder;\">مهارت‌های کاربردی موردنیاز برای آغاز یک مسیر شغلی نوآورانه"
+" در فناوری</span> را به ما نمی‌آموزند."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coupon_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_training_template
+msgid "Unsubscribe"
+msgstr "لغو اشتراک"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_blogging_template
+msgid "VISIT OUR WEBSITE"
+msgstr "مشاهده وب‌سایت ما"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Valid on all sales prices in our webshop."
+msgstr "معتبر برای تمامی قیمت‌های فروش در فروشگاه آنلاین ما."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "View Online"
+msgstr "مشاهده آنلاین"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_promotion_template
+msgid "Visit the website"
+msgstr "بازدید از وب‌سایت"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid "WE'RE MOVING"
+msgstr "ما در حال جابه‌جایی هستیم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_bignews_template
+msgid ""
+"We are proud to announce that due to our remarkable growth in the Springfield area, we are moving to a new location on July 1.\n"
+"                   <br/>We will continue to offer the same friendly service at our new address on <span style=\"font-weight: bolder\">1600 Main Street</span>,\n"
+"                   <br/>which will allow us to offer an even larger selection of products and services."
+msgstr ""
+"خرسندیم اعلام کنیم که به دلیل رشد چشمگیر در منطقه اسپرینگ‌فیلد، از ۱ ژوئیه به مکانی جدید نقل مکان می‌کنیم.\n"
+"                   <br/>ما همچنان با همان کیفیت صمیمانه در آدرس جدید واقع در <span style=\"font-weight: bolder\">خیابان اصلی، پلاک ۱۶۰۰</span> پاسخگوی شما خواهیم بود؛\n"
+"                   <br/>این جابه‌جایی به ما امکان می‌دهد تنوع گسترده‌تری از کالاها و خدمات را ارائه دهیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"We changed the deal and I got the 3 million EUR. It allowed me to recruit a "
+"rocking management team."
+msgstr ""
+"ما شرایط معامله را تغییر دادیم و من ۳ میلیون یورو جذب سرمایه کردم. این "
+"سرمایه به من امکان داد یک تیم مدیریتی فوق‌العاده استخدام کنم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"We wanted to switch from a service company to a software publisher company. "
+"This would allow us to increase our efforts in our research and development "
+"activities. As a result,"
+msgstr ""
+"می‌خواستیم مدل کسب‌وکار را از شرکتی خدماتی به یک ناشر و توسعه‌دهنده "
+"نرم‌افزار (Software Publisher) تغییر دهیم؛ امری که به ما اجازه می‌داد توان "
+"خود را در فعالیت‌های تحقیق و توسعه (R&amp;D) متمرکز کنیم. در نتیجه،"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "We're almost there!"
+msgstr "چیزی تا مقصد نمانده است!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "We're here to make sure you miss none of the gossip."
+msgstr "ما اینجا هستیم تا مطمئن شویم هیچ خبری را از دست نمی‌دهید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"We're on the starting blocks to prepare an incredible event for you!\n"
+"                    <br/>We hope to see you there."
+msgstr ""
+"در خط شروع آماده‌سازی رویدادی شگفت‌انگیز برای شما هستیم!\n"
+"                    <br/>امیدواریم شما را آنجا ببینیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"We're super excited to present our three new members, freshly arrived this "
+"week in our offices."
+msgstr ""
+"بسیار خرسندیم که سه عضو جدیدمان را معرفی کنیم که در این هفته به جمع ما ملحق "
+"شدند."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "Weekly Musings"
+msgstr "یادداشت‌های هفتگی"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid "Why You Need Two Types of Content Strategists"
+msgstr "چرا به دو تیپ استراتژیست محتوا نیاز دارید؟"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"With 1000 installations per day, we became the most installed management "
+"software in the world"
+msgstr ""
+"با ۱۰۰۰ نصب روزانه، به پرنصب‌ترین نرم‌افزار مدیریت سازمانی در جهان تبدیل "
+"شدیم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"With this money in our bank account, we boosted two departments: R&amp;D and"
+" Sales. We burned 2 million EUR in 18 months, mostly in salaries. The "
+"company started to grow even faster. We developed a partner network of 500 "
+"partners in 100 countries and we started to sign contracts with 6 zeros."
+msgstr ""
+"با واریز این سرمایه به حساب بانکی شرکت، دو واحد را تقویت کردیم: تحقیق و "
+"توسعه و فروش. ظرف ۱۸ ماه ۲ میلیون یورو—که بخش عمده‌اش صرف حقوق پرسنل "
+"شد—سوزاندیم (Burn Rate). رشد شرکت شتاب دوچندان گرفت؛ شبکه پارتنری با ۵۰۰ "
+"همکار تجاری در ۱۰۰ کشور شکل دادیم و امضای قراردادهای شش‌رقمی (میلیون دلاری) "
+"آغاز شد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_magazine_template
+msgid "Woman having breakfast in bed"
+msgstr "خانم در حال صرف صبحانه روی تخت"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "Yesterday's event at [venue] in [city] was incredible!"
+msgstr "رویداد دیروز در [venue] واقع در [city] بی‌نظیر بود!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid ""
+"You had the chance to discover Odoo during a full 3 hours, how great is that?\n"
+"                    <br/>Now that you've seen Odoo in action and asked some questions, you likely need more information to move forward in your project and to work with us. You'll find additional points just below."
+msgstr ""
+"شما این فرصت را داشتید که طی ۳ ساعت کامل مِنو را ارزیابی و بررسی کنید؛ عالی نیست؟\n"
+"                    <br/>اکنون که عملکرد عملیاتی مِنو را مشاهده کرده و سوالاتتان را مطرح نموده‌اید، احتمالاً برای پیشبرد پروژه سازمانی خود و همکاری با ما به جزئیات بیشتری نیاز دارید. در ادامه نکات تکمیلی را مشاهده می‌کنید."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "You may test Odoo for free by clicking"
+msgstr "برای تست رایگان مِنو می‌توانید کلیک کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid ""
+"You may then take part in round table discussions with experts who will give"
+" you their tips and tricks to help digitize companies. We'll wrap up the "
+"event with a networking session including a walking dinner."
+msgstr ""
+"سپس می‌توانید در پنل‌های گفتگو با حضور کارشناسان شرکت کنید تا راهکارها و "
+"تجربیات کلیدی برای تحول دیجیتال سازمان‌ها را با شما به اشتراک بگذارند. در "
+"پایان رویداد، جلسه شبکه‌سازی همراه با پذیرایی ایستاده برگزار خواهد شد."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+msgid ""
+"You'll be seeing <span style=\"font-weight: bolder;\">Armando</span> around "
+"the kitchen since he's our new <span style=\"font-weight: bolder;\">chef's "
+"assistant</span>!"
+msgstr ""
+"<span style=\"font-weight: bolder;\">آرماندو</span> را بیشتر در محیط "
+"آشپزخانه خواهید دید، چرا که او به عنوان <span style=\"font-weight: "
+"bolder;\">دستیار سرآشپز</span> جدید به ما پیوسته است!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_coffeebreak_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_event_template
+msgid "Your Logo"
+msgstr "لوگوی شما"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid "[link]"
+msgstr "[link]"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "[speaker] &amp; [speaker]"
+msgstr "[speaker] و [speaker]"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow1_template
+msgid ""
+"[speaker] and [speaker] will rely on a unique demo concept in which YOU lead"
+" the demo and choose what you wish to see. They'll show how to tackle the "
+"challenge using the best tools, live. You will be amazed!"
+msgstr ""
+"[speaker] و [speaker] بر اساس یک ساختار دموی تعاملی و منحصربه‌فرد عمل خواهند"
+" کرد که در آن «شما» هدایت دمو را بر عهده داشته و سناریوهای موردنظرتان را "
+"انتخاب می‌کنید. آن‌ها به صورت زنده نشان خواهند داد که چگونه با بهترین "
+"ابزارها این چالش‌ها مدیریت می‌شوند. غافلگیر خواهید شد!"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"and decided to stop our services for customers and focus on building a "
+"strong partner network and maintenance offer. This would cost money, so I "
+"had to raise a few million euros."
+msgstr ""
+"و تصمیم گرفتیم ارائه خدمات مستقیم به مشتریان را متوقف کرده و بر ایجاد شبکه "
+"قدرتمند پارتنری و قراردادهای پشتیبانی متمرکز شویم. این تغییر مستلزم هزینه "
+"بود، بنابراین ناچار شدم چند میلیون یورو سرمایه جذب کنم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid ""
+"asking; \"But why should we pay millions of dollars for a tiny software?\" "
+"So, we renamed TinyERP to OpenERP."
+msgstr ""
+"می‌پرسیدند: «اما چرا باید میلیون‌ها دلار بابت یک نرم‌افزار کوچک (Tiny) "
+"بپردازیم؟» بنابراین نام TinyERP را به OpenERP تغییر دادیم."
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "bought the SorrySAP.com domain name"
+msgstr "دامنه SorrySAP.com را خریداری کردم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "here"
+msgstr "اینجا"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "in front of Danone's directors"
+msgstr "در حضور مدیران ارشد شرکت دانون (Danone)"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "or"
+msgstr "یا"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "the fastest growing company of Belgium"
+msgstr "سریع‌ترین شرکت از نظر نرخ رشد در بلژیک"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "this page"
+msgstr "این صفحه"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_roadshow2_template
+msgid "watch our videos about the product"
+msgstr "ویدیوهای معرفی محصول را تماشا کنید"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "we changed our business model"
+msgstr "مدل کسب‌وکارمان را تغییر دادیم"
+
+#. module: mass_mailing_themes
+#: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_newsletter_template
+msgid "with 1549% growth of the turnover between 2007 and 2011)."
+msgstr "با ۱۵۴۹٪ رشد درآمد در فاصله سال‌های ۲۰۰۷ تا ۲۰۱۱)."

@@ -1,0 +1,211 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* documents_project
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:21+0000\n"
+"PO-Revision-Date: 2026-10-12 18:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_ir_attachment
+msgid "Attachment"
+msgstr "پیوست"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+#: code:addons/documents_project/models/res_company.py:0
+msgid "Company Project Folders cannot be linked to another company.%s"
+msgstr "پوشه‌های پروژه شرکتی را نمی‌توان به شرکت دیگری پیوند داد. %s"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: documents_project
+#: model_terms:ir.ui.view,arch_db:documents_project.res_config_settings_view_form_inherit_documents_project
+msgid "Default Project Folder"
+msgstr "پوشه پیش‌فرض پروژه"
+
+#. module: documents_project
+#: model:ir.model.fields,field_description:documents_project.field_documents_document__display_name
+#: model:ir.model.fields,field_description:documents_project.field_documents_tag__display_name
+#: model:ir.model.fields,field_description:documents_project.field_ir_attachment__display_name
+#: model:ir.model.fields,field_description:documents_project.field_project_project__display_name
+#: model:ir.model.fields,field_description:documents_project.field_res_company__display_name
+#: model:ir.model.fields,field_description:documents_project.field_res_config_settings__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_documents_document
+msgid "Document"
+msgstr "سند"
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/project_project.py:0
+#: model:ir.embedded.actions,name:documents_project.project_embedded_action_documents
+#: model:ir.embedded.actions,name:documents_project.project_embedded_action_documents_dashboard
+#: model_terms:ir.ui.view,arch_db:documents_project.project_view_kanban_inherit_documents
+msgid "Documents"
+msgstr "اسناد"
+
+#. module: documents_project
+#: model:ir.model.fields,field_description:documents_project.field_project_project__documents_folder_id
+msgid "Documents Folder"
+msgstr "پوشه اسناد"
+
+#. module: documents_project
+#: model_terms:ir.ui.view,arch_db:documents_project.res_config_settings_view_form_inherit_documents_project
+msgid "Folder"
+msgstr "پوشه"
+
+#. module: documents_project
+#: model:ir.model.fields,help:documents_project.field_project_project__documents_folder_id
+msgid ""
+"Folder in which all of the documents of this project will be categorized."
+msgstr "پوشه‌ای که تمامی اسناد این پروژه در آن دسته‌بندی خواهند شد."
+
+#. module: documents_project
+#: model_terms:ir.ui.view,arch_db:documents_project.res_config_settings_view_form_inherit_documents_project
+msgid "Folder where new projects are created"
+msgstr "پوشه‌ای که پروژه‌های جدید در آن ایجاد می‌شوند"
+
+#. module: documents_project
+#: model:ir.model.fields,field_description:documents_project.field_documents_document__id
+#: model:ir.model.fields,field_description:documents_project.field_documents_tag__id
+#: model:ir.model.fields,field_description:documents_project.field_ir_attachment__id
+#: model:ir.model.fields,field_description:documents_project.field_project_project__id
+#: model:ir.model.fields,field_description:documents_project.field_res_company__id
+#: model:ir.model.fields,field_description:documents_project.field_res_config_settings__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_project_project
+msgid "Project"
+msgstr "پروژه"
+
+#. module: documents_project
+#: model:ir.model.fields,field_description:documents_project.field_res_company__documents_project_folder_id
+#: model:ir.model.fields,field_description:documents_project.field_res_config_settings__documents_project_folder_id
+msgid "Project Folder"
+msgstr "پوشه پروژه"
+
+#. module: documents_project
+#: model:documents.document,name:documents_project.document_project_folder
+#: model:ir.model.fields,field_description:documents_project.field_documents_document__project_ids
+msgid "Projects"
+msgstr "پروژه‌ها"
+
+#. module: documents_project
+#: model:ir.model,name:documents_project.model_documents_tag
+msgid "Tag"
+msgstr "برچسب"
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/project_project.py:0
+msgid ""
+"The \"%(folder)s\" folder should either be in the \"%(company)s\" company "
+"like this project or be open to all companies."
+msgstr ""
+"پوشه «%(folder)s» یا باید مانند این پروژه در شرکت «%(company)s» باشد یا برای"
+" تمام شرکت‌ها باز باشد."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid ""
+"The \"%s\" folder is required by the Project application and cannot be "
+"archived."
+msgstr ""
+"پوشه «%s» توسط برنامه پروژه مورد نیاز است و نمی‌توان آن را بایگانی کرد."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid ""
+"This action can't be performed, as it would remove the folders used by the following projects:\n"
+"%(projects)s\n"
+"To continue, choose different folders for these projects."
+msgstr ""
+"این اقدام قابل انجام نیست، زیرا پوشه‌های مورد استفاده توسط پروژه‌های زیر را حذف می‌کند:\n"
+"%(projects)s\n"
+"برای ادامه، پوشه‌های متفاوتی را برای این پروژه‌ها انتخاب کنید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid ""
+"This folder should remain in the same company as the \"%(project)s\" project"
+" to which it is linked. Please update the company of the \"%(project)s\" "
+"project, or leave the company of this folder empty."
+msgstr ""
+"این پوشه باید در همان شرکتی باقی بماند که پروژه «%(project)s» به آن پیوند "
+"خورده است. لطفاً شرکت پروژه «%(project)s» را به‌روزرسانی کنید یا شرکت این "
+"پوشه را خالی بگذارید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid ""
+"This folder should remain in the same company as the following projects to which it is linked:\n"
+"%s\n"
+"\n"
+"Please update the company of those projects, or leave the company of this folder empty."
+msgstr ""
+"این پوشه باید در همان شرکتی باقی بماند که پروژه‌های زیر به آن پیوند خورده‌اند:\n"
+"%s\n"
+"\n"
+"لطفاً شرکت آن پروژه‌ها را به‌روزرسانی کنید یا شرکت این پوشه را خالی بگذارید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid "Uh-oh! The project app needs the \"%s\" folder, so you can’t delete it."
+msgstr ""
+"اوپس! برنامه پروژه به پوشه «%s» نیاز دارد، بنابراین نمی‌توانید آن را حذف "
+"کنید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid "You cannot archive the project base folder (%s)."
+msgstr "شما نمی‌توانید پوشه پایه پروژه (%s) را بایگانی کنید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/project_project.py:0
+msgid ""
+"You cannot change the company of this project, because its folder is linked to the other following projects that are still in the \"%(other_company)s\" company:\n"
+"%(other_folders)s\n"
+"\n"
+"Please update the company of all projects so that they remain in the same company as their folder, or leave the company of the \"%(folder)s\" folder blank."
+msgstr ""
+"شما نمی‌توانید شرکت این پروژه را تغییر دهید، زیرا پوشه آن به پروژه‌های زیر که همچنان در شرکت «%(other_company)s» هستند پیوند خورده است:\n"
+"%(other_folders)s\n"
+"\n"
+"لطفاً شرکت تمام پروژه‌ها را به‌روزرسانی کنید تا در همان شرکت پوشه خود باقی بمانند، یا شرکت پوشه «%(folder)s» را خالی بگذارید."
+
+#. module: documents_project
+#. odoo-python
+#: code:addons/documents_project/models/documents_document.py:0
+msgid "You cannot set a company on the %s folder."
+msgstr "شما نمی‌توانید برای پوشه %s شرکتی تعیین کنید."

@@ -1,0 +1,315 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* pos_event
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:25+0000\n"
+"PO-Revision-Date: 2026-10-12 18:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.js:0
+msgid " for this slot"
+msgstr " برای این بازه زمانی"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+msgid "--- Select ---"
+msgstr "--- انتخاب کنید ---"
+
+#. module: pos_event
+#: model_terms:ir.ui.view,arch_db:pos_event.pos_order_form_view_inherit
+msgid "<i class=\"fa fa-file-pdf-o me-1\" aria-hidden=\"true\"/>Print Event Badges"
+msgstr ""
+"<i class=\"fa fa-file-pdf-o me-1\" aria-hidden=\"true\"/>چاپ کارت‌های "
+"شناسایی رویداد"
+
+#. module: pos_event
+#: model_terms:ir.ui.view,arch_db:pos_event.pos_order_form_view_inherit
+msgid "<i class=\"fa fa-file-pdf-o me-1\" aria-hidden=\"true\"/>Print Event Tickets"
+msgstr "<i class=\"fa fa-file-pdf-o me-1\" aria-hidden=\"true\"/>چاپ بلیط‌های رویداد"
+
+#. module: pos_event
+#: model_terms:ir.ui.view,arch_db:pos_event.event_registration_ticket_view_form
+msgid "<span class=\"o_stat_text\">PoS Order</span>"
+msgstr "<span class=\"o_stat_text\">سفارش پایانه فروش</span>"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_pos_order__attendee_count
+msgid "Attendee Count"
+msgstr "تعداد شرکت‌کنندگان"
+
+#. module: pos_event
+#: model_terms:ir.ui.view,arch_db:pos_event.pos_order_form_view_inherit
+msgid "Attendees"
+msgstr "شرکت‌کنندگان"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/popup/event_slot_selection_popup/event_slot_selection_popup.xml:0
+msgid "Cancel"
+msgstr "لغو"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/popup/event_slot_selection_popup/event_slot_selection_popup.xml:0
+msgid "Confirm"
+msgstr "تأیید"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_event_event__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_event_ticket__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_question__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_question_answer__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_registration__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_registration_answer__display_name
+#: model:ir.model.fields,field_description:pos_event.field_event_slot__display_name
+#: model:ir.model.fields,field_description:pos_event.field_pos_config__display_name
+#: model:ir.model.fields,field_description:pos_event.field_pos_order__display_name
+#: model:ir.model.fields,field_description:pos_event.field_pos_order_line__display_name
+#: model:ir.model.fields,field_description:pos_event.field_pos_session__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.js:0
+msgid "Error"
+msgstr "خطا"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_event
+msgid "Event"
+msgstr "رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_question
+msgid "Event Question"
+msgstr "سوال رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_question_answer
+msgid "Event Question Answer"
+msgstr "پاسخ سوال رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_registration
+msgid "Event Registration"
+msgstr "ثبت نام رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_registration_answer
+msgid "Event Registration Answer"
+msgstr "پاسخ ثبت‌نام رویداد"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/screens/receipt_screen/receipt_screen.xml:0
+#: model:ir.model.fields,field_description:pos_event.field_pos_order_line__event_registration_ids
+msgid "Event Registrations"
+msgstr "ثبت‌ نام‌های رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_slot
+msgid "Event Slot"
+msgstr "بازه زمانی رویداد"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_event_event_ticket
+#: model:ir.model.fields,field_description:pos_event.field_pos_order_line__event_ticket_id
+msgid "Event Ticket"
+msgstr "بلیط رویداد"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/screens/product_screen/order_summary/order_summary.xml:0
+msgid "Event name"
+msgstr "نام رویداد"
+
+#. module: pos_event
+#: model:pos.category,name:pos_event.pos_category_event
+msgid "Events"
+msgstr "رویدادها"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+msgid "Global questions"
+msgstr "سوالات عمومی"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_event_event__id
+#: model:ir.model.fields,field_description:pos_event.field_event_event_ticket__id
+#: model:ir.model.fields,field_description:pos_event.field_event_question__id
+#: model:ir.model.fields,field_description:pos_event.field_event_question_answer__id
+#: model:ir.model.fields,field_description:pos_event.field_event_registration__id
+#: model:ir.model.fields,field_description:pos_event.field_event_registration_answer__id
+#: model:ir.model.fields,field_description:pos_event.field_event_slot__id
+#: model:ir.model.fields,field_description:pos_event.field_pos_config__id
+#: model:ir.model.fields,field_description:pos_event.field_pos_order__id
+#: model:ir.model.fields,field_description:pos_event.field_pos_order_line__id
+#: model:ir.model.fields,field_description:pos_event.field_pos_session__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_slot_selection_popup/event_slot_selection_popup.xml:0
+msgid "No Slot Selected"
+msgstr "هیچ بازه زمانی انتخاب نشده است"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "No slots"
+msgstr "بدون بازه زمانی"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_event_event__image_1024
+msgid "PoS Image"
+msgstr "تصویر پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_event_registration__pos_order_id
+msgid "PoS Order"
+msgstr "سفارش پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model.fields,field_description:pos_event.field_event_registration__pos_order_line_id
+msgid "PoS Order Line"
+msgstr "سطر سفارش پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_pos_config
+msgid "Point of Sale Configuration"
+msgstr "پیکربندی پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_pos_order_line
+msgid "Point of Sale Order Lines"
+msgstr "سطرهای سفارش پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "سفارشات پایانه فروش"
+
+#. module: pos_event
+#: model:ir.model,name:pos_event.model_pos_session
+msgid "Point of Sale Session"
+msgstr "جلسه پایانه فروش"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/screens/receipt_screen/receipt_screen.xml:0
+msgid "Print Badge"
+msgstr "چاپ نشان"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/screens/receipt_screen/receipt_screen.xml:0
+msgid "Print Full Page Ticket"
+msgstr "چاپ بلیط تمام صفحه"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_slot_selection_popup/event_slot_selection_popup.js:0
+msgid "Select a slot for %(event)s"
+msgstr "انتخاب بازه زمانی برای %(event)s"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.js:0
+msgid "Select tickets for %(event)s"
+msgstr "انتخاب بلیط‌ها برای %(event)s"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.js:0
+msgid "Select tickets for %(event)s (%(seats)s seats available%(suffix)s)"
+msgstr "انتخاب بلیط‌ها برای %(event)s (%(seats)s صندلی موجود %(suffix)s)"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "Sold out"
+msgstr "تکمیل ظرفیت / ناموجود"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.js:0
+msgid ""
+"The selected ticket (%s) is not available. Please select a different ticket."
+msgstr "بلیط انتخاب‌شده (%s) موجود نیست. لطفاً بلیط دیگری را انتخاب کنید."
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+msgid "Ticket #"
+msgstr "بلیط شماره #"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/models/pos_order_line.js:0
+msgid "Ticket error"
+msgstr "خطای بلیط"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+msgid "Tickets"
+msgstr "بلیط‌ها"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "Unlimited"
+msgstr "نامحدود"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/models/pos_order_line.js:0
+msgid ""
+"You cannot change quantity for a line linked with an event registration"
+msgstr "شما نمی‌توانید تعداد سطری را که به ثبت‌نام رویداد متصل است تغییر دهید"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_registration_popup/event_registration_popup.xml:0
+msgid "for"
+msgstr "برای"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/popup/event_configurator_popup/event_configurator_popup.xml:0
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "left"
+msgstr "باقی‌مانده"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "slot"
+msgstr "بازه زمانی"
+
+#. module: pos_event
+#. odoo-javascript
+#: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
+msgid "slots"
+msgstr "بازه زمانی"

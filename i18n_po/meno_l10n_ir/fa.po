@@ -1,0 +1,1014 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_l10n_ir
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"<i class=\"fa fa-check-circle fa-4x mb-3 mt-3 text-success\" "
+"title=\"موفقیت\"/>"
+msgstr ""
+"<i class=\"fa fa-check-circle fa-4x mb-3 mt-3 text-success\" "
+"title=\"موفقیت\"/>"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid ""
+"<i class=\"fa fa-check-circle me-2\" title=\"Success\" aria-label=\"Success\"/>\n"
+"                        <strong>وضعیت تجمیعی: موفق!</strong> سیستم شما کاملاً با استانداردهای حسابداری ایران منطبق است."
+msgstr ""
+"<i class=\"fa fa-check-circle ms-2\" title=\"موفقیت\" aria-label=\"موفقیت\"/>\n"
+"                        <strong>وضعیت تجمیعی: موفق!</strong> سیستم شما کاملاً با استانداردهای حسابداری ایران منطبق است."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"<i class=\"fa fa-exclamation-triangle fa-4x mb-3 mt-3 text-warning\" "
+"title=\"هشدار\"/>"
+msgstr ""
+"<i class=\"fa fa-exclamation-triangle fa-4x mb-3 mt-3 text-warning\" "
+"title=\"هشدار\"/>"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid ""
+"<i class=\"fa fa-exclamation-triangle me-2 \" title=\"warning\" aria-label=\"warning\"/>\n"
+"                        <strong>سیستم برای حسابداری بومی ایران به طور کامل تنظیم نشده است!</strong> برای اعمال تنظیمات استاندارد روی دکمه زیر کلیک کنید."
+msgstr ""
+"<i class=\"fa fa-exclamation-triangle ms-2 \" title=\"هشدار\" aria-label=\"هشدار\"/>\n"
+"                        <strong>سیستم برای حسابداری بومی ایران به طور کامل تنظیم نشده است!</strong> برای اعمال تنظیمات استاندارد روی دکمه زیر کلیک کنید."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"<i class=\"fa fa-info-circle\" title=\"اطلاعات\"/> حساب‌های موجود در سیستم "
+"حذف یا تغییر نخواهند کرد."
+msgstr ""
+"<i class=\"fa fa-info-circle\" title=\"اطلاعات\"/> حساب‌های موجود در سیستم "
+"حذف یا تغییر نخواهند کرد."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"<i class=\"fa fa-list-alt\" title=\"پیش‌نمایش\"/> خلاصه و مقایسه تغییرات "
+"آماده اعمال"
+msgstr ""
+"<i class=\"fa fa-list-alt\" title=\"پیش‌نمایش\"/> خلاصه و مقایسه تغییرات "
+"آماده اعمال"
+
+#. module: meno_l10n_ir
+#: model:ir.model,name:meno_l10n_ir.model_account_account
+msgid "Account"
+msgstr "حساب"
+
+#. module: meno_l10n_ir
+#: model:ir.model,name:meno_l10n_ir.model_account_chart_template
+msgid "Account Chart Template"
+msgstr "قالب جدول حساب‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model,name:meno_l10n_ir.model_account_group
+msgid "Account Group"
+msgstr "گروه حساب"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__create_uid
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__create_uid
+msgid "Created by"
+msgstr "ایجادشده توسط"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__create_date
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__create_date
+msgid "Created on"
+msgstr "ایجادشده در تاریخ"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_account__display_name
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_chart_template__display_name
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_group__display_name
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__display_name
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__display_name
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_move_line__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_account__id
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_chart_template__id
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_group__id
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__id
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__id
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_move_line__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_l10n_ir
+#. odoo-python
+#: code:addons/meno_l10n_ir/models/template_ir.py:0
+msgid "Iran Chart of Accounts"
+msgstr "کدینگ حساب‌های ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__is_fully_configured
+msgid "Is Fully Configured"
+msgstr "به طور کامل پیکربندی شده است"
+
+#. module: meno_l10n_ir
+#: model:ir.model,name:meno_l10n_ir.model_account_move_line
+msgid "Journal Item"
+msgstr "آیتم روزنامه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__write_uid
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__write_uid
+msgid "Last Updated by"
+msgstr "آخرین ویرایش توسط"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__write_date
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__write_date
+msgid "Last Updated on"
+msgstr "آخرین ویرایش در تاریخ"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_account_groups
+msgid "Stat Account Groups"
+msgstr "آمار گروه‌های حساب"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_fiscal_positions
+msgid "Stat Fiscal Positions"
+msgstr "آمار موقعیت‌های مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_journals
+msgid "Stat Journals"
+msgstr "آمار دفاتر روزنامه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_kept_accounts
+msgid "Stat Kept Accounts"
+msgstr "آمار حساب‌های حفظ‌شده"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_new_accounts
+msgid "Stat New Accounts"
+msgstr "آمار حساب‌های جدید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_payment_terms
+msgid "Stat Payment Terms"
+msgstr "آمار شروط پرداخت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__stat_taxes_count
+msgid "Stat Taxes Count"
+msgstr "آمار تعداد مالیات‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__8
+msgid "آبان"
+msgstr "آبان"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__last_setup_date
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "آخرین اجرای پیکربندی"
+msgstr "آخرین اجرای پیکربندی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__9
+msgid "آذر"
+msgstr "آذر"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "آمار رکوردها و تنظیمات جانبی"
+msgstr "آمار رکوردها و تنظیمات جانبی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "اجرای ویزارد جامع پیکربندی حسابداری ایران"
+msgstr "اجرای ویزارد جامع پیکربندی حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__2
+msgid "اردیبهشت"
+msgstr "اردیبهشت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__summary_currency
+msgid "ارز جدید"
+msgstr "ارز جدید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__sys_currency
+msgid "ارز فعلی سیستم"
+msgstr "ارز فعلی سیستم"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__currency_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "ارز پایه"
+msgstr "ارز پایه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__inventory_val_state
+msgid "ارزش‌گذاری انبار"
+msgstr "ارزش‌گذاری انبار"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_inventory
+msgid "ارزش‌گذاری انبار اعمال شد"
+msgstr "ارزش‌گذاری انبار اعمال شد"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "ارزش‌گذاری خودکار انبار"
+msgstr "ارزش‌گذاری خودکار انبار"
+
+#. module: meno_l10n_ir
+#: model:ir.ui.menu,name:meno_l10n_ir.menu_iran_accounting_setup
+msgid "استقرار هوشمند ایران"
+msgstr "استقرار هوشمند ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__12
+msgid "اسفند"
+msgstr "اسفند"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_base
+msgid "اعمال تنظیمات پایه"
+msgstr "اعمال تنظیمات پایه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__bank_transfer_acc_code
+msgid "انتقال بین‌بانکی"
+msgstr "انتقال بین‌بانکی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "انصراف"
+msgstr "انصراف"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_coa
+msgid "ایجاد / تطبیق ساختار درخت حساب‌ها"
+msgstr "ایجاد / تطبیق ساختار درخت حساب‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,help:meno_l10n_ir.field_account_group__l10n_ir_level
+msgid "این فیلد مشخص می‌کند رکورد جاری در کجای درخت حسابداری ایران قرار دارد."
+msgstr ""
+"این فیلد مشخص می‌کند رکورد جاری در کجای درخت حسابداری ایران قرار دارد."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "بستن و بروزرسانی داشبورد"
+msgstr "بستن و به‌روزرسانی داشبورد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__fiscal_localization_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "بسته بومی‌سازی"
+msgstr "بسته بومی‌سازی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__cogs_account_state
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_expense_code
+msgid "بهای تمام‌شده"
+msgstr "بهای تمام‌شده"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "بهای تمام‌شده کالای فروش‌رفته"
+msgstr "بهای تمام‌شده کالای فروش‌رفته"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__11
+msgid "بهمن"
+msgstr "بهمن"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.res_config_settings_view_form_inherit_l10n_ir
+msgid "بومی‌سازی حسابداری ایران"
+msgstr "بومی‌سازی حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "تایید و اعمال نهایی پیکربندی"
+msgstr "تأیید و اعمال نهایی پیکربندی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_disc_purch_code
+msgid "تخفیف نقدی خرید"
+msgstr "تخفیف نقدی خرید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_disc_sale_code
+msgid "تخفیف نقدی فروش"
+msgstr "تخفیف نقدی فروش"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__coa_digits
+msgid "تعداد ارقام کدینگ حساب‌ها"
+msgstr "تعداد ارقام کدینگ حساب‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__coa_count
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "تعداد حساب‌های کل/معین"
+msgstr "تعداد حساب‌های کل/معین"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__tax_count
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "تعداد کدهای مالیاتی"
+msgstr "تعداد کدهای مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__account_groups_count
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "تعداد گروه‌های حساب"
+msgstr "تعداد گروه‌های حساب"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_taxes
+msgid "تعریف مالیات‌ها"
+msgstr "تعریف مالیات‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_fiscal
+msgid "تعریف موقعیت‌های مالیاتی"
+msgstr "تعریف موقعیت‌های مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_set_currency_irr
+msgid "تنظیم ارز پایه شرکت"
+msgstr "تنظیم ارز پایه شرکت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_inv_accounts
+msgid "تنظیم حساب‌های پیش‌فرض درآمد و هزینه"
+msgstr "تنظیم حساب‌های پیش‌فرض درآمد و هزینه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_partner_accounts
+msgid "تنظیم حساب‌های پیش‌فرض مشتریان و فروشندگان"
+msgstr "تنظیم حساب‌های پیش‌فرض مشتریان و فروشندگان"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_set_fiscal_year
+msgid "تنظیم پایان سال مالی"
+msgstr "تنظیم پایان سال مالی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_set_domestic_country_ir
+msgid "تنظیم کشور داخلی حسابداری"
+msgstr "تنظیم کشور داخلی حسابداری"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_set_country_ir
+msgid "تنظیم کشور شرکت"
+msgstr "تنظیم کشور شرکت"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "تنظیمات با موفقیت و بدون خطا ثبت شد!"
+msgstr "تنظیمات با موفقیت و بدون خطا ثبت شد!"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "تنظیمات منطقه‌ای"
+msgstr "تنظیمات منطقه‌ای"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_base
+msgid "تنظیمات پایه اعمال شد"
+msgstr "تنظیمات پایه اعمال شد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__4
+msgid "تیر"
+msgstr "تیر"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__income_account_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "حساب درآمد پیش‌فرض"
+msgstr "حساب درآمد پیش‌فرض"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__bank_suspense_state
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__bank_suspense_acc_code
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "حساب معلق بانکی"
+msgstr "حساب معلق بانکی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_account__l10n_ir_kol_id
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_move_line_tree_inherit_l10n_ir
+msgid "حساب کل"
+msgstr "حساب کل"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_move_line_filter_inherit_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_search_inherit_l10n_ir
+msgid "حساب کل (ایران)"
+msgstr "حساب کل (ایران)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_move_line__l10n_ir_kol_id
+msgid "حساب کل (سطح ۲)"
+msgstr "حساب کل (سطح ۲)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_group__l10n_ir_level__kol
+msgid "حساب کل (۲ رقمی)"
+msgstr "حساب کل (۲ رقمی)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,help:meno_l10n_ir.field_account_account__l10n_ir_kol_id
+msgid "حساب کل سطح دوم (۲ رقمی) مرتبط با این حساب معین"
+msgstr "حساب کل سطح دوم (۲ رقمی) مرتبط با این حساب معین"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__exchange_diff_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "حساب‌های تسعیر ارز"
+msgstr "حساب‌های تسعیر ارز"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__3
+msgid "خرداد"
+msgstr "خرداد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__has_error
+msgid "دارای خطا در حین اجرا"
+msgstr "دارای خطا در حین اجرا"
+
+#. module: meno_l10n_ir
+#: model:ir.actions.act_window,name:meno_l10n_ir.action_iran_accounting_health_board
+msgid "داشبورد بومی‌سازی ایران"
+msgstr "داشبورد بومی‌سازی ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model,name:meno_l10n_ir.model_account_iran_health_board
+msgid "داشبورد سلامت حسابداری ایران"
+msgstr "داشبورد سلامت حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "داشبورد پایش بومی‌سازی ایران"
+msgstr "داشبورد پایش بومی‌سازی ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "داشبورد پایش سلامت و وضعیت حسابداری ایران"
+msgstr "داشبورد پایش سلامت و وضعیت حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.actions.act_window,help:meno_l10n_ir.action_account_moves_ledger_ir
+msgid ""
+"در این نما می‌توانید گردش حساب‌ها را به تفکیک حساب کل (کد ۲ رقمی) مشاهده "
+"کنید."
+msgstr ""
+"در این نما می‌توانید گردش حساب‌ها را به تفکیک حساب کل (کد ۲ رقمی) مشاهده "
+"کنید."
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_income_code
+msgid "درآمد فروش کالا"
+msgstr "درآمد فروش کالا"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_coa
+msgid "درخت حساب‌ها اعمال شد"
+msgstr "درخت حساب‌ها اعمال شد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__def_receivable_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "دریافتنی تجاری (مشتریان)"
+msgstr "حساب‌های دریافتنی تجاری (مشتریان)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__partner_receivable_code
+msgid "دریافتنی مشتریان"
+msgstr "حساب‌های دریافتنی مشتریان"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__special_journals_count
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "دفاتر تخصصی ایران"
+msgstr "دفاتر تخصصی ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.ui.menu,name:meno_l10n_ir.menu_action_account_moves_ledger_ir
+msgid "دفتر کل (ایران)"
+msgstr "دفتر کل (ایران)"
+
+#. module: meno_l10n_ir
+#: model:ir.actions.act_window,name:meno_l10n_ir.action_account_moves_ledger_ir
+msgid "دفتر کل (گزارش ایرانی)"
+msgstr "دفتر کل (گزارش ایرانی)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__10
+msgid "دی"
+msgstr "دی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__fiscal_day
+msgid "روز پایان سال مالی"
+msgstr "روز پایان سال مالی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_exch_loss_code
+msgid "زیان تسعیر ارز"
+msgstr "زیان تسعیر ارز"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.res_config_settings_view_form_inherit_l10n_ir
+msgid "ساختار سلسله مراتبی"
+msgstr "ساختار سلسله‌مراتبی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.res_config_settings_view_form_inherit_l10n_ir
+msgid ""
+"ساختار کدینگ ۱ رقمی (گروه) و ۲ رقمی (کل) برای شرکت شما با موفقیت پیاده‌سازی "
+"شده است."
+msgstr ""
+"ساختار کدینگ ۱ رقمی (گروه) و ۲ رقمی (کل) برای شرکت شما با موفقیت پیاده‌سازی "
+"شده است."
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__summary_fiscal_year
+msgid "سال مالی جدید"
+msgstr "سال مالی جدید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__sys_fiscal_year
+msgid "سال مالی فعلی سیستم"
+msgstr "سال مالی فعلی سیستم"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_group__l10n_ir_level__other
+msgid "سایر"
+msgstr "سایر"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_group__l10n_ir_level
+msgid "سطح حساب (ایران)"
+msgstr "سطح حساب (ایران)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_exch_gain_code
+msgid "سود تسعیر ارز"
+msgstr "سود تسعیر ارز"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"سیستم وضعیت فعلی شرکت شما را بررسی نموده است. ماژول آماده اعمال هوشمند "
+"تغییرات می‌باشد. برای شروع پیکربندی روی مرحله بعدی کلیک کنید."
+msgstr ""
+"سیستم وضعیت فعلی شرکت شما را بررسی نموده است. ماژول آماده اعمال هوشمند "
+"تغییرات می‌باشد. برای شروع پیکربندی روی مرحله بعدی کلیک کنید."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "شرح خطاها:"
+msgstr "شرح خطاها:"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__company_id
+msgid "شرکت"
+msgstr "شرکت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__company_id
+msgid "شرکت هدف"
+msgstr "شرکت هدف"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__6
+msgid "شهریور"
+msgstr "شهریور"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_partners
+msgid "طرف‌حساب‌ها اعمال شد"
+msgstr "طرف‌حساب‌ها اعمال شد"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "عملیات پایان یافت اما خطاهایی در مسیر وجود داشت!"
+msgstr "عملیات پایان یافت اما خطاهایی در مسیر وجود داشت!"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__1
+msgid "فروردین"
+msgstr "فروردین"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_payment_terms
+msgid "فعال‌سازی شروط پرداخت رایج در ایران"
+msgstr "فعال‌سازی شروط پرداخت رایج در ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__execution_log
+msgid "لاگ عملیات و خطاها"
+msgstr "گزارش وقایع (لاگ) عملیات و خطاها"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "لطفا جزئیات خطا را در پایین بررسی کنید."
+msgstr "لطفاً جزئیات خطا را در پایین بررسی کنید."
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid ""
+"لطفا وضعیت فعلی سیستم را با مقادیری که قرار است اعمال شوند مقایسه کرده و سپس"
+" تایید کنید."
+msgstr ""
+"لطفاً وضعیت فعلی سیستم را با مقادیری که قرار است اعمال شوند مقایسه کرده و "
+"سپس تأیید کنید."
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_taxes
+msgid "مالیات‌ها اعمال شد"
+msgstr "مالیات‌ها اعمال شد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__summary_taxes
+msgid "مالیات‌های جدید"
+msgstr "مالیات‌های جدید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__fiscal_month
+msgid "ماه پایان سال مالی"
+msgstr "ماه پایان سال مالی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "مرحله بعد"
+msgstr "مرحله بعد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__state
+msgid "مرحله جاری"
+msgstr "مرحله جاری"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "مرحله قبل"
+msgstr "مرحله قبل"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__5
+msgid "مرداد"
+msgstr "مرداد"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "مقادیر جدید جهت اعمال (پس از تغییر)"
+msgstr "مقادیر جدید جهت اعمال (پس از تغییر)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__fiscal_month__7
+msgid "مهر"
+msgstr "مهر"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_stock_val_code
+msgid "موجودی انبار"
+msgstr "موجودی انبار"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,help:meno_l10n_ir.field_account_move_line__l10n_ir_kol_id
+msgid "مورد استفاده برای استخراج ترازنامه سطح کل و دفاتر قانونی (۲ رقمی)"
+msgstr "مورد استفاده برای استخراج ترازنامه سطح کل و دفاتر قانونی (۲ رقمی)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,help:meno_l10n_ir.field_account_move_line__l10n_ir_group_id
+msgid "مورد استفاده برای گروه‌بندی کلان گزارشات ترازنامه (۱ رقمی)"
+msgstr "مورد استفاده برای گروه‌بندی کلان گزارشات ترازنامه (۱ رقمی)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__fiscal_position_count
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "موقعیت‌های مالیاتی"
+msgstr "موقعیت‌های مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_fiscal
+msgid "موقعیت‌های مالیاتی اعمال شد"
+msgstr "موقعیت‌های مالیاتی اعمال شد"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__vat_purchase_rate
+msgid "نرخ مالیات خرید (%)"
+msgstr "نرخ مالیات خرید (٪)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__vat_sale_rate
+msgid "نرخ مالیات فروش (%)"
+msgstr "نرخ مالیات فروش (٪)"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "نظارت یکپارچه بر پیکربندی و استانداردهای بومی حسابداری"
+msgstr "نظارت یکپارچه بر پیکربندی و استانداردهای بومی حسابداری"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.res_config_settings_view_form_inherit_l10n_ir
+msgid "نمایش حساب‌های معین زیرمجموعه کل و گروه"
+msgstr "نمایش حساب‌های معین زیرمجموعه کل و گروه"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.actions.act_window,help:meno_l10n_ir.action_account_moves_ledger_ir
+msgid "هیچ سند مالی یافت نشد."
+msgstr "هیچ سند مالی یافت نشد."
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_stock_out_code
+msgid "واسط خروج"
+msgstr "واسط خروج"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__inv_stock_in_code
+msgid "واسط ورود"
+msgstr "واسط ورود"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__lock_date_state
+msgid "وضعیت تاریخ قفل"
+msgstr "وضعیت تاریخ قفل"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "وضعیت تاریخ قفل (Lock Date)"
+msgstr "وضعیت تاریخ قفل (Lock Date)"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "وضعیت ثبت مراحل:"
+msgstr "وضعیت ثبت مراحل:"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "وضعیت فعلی سیستم (پیش از تغییر)"
+msgstr "وضعیت فعلی سیستم (پیش از تغییر)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__sys_coa_status
+msgid "وضعیت کدینگ فعلی"
+msgstr "وضعیت کدینگ فعلی"
+
+#. module: meno_l10n_ir
+#. odoo-python
+#: code:addons/meno_l10n_ir/wizard/iran_health_board.py:0
+#: model:ir.model,name:meno_l10n_ir.model_account_iran_setup_wizard
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "ویزارد جامع پیکربندی حسابداری ایران"
+msgstr "ویزارد جامع پیکربندی حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__fiscal_year_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "پایان سال مالی"
+msgstr "پایان سال مالی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__def_payable_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "پرداختنی تجاری (تامین‌کنندگان)"
+msgstr "حساب‌های پرداختنی تجاری (تامین‌کنندگان)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__partner_payable_code
+msgid "پرداختنی فروشندگان"
+msgstr "حساب‌های پرداختنی فروشندگان"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__tax_return_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "پیکربندی اظهارنامه"
+msgstr "پیکربندی اظهارنامه"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_inv_valuation
+msgid "پیکربندی حساب‌ها و دفاتر انبارداری"
+msgstr "پیکربندی حساب‌ها و دفاتر انبارداری"
+
+#. module: meno_l10n_ir
+#: model:ir.actions.act_window,name:meno_l10n_ir.action_account_iran_setup_wizard
+msgid "پیکربندی هوشمند حسابداری ایران"
+msgstr "پیکربندی هوشمند حسابداری ایران"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__opt_setup_journals
+msgid "پیکربندی ژورنال‌های تخصصی"
+msgstr "پیکربندی دفاتر روزنامه تخصصی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__done_journals
+msgid "ژورنال‌ها اعمال شد"
+msgstr "دفاتر روزنامه اعمال شد"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "کدهای حساب"
+msgstr "کدهای حساب"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "کدهای حساب پیش‌فرض"
+msgstr "کدهای حساب پیش‌فرض"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__summary_country
+msgid "کشور جدید"
+msgstr "کشور جدید"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__company_country_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "کشور شرکت"
+msgstr "کشور شرکت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_setup_wizard__sys_country
+msgid "کشور فعلی سیستم"
+msgstr "کشور فعلی سیستم"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_iran_health_board__fiscal_country_state
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "کشور مالیاتی"
+msgstr "کشور مالیاتی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام اول: بررسی اولیه و ارزیابی تشخیصی وضعیت سیستم"
+msgstr "گام اول: بررسی اولیه و ارزیابی تشخیصی وضعیت سیستم"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام دوم: تنظیمات پایه، کشور مالیاتی، سال مالی و ارز"
+msgstr "گام دوم: تنظیمات پایه، کشور مالیاتی، سال مالی و ارز"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام سوم: ساختار درخت حساب‌ها و گروه‌های حساب پیشنهادی"
+msgstr "گام سوم: ساختار درخت حساب‌ها و گروه‌های حساب پیشنهادی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام ششم: پیش‌فرض‌های طرف حساب‌ها و شروط پرداخت ایران"
+msgstr "گام ششم: پیش‌فرض‌های طرف حساب‌ها و شروط پرداخت ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام هشتم: موقعیت‌های مالیاتی (Fiscal Positions)"
+msgstr "گام هشتم: موقعیت‌های مالیاتی (Fiscal Positions)"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام هفتم: ارزش‌گذاری موجودی انبار، تسعیر ارز و تخفیفات"
+msgstr "گام هفتم: ارزش‌گذاری موجودی انبار، تسعیر ارز و تخفیفات"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام پنجم: دفاتر روزنامه تخصصی بازار ایران"
+msgstr "گام پنجم: دفاتر روزنامه تخصصی بازار ایران"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_setup_wizard
+msgid "گام چهارم: مالیات‌ها، عوارض ارزش افزوده و معافیت‌ها"
+msgstr "گام چهارم: مالیات‌ها، عوارض ارزش افزوده و معافیت‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_account__l10n_ir_group_id
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_move_line_tree_inherit_l10n_ir
+msgid "گروه حساب"
+msgstr "گروه حساب"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_move_line_filter_inherit_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_search_inherit_l10n_ir
+msgid "گروه حساب (ایران)"
+msgstr "گروه حساب (ایران)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,field_description:meno_l10n_ir.field_account_move_line__l10n_ir_group_id
+msgid "گروه حساب (سطح ۱)"
+msgstr "گروه حساب (سطح ۱)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_group__l10n_ir_level__group
+msgid "گروه حساب (۱ رقمی)"
+msgstr "گروه حساب (۱ رقمی)"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields,help:meno_l10n_ir.field_account_account__l10n_ir_group_id
+msgid "گروه حساب سطح اول (۱ رقمی) مرتبط با این حساب معین"
+msgstr "گروه حساب سطح اول (۱ رقمی) مرتبط با این حساب معین"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_1_eval
+msgid "۱. ارزیابی اولیه"
+msgstr "۱. ارزیابی اولیه"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۱. کشور، محلی‌سازی و ارز"
+msgstr "۱. کشور، محلی‌سازی و ارز"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_10_done
+msgid "۱۰. پایان عملیات"
+msgstr "۱۰. پایان عملیات"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_2_base
+msgid "۲. تنظیمات پایه و ارز"
+msgstr "۲. تنظیمات پایه و ارز"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۲. چارت حساب‌ها و دفاتر"
+msgstr "۲. چارت حساب‌ها و دفاتر"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۳. حساب‌های پیش‌فرض و بانک"
+msgstr "۳. حساب‌های پیش‌فرض و بانک"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_3_coa
+msgid "۳. درخت حساب‌ها"
+msgstr "۳. درخت حساب‌ها"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_4_taxes
+msgid "۴. مالیات بر ارزش افزوده"
+msgstr "۴. مالیات بر ارزش افزوده"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۴. مالیات و موقعیت‌های مالیاتی"
+msgstr "۴. مالیات و موقعیت‌های مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_5_journals
+msgid "۵. دفاتر روزنامه تخصصی"
+msgstr "۵. دفاتر روزنامه تخصصی"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۵. قفل‌های زمانی و کنترل"
+msgstr "۵. قفل‌های زمانی و کنترل"
+
+#. module: meno_l10n_ir
+#: model_terms:ir.ui.view,arch_db:meno_l10n_ir.view_account_iran_health_board
+msgid "۶. انبار، تولید و تسعیر ارز"
+msgstr "۶. انبار، تولید و تسعیر ارز"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_6_partners
+msgid "۶. طرف‌حساب‌ها و شروط پرداخت"
+msgstr "۶. طرف‌حساب‌ها و شروط پرداخت"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_7_inventory
+msgid "۷. ارزش‌گذاری انبار"
+msgstr "۷. ارزش‌گذاری انبار"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_8_fiscal
+msgid "۸. موقعیت‌های مالیاتی"
+msgstr "۸. موقعیت‌های مالیاتی"
+
+#. module: meno_l10n_ir
+#: model:ir.model.fields.selection,name:meno_l10n_ir.selection__account_iran_setup_wizard__state__step_9_summary
+msgid "۹. پیش‌نمایش و تایید نهایی"
+msgstr "۹. پیش‌نمایش و تأیید نهایی"

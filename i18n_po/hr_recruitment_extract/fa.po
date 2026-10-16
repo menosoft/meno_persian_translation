@@ -1,0 +1,248 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hr_recruitment_extract
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:23+0000\n"
+"PO-Revision-Date: 2026-10-12 18:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_needaction
+msgid "Action Needed"
+msgstr "اقدام مورد نیاز"
+
+#. module: hr_recruitment_extract
+#: model_terms:ir.ui.view,arch_db:hr_recruitment_extract.res_config_settings_view_form
+msgid "Activate Job Board"
+msgstr "فعال‌سازی تابلوی آگهی شغلی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model,name:hr_recruitment_extract.model_hr_applicant
+msgid "Applicant"
+msgstr "متقاضی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model,website_form_label:hr_recruitment_extract.model_hr_applicant
+msgid "Apply for a Job"
+msgstr "درخواست استخدام / ارسال رزومه"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_attachment_count
+msgid "Attachment Count"
+msgstr "تعداد پیوست‌ها"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_can_show_send_button
+msgid "Can show the ocr send button"
+msgstr "قابلیت نمایش دکمه ارسال OCR را دارد"
+
+#. module: hr_recruitment_extract
+#: model:ir.model,name:hr_recruitment_extract.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: hr_recruitment_extract
+#: model:ir.model,name:hr_recruitment_extract.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields.selection,name:hr_recruitment_extract.selection__res_company__recruitment_extract_show_ocr_option_selection__auto_send
+msgid "Digitize automatically"
+msgstr "دیجیتالی‌سازی خودکار"
+
+#. module: hr_recruitment_extract
+#: model:ir.actions.server,name:hr_recruitment_extract.ir_actions_server_digitize_cv
+#: model_terms:ir.ui.view,arch_db:hr_recruitment_extract.hr_recruitment_extract_view_form
+msgid "Digitize document"
+msgstr "دیجیتالی کردن سند"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields.selection,name:hr_recruitment_extract.selection__res_company__recruitment_extract_show_ocr_option_selection__manual_send
+msgid "Digitize on demand only"
+msgstr "فقط دیجیتالی‌سازی بر اساس درخواست"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__display_name
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_company__display_name
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_config_settings__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields.selection,name:hr_recruitment_extract.selection__res_company__recruitment_extract_show_ocr_option_selection__no_send
+msgid "Do not digitize"
+msgstr "دیجیتالی نشود"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_error_message
+msgid "Error message"
+msgstr "پیام خطا"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_state_processed
+msgid "Extract State Processed"
+msgstr "وضعیت استخراج پردازش‌شد"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_state
+msgid "Extract state"
+msgstr "وضعیت استخراج"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_status
+msgid "Extract status"
+msgstr "وضعیت استخراج"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_follower_ids
+msgid "Followers"
+msgstr "دنبال‌کنندگان"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "دنبال‌کنندگان (شرکا)"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__has_message
+msgid "Has Message"
+msgstr "دارای پیام"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__id
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_company__id
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_config_settings__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__extract_document_uuid
+msgid "ID of the request to IAP-OCR"
+msgstr "شناسه درخواست ارسالی به IAP-OCR"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "در صورت انتخاب، پیام‌های جدید نیاز به بررسی شما دارند."
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__message_has_error
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "در صورت علامت‌گذاری، برخی پیام‌ها دارای خطای تحویل هستند."
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_is_follower
+msgid "Is Follower"
+msgstr "دنبال‌کننده است"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__is_in_extractable_state
+msgid "Is In Extractable State"
+msgstr "در وضعیت قابل استخراج است"
+
+#. module: hr_recruitment_extract
+#: model_terms:ir.ui.view,arch_db:hr_recruitment_extract.res_config_settings_view_form
+msgid "Job Board"
+msgstr "تابلوی مشاغل"
+
+#. module: hr_recruitment_extract
+#: model:ir.actions.act_window,name:hr_recruitment_extract.ir_module_module_action_open_job_board_modules
+msgid "Job Boards"
+msgstr "تابلوهای مشاغل"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_main_attachment_id
+msgid "Main Attachment"
+msgstr "پیوست اصلی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_has_error
+msgid "Message Delivery error"
+msgstr "خطای تحویل پیام"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_ids
+msgid "Messages"
+msgstr "پیام‌ها"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_needaction_counter
+msgid "Number of Actions"
+msgstr "تعداد اقدام‌ها"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_has_error_counter
+msgid "Number of errors"
+msgstr "تعداد خطاها"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "تعداد پیام‌های نیازمند اقدام"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "تعداد پیام‌های دارای خطای تحویل"
+
+#. module: hr_recruitment_extract
+#: model_terms:ir.ui.view,arch_db:hr_recruitment_extract.res_config_settings_view_form
+msgid "Post jobs on Monster"
+msgstr "انتشار مشاغل در Monster"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__rating_ids
+msgid "Ratings"
+msgstr "امتیازها"
+
+#. module: hr_recruitment_extract
+#: model:ir.actions.server,name:hr_recruitment_extract.ir_cron_update_ocr_status_ir_actions_server
+msgid "Recruitment OCR: Update All Status"
+msgstr "OCR استخدام: به‌روزرسانی تمام وضعیت‌ها"
+
+#. module: hr_recruitment_extract
+#: model:ir.actions.server,name:hr_recruitment_extract.ir_cron_ocr_validate_ir_actions_server
+msgid "Recruitment OCR: Validate CV"
+msgstr "OCR استخدام: اعتبارسنچی رزومه (CV)"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_config_settings__recruitment_extract_show_ocr_option_selection
+msgid "Recruitment processing option"
+msgstr "گزینه پردازش استخدام"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "خطای تحویل پیامک"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_res_company__recruitment_extract_show_ocr_option_selection
+msgid "Send mode on applicant attachments"
+msgstr "حالت ارسال روی پیوست‌های متقاضی"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,field_description:hr_recruitment_extract.field_hr_applicant__website_message_ids
+msgid "Website Messages"
+msgstr "پیام‌های وب‌سایت"
+
+#. module: hr_recruitment_extract
+#: model:ir.model.fields,help:hr_recruitment_extract.field_hr_applicant__website_message_ids
+msgid "Website communication history"
+msgstr "تاریخچه ارتباطات وب‌سایت"
+
+#. module: hr_recruitment_extract
+#. odoo-python
+#: code:addons/hr_recruitment_extract/models/hr_applicant.py:0
+msgid "You cannot send a CV for an applicant who's not in first stage!"
+msgstr "شما نمی‌توانید برای متقاضیی که در مرحله اول نیست، رزومه ارسال کنید!"

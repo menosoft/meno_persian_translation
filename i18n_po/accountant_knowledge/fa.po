@@ -1,0 +1,1953 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* accountant_knowledge
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:19+0000\n"
+"PO-Revision-Date: 2026-10-15 19:42+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "(description and of the issue, uncertainty, or limitation)"
+msgstr "(توضیحات مربوط به مسئله، ابهام یا محدودیت)"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "0,00<br>"
+msgstr "۰,۰۰<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "0.0<br>"
+msgstr "۰.۰<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_significant_events
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "<em>To be completed...</em>"
+msgstr "<em>جهت تکمیل...</em>"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "<i class=\"fa fa-fw fa-building me-2\" title=\"Company\"/>"
+msgstr "<i class=\"fa fa-fw fa-building me-2\" title=\"Company\"/>"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "<i class=\"fa fa-fw fa-calendar me-2\" title=\"Calendar\"/>"
+msgstr "<i class=\"fa fa-fw fa-calendar me-2\" title=\"Calendar\"/>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_supporting_documents
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_tax_package
+msgid ""
+"<strong class=\"o-upload-link\">Upload files</strong> to include in the PDF "
+"report."
+msgstr ""
+"برای گنجاندن در گزارش PDF، <strong class=\"o-upload-link\">فایل‌ها را "
+"بارگذاری کنید</strong>."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "<strong>Additional Information</strong><br>"
+msgstr "<strong>اطلاعات تکمیلی</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "<strong>Buildings, Fixtures, and Fittings</strong>"
+msgstr "<strong>ساختمان‌ها، تأسیسات و تجهیزات ثابت</strong>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "<strong>Category</strong><br>"
+msgstr "<strong>دسته‌بندی</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"<strong>Componentized assets</strong>: The company was unable to identify "
+"componentized assets, or the decomposition of such assets does not have a "
+"material impact."
+msgstr ""
+"<strong>دارایی‌های جزءبه‌جزء شده</strong>: شرکت قادر به شناسایی دارایی‌های "
+"جزءبه‌جزء شده نبوده است، یا تفکیک چنین دارایی‌هایی تأثیر بااهمیتی ندارد."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "<strong>Depreciation - Cumulative</strong><br>"
+msgstr "<strong>استهلاک - انباشته</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "<strong>Depreciation - Current Year</strong><br>"
+msgstr "<strong>استهلاک - سال جاری</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "<strong>Description</strong><br>"
+msgstr "<strong>توضیحات</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "<strong>Domestic</strong><br>"
+msgstr "<strong>داخلی</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "<strong>Entry Cost</strong><br>"
+msgstr "<strong>هایورودی / بهای تمام‌شده اولیه</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "<strong>Equipment and Tools</strong>"
+msgstr "<strong>تجهیزات و ابزارآلات</strong>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "<strong>Intangible Assets</strong>"
+msgstr "<strong>دارایی‌های نامشهود</strong>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "<strong>International</strong><br>"
+msgstr "<strong>بین‌المللی</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "<strong>Items</strong><br>"
+msgstr "<strong>آیتم‌ها</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "<strong>Men</strong><br>"
+msgstr "<strong>مردان</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "<strong>Name</strong><br>"
+msgstr "<strong>نام</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "<strong>Nature of Relationship</strong><br>"
+msgstr "<strong>ماهیت رابطه</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "<strong>Net Exceptional Result</strong><br>"
+msgstr "<strong>نتیجه استثنایی خالص</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "<strong>Net Value</strong><br>"
+msgstr "<strong>ارزش خالص</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "<strong>Nominal Value per Share</strong><br>"
+msgstr "<strong>ارزش اسمی هر سهم</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"<strong>Non-componentized assets</strong>: Benefiting from tolerance "
+"measures, the company has chosen to maintain the existing useful life "
+"periods for the depreciation of non-componentized assets."
+msgstr ""
+"<strong>دارایی‌های جزءبه‌جزء نشده</strong>: با بهره‌مندی از معیارهای تسامح، "
+"شرکت ترجیح داده است دوره‌های عمر مفید موجود را برای استهلاک دارایی‌های "
+"جزءبه‌جزء نشده حفظ کند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "<strong>Number of Shares</strong><br>"
+msgstr "<strong>تعداد سهام</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "<strong>Other Tangible Assets</strong>"
+msgstr "<strong>سایر دارایی‌های مشهود</strong>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "<strong>Share Capital</strong><br>"
+msgstr "<strong>سرمایه سهامی / سرمایه ثبت‌شده</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "<strong>Total</strong><br>"
+msgstr "<strong>مجموع</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "<strong>Transaction Amount During the Period</strong><br>"
+msgstr "<strong>مبلغ معامله در طی دوره</strong><br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "<strong>Women</strong><br>"
+msgstr "<strong>زنان</strong><br>"
+
+#. module: accountant_knowledge
+#: model:knowledge.article.template.category,name:accountant_knowledge.knowledge_article_template_category_accounting
+msgid "Accounting"
+msgstr "حسابداری"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid "Accounting Principles and Methods"
+msgstr "اصول و روش‌های حسابداری"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid "Accounting principles and methods"
+msgstr "اصول و روش‌های حسابداری"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_additional_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_additional_information
+msgid "Additional Information"
+msgstr "اطلاعات اضافی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"Advances received from public or private organizations to finance the "
+"company's activities, for which repayment is conditional, are presented "
+"under equity in the balance sheet as \"Other Equity.\" Corresponding "
+"interest expenses are recorded as liabilities under \"Loans and Other "
+"Financial Debts.\""
+msgstr ""
+"پیش‌پرداخت‌های دریافتی از سازمان‌های دولتی یا خصوصی برای تأمین مالی فعالیت‌های "
+"شرکت که بازپرداخت آن‌ها مشروط است، در ترازنامه تحت حقوق صاحبان سهام به عنوان "
+"«سایر حقوق صاحبان سهام» ارائه می‌شوند. هزینه‌های بهره مربوطه به عنوان بدهی "
+"تحت «وام‌ها و سایر بدهی‌های مالی» ثبت می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Aged Payable"
+msgstr "گزارش سن و سال حساب‌های پرداختنی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Aged Receivable"
+msgstr "گزارش سن و سال حساب‌های دریافتنی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Amount:"
+msgstr "مبلغ:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Amount<br>"
+msgstr "مبلغ<br>"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_annexes
+msgid "Annexes"
+msgstr "ضمائم"
+
+#. module: accountant_knowledge
+#: model:ir.ui.menu,name:accountant_knowledge.menu_action_accountant_audit_report
+msgid "Annual Report"
+msgstr "گزارش سالانه"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__knowledge_article_id
+msgid "Article"
+msgstr "بند / ماده"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"As a result of these findings, and due to their significant effect, we are "
+"unable to confirm the overall consistency and plausibility of the interim "
+"financial statements attached to this statement."
+msgstr ""
+"در نتیجه این یافته‌ها، و به دلیل تأثیر بااهمیت آن‌ها، ما قادر به تأیید "
+"سازگاری کلی و قابلیت اتکای صورت‌های مالی میان‌دوره پیوست‌شده به این بیانیه "
+"نیستیم."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"As chartered accountants, we have carried out a compilation of the interim "
+"financial statements of {{ company name }} for the period from {{ start of "
+"period }} to {{ end of period }}, which include the following key figures:"
+msgstr ""
+"به عنوان حسابداران رسمی، ما مجموعه صورت‌های مالی میان‌د دوره شرکت {{ company "
+"name }} را برای دوره از {{ start of period }} تا {{ end of period }} تهیه و "
+"تدوین کرده‌ایم که شامل ارقام کلیدی زیر است:"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_asset_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Asset Information"
+msgstr "اطلاعات دارایی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid ""
+"At each reporting date, and whenever there is an indication of impairment, "
+"the capitalized development costs are reviewed to confirm that the project "
+"continues to meet the criteria for recognition as an asset. If these "
+"criteria are no longer met, an impairment loss or exceptional amortization "
+"is recorded accordingly."
+msgstr ""
+"در هر تاریخ گزارش‌دهی و هر زمان که نشانه‌ای از کاهش ارزش وجود داشته باشد، "
+"هزینه‌های توسعه سرمایه‌گذاری‌شده بررسی می‌شوند تا تأیید شود که پروژه همچنان "
+"معیارهای شناخت به عنوان دارایی را داراست. اگر این معیارها دیگر احراز نشوند، "
+"زیان کاهش ارزش یا استهلاک استثنایی بر اساس آن ثبت می‌شود."
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_attestation
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Attestation"
+msgstr "گواهی‌نامه / اظهارنامه تأیید"
+
+#. module: accountant_knowledge
+#: model:ir.model,name:accountant_knowledge.model_audit_report
+#: model:ir.model.fields,field_description:accountant_knowledge.field_knowledge_article__audit_report_id
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_audit_report
+msgid "Audit Report"
+msgstr "گزارش حسابرسی"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__knowledge_template_article_id
+#: model:ir.model.fields,field_description:accountant_knowledge.field_knowledge_article__is_audit_report_template
+msgid "Audit Report Template"
+msgstr "قالب گزارش حسابرسی"
+
+#. module: accountant_knowledge
+#: model:ir.actions.act_window,name:accountant_knowledge.action_audit_report
+msgid "Audit Reports"
+msgstr "گزارش‌های حسابرسی"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "Audit Template"
+msgstr "قالب حسابرسی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_balance_sheet
+msgid "Balance Sheet"
+msgstr "ترازنامه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"Based on our procedures, we have not identified any matters that would call "
+"into question the overall consistency and plausibility of the interim "
+"financial statements as attached to this statement."
+msgstr ""
+"بر اساس رویه‌های انجام‌شده، ما هیچ موردی که بتواند سازگاری کلی و قابلیت اتکای "
+"صورت‌های مالی میان‌دوره پیوست‌شده به این بیانیه را زیر سوال ببرد، شناسایی "
+"نکرده‌ایم."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Buildings<br>"
+msgstr "ساختمان‌ها<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Capital Increase Costs"
+msgstr "هزینه‌های افزایش سرمایه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"Capital increase costs are recorded directly on the balance sheet as a "
+"deduction from the share premium."
+msgstr ""
+"هزینه‌های افزایش سرمایه مستقیماً در ترازنامه به عنوان کاهنده ارزش افزوده سهام "
+"(صافه سهام) ثبت می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid "Capitalization of Development Costs"
+msgstr "سرمایه‌گذاری هزینه‌های توسعه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Cash and Cash Equivalents"
+msgstr "موجودی نقد و معادل‌های نقد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Cash on hand and bank balances are recorded at their nominal value"
+msgstr "موجودی نقد در صندوق و حساب‌های بانکی به ارزش اسمی خود ثبت می‌شوند"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_cash_flow_statement
+msgid "Cash-Flow Statement"
+msgstr "صورت جریان وجوه نقد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Change in Accounting Estimate"
+msgstr "تغییر در برآورد حسابداری"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Change in Accounting Standards"
+msgstr "تغییر در استانداردهای حسابداری"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Changes in Accounting Policies"
+msgstr "تغییرات در رویه‌های حسابداری"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Changes in Fixed Assets"
+msgstr "تغییرات دارایی‌های ثابت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Comments<br>"
+msgstr "نظرات<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Commercial buildings: 20 to 50 years"
+msgstr "ساختمان‌های تجاری: ۲۰ تا ۵۰ سال"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__company_id
+msgid "Company"
+msgstr "شرکت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Computer equipment: 5 years"
+msgstr "تجهیزات رایانه‌ای: ۵ سال"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "Configure"
+msgstr "پیکربندی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid "Consistency of accounting methods from one period to another;"
+msgstr "ثبات رویه‌های حسابداری از یک دوره به دوره دیگر؛"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_contextual_information
+msgid "Contextual Information"
+msgstr "اطلاعات زمینه‌ای"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Correction of Errors"
+msgstr "اصلاح اشتباهات"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Costs related to under-activity are excluded from the inventory value."
+msgstr ""
+"هزینه‌های مرتبط با عدم فعالیت (ظرفیت خالی) از ارزش موجودی کالا مستثنی می‌شوند."
+
+#. module: accountant_knowledge
+#: model:ir.actions.act_window,name:accountant_knowledge.action_audit_report_quick_create
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Create an Audit Report"
+msgstr "ایجاد گزارش حسابرسی"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__create_uid
+msgid "Created by"
+msgstr "ایجاد شده توسط"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/editor/embedded_components/backend/account_report/account_report.xml:0
+msgid "Customize"
+msgstr "سفارشی‌سازی"
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Customize all of its content.<br>Add sections, pages, or attachments"
+msgstr ""
+"تمام محتوای آن را سفارشی کنید.<br>بخش‌ها، صفحات یا پیوست‌ها را اضافه کنید"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "Dates"
+msgstr "تاریخ‌ها"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Deferred Expenses"
+msgstr "هزینه‌های معوق / پیش‌پراخت‌شده"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Deferred Revenues"
+msgstr "درآمدهای معوق / پیش‌درآمدها"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "Delete"
+msgstr "حذف"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Depreciation Period"
+msgstr "دوره استهلاک"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Depreciation Schedule"
+msgstr "جدول استهلاک"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Depreciation and Impairment"
+msgstr "استهلاک و کاهش ارزش"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"Depreciation is calculated using either the straight-line or declining "
+"balance method, based on the estimated useful life of the assets."
+msgstr ""
+"استهلاک با استفاده از روش خط مستقیم یا نزولی، بر اساس عمر مفید برآوردی "
+"دارایی‌ها محاسبه می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid ""
+"Describe the nature and amounts of commitments given, received, and "
+"reciprocal"
+msgstr "ماهیت و مبالغ تعهدات داده‌شده، دریافت‌شده و متقابل را شرح دهید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid ""
+"Describe the nature of each provision recorded during the period. For each, "
+"indicate the opening balance, any additional provisions (dotations), any "
+"amounts reversed (reprises), and the closing balance at the end of the "
+"period."
+msgstr ""
+"ماهیت هر ذخیره ثبت‌شده در طول دوره را شرح دهید. برای هرکدام، موجودی اول "
+"دوره، هرگونه ذخیره اضافی (دوتاسیون)، مبالغ برگشت‌خورده (ریپریز) و موجودی "
+"پایان دوره را ذکر کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Describe the nature of the error corrected."
+msgstr "ماهیت خطای اصلاح‌شده را شرح دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Description<br>"
+msgstr "توضیحات<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"Detail and explain the key changes in fixed assets — purchases, sales, and "
+"adjustments — over the period for clear tracking of asset value evolution."
+msgstr ""
+"تغییرات کلیدی در دارایی‌های ثابت (خریدها، فروش‌ها و تعدیلات) را در طول دوره "
+"برای ردیابی شفاف تحول ارزش دارایی‌ها جزئی‌نگری و تشریح کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid ""
+"Detail the factors affecting future tax liabilities and the impact of tax "
+"valuation adjustments."
+msgstr ""
+"عوامل مؤثر بر بدهی‌های مالیاتی آتی و تأثیر تعدیلات ارزیابی مالیاتی را شرح "
+"دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Details on Inventories and Work-in-Progress"
+msgstr "جزئیات موجودی‌ها و کارهای در جریان پیشرفت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"Directly attributable costs incurred to bring the asset to working "
+"condition for its intended use;"
+msgstr ""
+"هزینه‌های مستقیماً منتسبی که برای آماده‌سازی دارایی جهت شرایط بهره‌برداری برای "
+"کاربرد مورد نظر متحمل شده‌اند؛"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/export_audit_report_to_pdf_dialog/export_audit_report_to_pdf_dialog.xml:0
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "Discard"
+msgstr "لغو تغییرات"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__display_name
+#: model:ir.model.fields,field_description:accountant_knowledge.field_ir_actions_report__display_name
+#: model:ir.model.fields,field_description:accountant_knowledge.field_knowledge_article__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields.selection,name:accountant_knowledge.selection__audit_report__status__done
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_search
+msgid "Done"
+msgstr "انجام شده"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/export_audit_report_to_pdf_dialog/export_audit_report_to_pdf_dialog.xml:0
+#: code:addons/accountant_knowledge/static/src/components/options_dropdown/options_dropdown.xml:0
+msgid "Download Annual Report"
+msgstr "بارگیری گزارش سالانه"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/export_audit_report_to_pdf_dialog/export_audit_report_to_pdf_dialog.xml:0
+msgid "Download PDF"
+msgstr "بارگیری PDF"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields.selection,name:accountant_knowledge.selection__audit_report__status__draft
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_search
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"During the course of our engagement, we identified the following matters "
+"that significantly impact the overall consistency and reliability of the "
+"financial statements:"
+msgstr ""
+"در جریان انجام وظایف خود، موارد زیر را شناسایی کردیم که به طور قابل توجهی "
+"بر سازگاری و قابلیت اتکای کلی صورت‌های مالی تأثیر می‌گذارند:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid ""
+"During this fiscal period, the company generated a net accounting result "
+"of  {{ net accounting result }}, broken down as follows between domestic "
+"and international operations."
+msgstr ""
+"در طول این دوره مالی، شرکت نتیجه حسابداری خالص  {{ net accounting result }} "
+"را تولید کرده است که تفکیک آن بین عملیات داخلی و بین‌المللی به شرح زیر است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid ""
+"During this period, the company benefited from the following tax credits, "
+"which have contributed to optimizing its tax position:"
+msgstr ""
+"در طول این دوره، شرکت از اعتبار مالیاتی زیر بهره‌مند شده است که به بهینه‌سازی "
+"وضعیت مالیاتی آن کمک کرده است:"
+
+#. module: accountant_knowledge
+#. odoo-python
+#: code:addons/accountant_knowledge/models/audit_report.py:0
+msgid "Edit Audit Report"
+msgstr "ویرایش گزارش حسابرسی"
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Edit its content"
+msgstr "ویرایش محتوای آن"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "Employees<br>"
+msgstr "کارمندان<br>"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__end_date
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,help:accountant_knowledge.field_audit_report__end_date
+msgid "Ending Date, included in the fiscal year."
+msgstr "تاریخ پایان، شامل شده در سال مالی."
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_entity_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Entity Information"
+msgstr "اطلاعات شخص حقوقی / مؤسسه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Equipment: 10 years"
+msgstr "تجهیزات: ۱۰ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"Except for the impact of the issue described above, we did not identify "
+"anything that would call into question the overall consistency and "
+"plausibility of the interim financial statements attached to this statement."
+msgstr ""
+"به استثنای تأثیر مسئله ذکر شده در بالا، ما هیچ موردی که بتواند سازگاری کلی "
+"و قابلیت اتکای صورت‌های مالی میان‌دوره پیوست‌شده به این بیانیه را زیر سوال "
+"ببرد، شناسایی نکردیم."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Exceptional Expenses<br>"
+msgstr "هزینه‌های استثنایی<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Exceptional Income &amp; Expenses"
+msgstr "درآمد و هزینه‌های استثنایی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Exceptional Income<br>"
+msgstr "درآمدهای استثنایی<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid "Expense Recognition"
+msgstr "شناسایی هزینه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid ""
+"Explain how tax changes made between the balance sheet date and the "
+"financial statement date affect this period's results."
+msgstr ""
+"توضیح دهید که چگونه تغییرات مالیاتی اعمال‌شده بین تاریخ ترازنامه و تاریخ "
+"صورت مالی بر نتایج این دوره تأثیر می‌گذارد."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"Explain the impact of the correction on the current period's financial "
+"statements."
+msgstr "تأثیر اصلاحیه را بر صورت‌های مالی دوره جاری توضیح دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Favorable Opinion with Comments"
+msgstr "نظر مشروط / موافق همراه با توضیحات"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Finance Lease"
+msgstr "اجاره به شرط تملیک / اجاره مالی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Financial Assets and Marketable Securities"
+msgstr "دارایی‌های مالی و اوراق بهادار قابل معامله"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Financial Commitments and Guarantees"
+msgstr "تعهدات و ضمانت‌نامه‌های مالی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_financial_position
+msgid "Financial Position"
+msgstr "وضعیت مالی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Financial Resources"
+msgstr "منابع مالی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "First In, First Out (FIFO)"
+msgstr "اولین صادره از اولین وارده (FIFO)"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Fiscal Year N - 1<br>"
+msgstr "سال مالی N - ۱<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Fiscal Year N<br>"
+msgstr "سال مالی N<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Fixtures and fittings: 10 years"
+msgstr "تأسیسات و منصوبات: ۱۰ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"For cash held in foreign currencies, amounts are converted into euros at "
+"the exchange rate prevailing on the last business day before the fiscal "
+"year-end. Any resulting exchange differences are recognized immediately in "
+"the income statement as foreign exchange gains or losses."
+msgstr ""
+"برای وجوه نقد نگهداری‌شده به ارزهای خارجی، مبالغ با نرخ تسعیر ارز حاکم در "
+"آخرین روز کاری قبل از پایان سال مالی به یورو تبدیل می‌شوند. هرگونه تفاوت نرخ "
+"ارز حاصله بلافاصله در صورت سود و زیان به عنوان سود یا زیان تسعیر ارز شناخته "
+"می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid ""
+"For each member, indicate the retirement commitments and similar benefits "
+"granted to them."
+msgstr ""
+"برای هر عضو، تعهدات بازنشستگی و مزایای مشابه اعطاشده به آن‌ها را مشخص کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid ""
+"For each member, specify the advances and loans granted to them, including "
+"the terms agreed upon and repayments made during the period, as well as the "
+"amount of commitments made on their behalf."
+msgstr ""
+"برای هر عضو، پیش‌پرداخت‌ها و وام‌های اعطاشده به آن‌ها، از جمله شرایط توافق‌شده و "
+"بازپرداخت‌های انجام‌شده در طول دوره، و همچنین مبلغ تعهدات انجام‌شده به نام "
+"آن‌ها را مشخص کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid ""
+"For tax-consolidated entities, explain the tax allocation method, tax "
+"differences, loss carryforwards, and related accounting specifics."
+msgstr ""
+"برای اشخاص حقوقی تجمیع‌شده مالیاتی، روش تخصیص مالیات، تفاوت‌های مالیاتی، "
+"انتقال زیان به دوره‌های آتی و جزئیات حسابداری مربوطه را توضیح دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"From the Equity app, print the Capitalization Table and insert it <strong "
+"class=\"o-upload-link\">here</strong>"
+msgstr ""
+"از اپلیکیشن حقوق صاحبان سهام، جدول سرمایه (Cap Table) را چاپ کرده و آن را "
+"<strong class=\"o-upload-link\">در اینجا</strong> درج کنید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Furniture: 10 years"
+msgstr "اثاثیه: ۱۰ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid ""
+"General accounting principles have been applied with due regard to the "
+"prudence principle, based on the following assumptions:"
+msgstr ""
+"اصول کلی حسابداری با رعایت اصل احتیاط و بر اساس فرض‌های زیر اعمال شده‌اند:"
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Get a complete PDF file, ready to be shared"
+msgstr "یک فایل PDF کامل و آماده برای اشتراک‌گذاری دریافت کنید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid ""
+"Given the innovative nature of the company's activities, a substantial "
+"portion of its expenses pertains to development costs as defined by "
+"applicable accounting standards"
+msgstr ""
+"با توجه به ماهیت نوآورانه فعالیت‌های شرکت، بخش عمده‌ای از هزینه‌های آن مربوط "
+"به هزینه‌های توسعه است که توسط استانداردهای حسابداری قابل اجرا تعریف شده است"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid "Going concern;"
+msgstr "فرض تداوم فعالیت؛"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__id
+#: model:ir.model.fields,field_description:accountant_knowledge.field_ir_actions_report__id
+#: model:ir.model.fields,field_description:accountant_knowledge.field_knowledge_article__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Identification Number:"
+msgstr "شماره شناسایی / شناسه ملی:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"If applicable, specify the impact of the new accounting regulation as "
+"determined at the opening of the period, including which financial "
+"statement items are affected."
+msgstr ""
+"در صورت لزوم، تأثیر مقررات جدید حسابداری را که در ابتدای دوره تعیین شده "
+"است، از جمله اینکه کدام اقلام صورت‌های مالی تحت تأثیر قرار گرفته‌اند، مشخص "
+"کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"If the change has been applied prospectively, explain the reasons for "
+"prospective application and indicate the impact on key items for the "
+"period, unless impracticable to determine."
+msgstr ""
+"اگر تغییر به صورت آینده‌نگر اعمال شده است، دلایل کاربرد آینده‌نگر را توضیح "
+"دهید و تأثیر آن را بر اقلام کلیدی دوره ذکر کنید، مگر اینکه تعیین آن غیرممکن "
+"باشد."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"If the change has been applied retrospectively, present the main items from "
+"prior periods restated under the new accounting method."
+msgstr ""
+"اگر تغییر به صورت عطف به ماسبق (گذشته‌نگر) اعمال شده است، اقلام اصلی دوره‌های "
+"قبل را که تحت روش جدید تجدید ارائه‌شده‌اند، ارائه دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"If the change was applied <strong>prospectively</strong>, describe its "
+"impact on the key items of the current period, unless such information is "
+"impracticable to obtain."
+msgstr ""
+"اگر تغییر به صورت <strong>آینده‌نگر</strong> اعمال شده است، تأثیر آن را بر "
+"اقلام کلیدی دوره جاری شرح دهید، مگر اینکه دستیابی به چنین اطلاعاتی غیرممکن "
+"باشد."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"If the change was applied <strong>retrospectively</strong>, present the key "
+"items from prior periods that have been restated in accordance with the new "
+"method."
+msgstr ""
+"اگر تغییر به صورت <strong>گذشته‌نگر (عطف به ماسبق)</strong> اعمال شده است، "
+"اقلام کلیدی دوره‌های قبلی را که مطابق با روش جدید تجدید ارائه‌شده‌اند، ارائه "
+"دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"If this is the first year the company holds inventories, specify the "
+"valuation method used and provide a breakdown of the products concerned."
+msgstr ""
+"اگر این اولین سالی است که شرکت موجودی کالا دارد، روش ارزش‌گذاری استفاده‌شده "
+"را مشخص کنید و تفکیکی از محصولات مربوطه را ارائه دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"In accordance with the terms of our mission, we have prepared a summary of "
+"work performed for {{ company name }} for the period from {{ start of "
+"period }} to {{ end of period }}"
+msgstr ""
+"مطابق با شرایط مأموریت خود، خلاصه‌ای از کارهای انجام‌شده برای {{ company "
+"name }} را برای دوره از {{ start of period }} تا {{ end of period }} تهیه "
+"کرده‌ایم"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/export_audit_report_to_pdf_dialog/export_audit_report_to_pdf_dialog.xml:0
+msgid "Include PDF Files"
+msgstr "گنجاندن فایل‌های PDF"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Include any explanations or justifications as needed."
+msgstr "در صورت نیاز، هرگونه توضیح یا توجیهی را اضافه کنید."
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/export_audit_report_to_pdf_dialog/export_audit_report_to_pdf_dialog.xml:0
+msgid "Include child articles"
+msgstr "شامل مقالات فرزند"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_income_statement
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Income Statement"
+msgstr "صورت سود و زیان"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid "Independence of accounting periods."
+msgstr "استقلال دوره‌های مالی (تعهد زمانی)."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Indicate and justify the voluntary accounting policy change."
+msgstr "تغییر داوطلبانه رویه حسابداری را ذکر کرده و توجیه کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid ""
+"Indicate the number and value of shares held by the company during the "
+"year. Include acquisitions, disposals, cancellations, and the reason for "
+"holding these shares (e.g. employee plans, market operations)."
+msgstr ""
+"تعداد و ارزش سهام نگهداری‌شده توسط شرکت در طول سال را ذکر کنید. شامل خریدها، "
+"واگذاری‌ها، ابطال‌ها و دلیل نگهداری این سهام (مانند برنامه‌های کارمندی، عملیات "
+"بازار)."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"Indicate the total book value of inventories as well as the book value by "
+"relevant categories."
+msgstr ""
+"ارزش دفتری کل موجودی‌ها و همچنین ارزش دفتری بر اساس دسته‌بندی‌های مربوطه را "
+"ذکر کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Information on Specific Nature Operations"
+msgstr "اطلاعات مربوط به عملیات با ماهیت خاص"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_knowledge_article__inherited_audit_report_id
+msgid "Inherited Audit Report"
+msgstr "گزارش حسابرسی ارث‌بری‌شده"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/components/account_report/cog_menu/cog_menu.js:0
+msgid "Insert in article"
+msgstr "درج در مقاله"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Intangible and Tangible Assets"
+msgstr "دارایی‌های نامشهود و مشهود"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"Intangible assets are valued at their acquisition or production cost, "
+"including all expenses necessary to prepare these assets for their intended "
+"use. This valuation is net of any trade discounts, rebates, or settlement "
+"discounts obtained."
+msgstr ""
+"دارایی‌های نامشهود به بهای خرید یا بهای تمام‌شده تولید، شامل تمام هزینه‌های "
+"لازم برای آماده‌سازی این دارایی‌ها جهت استفاده مورد نظر، ارزش‌گذاری می‌شوند. "
+"این ارزش‌گذاری پس از کسر هرگونه تخفیف تجاری، تخفیف‌های ساختاری یا تخفیف‌های "
+"تسویه دریافتی است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"Interest on borrowings specifically related to the production of tangible "
+"assets is not included in the production cost of these assets."
+msgstr ""
+"بهره وام‌های به‌طور خاص مرتبط با تولید دارایی‌های مشهود در بهای تمام‌شده تولید "
+"این دارایی‌ها منظور نمی‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Inventories are valued using one of the following methods:"
+msgstr "موجودی‌ها با استفاده از یکی از روش‌های زیر ارزش‌گذاری می‌شوند:"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Inventory Overview"
+msgstr "بررسی اجمالی موجودی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Inventory Valuation"
+msgstr "ارزش‌گذاری موجودی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_journal_audit
+msgid "Journal Audit"
+msgstr "حسابرسی دفاتر / اسناد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Justification:"
+msgstr "توجیه / دلیل:"
+
+#. module: accountant_knowledge
+#: model:ir.model,name:accountant_knowledge.model_knowledge_article
+msgid "Knowledge Article"
+msgstr "مقاله دانش"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Land<br>"
+msgstr "زمین<br>"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Liabilities Information"
+msgstr "اطلاعات بدهی‌ها"
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Load a Template"
+msgstr "بارگذاری قالب"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"Loan issuance costs, where applicable, are recognized as expenses in the "
+"financial year during which the loans are granted."
+msgstr ""
+"هزینه‌های انتشار وام، در صورت وجود، در سال مالی که وام‌ها اعطا می‌شوند به "
+"عنوان هزینه شناخته می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Loans"
+msgstr "وام‌ها / تسهیلات مالی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Long-Term Investments Held in the Investment Portfolio"
+msgstr "سرمایه‌گذاری‌های بلندمدت نگهداری‌شده در سبد سرمایه‌گذاری"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid ""
+"Management has chosen not to disclose remuneration information, as doing so "
+"would effectively reveal the individual compensation of executives."
+msgstr ""
+"مدیریت ترجیح داده است اطلاعات مربوط به پاداش و حقوق را افشا نکند، زیرا "
+"انجام این کار عملاً جبران خدمات فردی مدیران اجرایی را فاش می‌کند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "Managers<br>"
+msgstr "مدیران<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid ""
+"Manufactured products are valued at production cost, which includes "
+"consumables, direct and indirect production expenses, and depreciation of "
+"assets used in production."
+msgstr ""
+"محصولات ساخته‌شده به بهای تمام‌شده تولید ارزش‌گذاری می‌شوند که شامل مواد مصرفی، "
+"هزینه‌های مستقیم و غیرمستقیم تولید، و استهلاک دارایی‌های استفاده‌شده در تولید "
+"است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Methods of Valuation"
+msgstr "روش‌های ارزش‌گذاری"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_search
+msgid "My Reports"
+msgstr "گزارش‌های من"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Name:"
+msgstr "نام:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Net accounting result: {{ net accounting result }}"
+msgstr "نتیجه حسابداری خالص: {{ net accounting result }}"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "Non-Managers<br>"
+msgstr "کارکنان غیرمدیر<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid "Non-Pro Rata Recognition"
+msgstr "شناخت غیر تناسبی (Non-Pro Rata)"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "Non-Standard Transaction"
+msgstr "معامله غیرمعاوری / غیرستاندارد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "Non-Standard Transactions"
+msgstr "معاملات غیرمعاوری / غیرستاندارد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Non-disclosure"
+msgstr "عدم افشا"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Off-Balance Sheet Commitments"
+msgstr "تعهدات خارج از ترازنامه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Offices: 25 years"
+msgstr "دفاتر اداری: ۲۵ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_significant_events
+msgid ""
+"Only include events occurring between the end of the reporting period and "
+"the date the financial statements are approved, if they are significant "
+"enough to affect the fair presentation of the accounts."
+msgstr ""
+"فقط رویدادهای رخ‌داده بین پایان دوره گزارش‌دهی و تاریخ تصویب صورت‌های مالی را "
+"در صورت اهمیت کافی برای تأثیرگذاری بر ارائه عادلانه حساب‌ها، لحاظ کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid ""
+"Operating subsidies are recorded as income as soon as they are granted."
+msgstr "یارانه‌های عملیاتی به محض اعطا به عنوان درآمد ثبت می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_significant_events
+msgid "Other Significant Events"
+msgstr "سایر رویدادهای بااهمیت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Other off-balance-sheet transactions"
+msgstr "سایر معاملات خارج از ترازنامه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Other tangible fixed assets<br>"
+msgstr "سایر دارایی‌های ثابت مشهود<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Others"
+msgstr "سایر"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Others (including tax consolidation)"
+msgstr "سایر (از جمله تجمیع مالیاتی)"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Others: To be specified..."
+msgstr "سایر: جهت مشخص‌سازی..."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"Our work was conducted in accordance with the professional standard "
+"applicable to compilation engagements, as issued by the professional body "
+"of chartered accountants. This engagement is however not an audit or a "
+"limited review."
+msgstr ""
+"کار ما مطابق با استاندارد حرفه‌ای قابل اجرا برای خدمات تدوین (Compilation)، "
+"صادر شده توسط نهاد حرفه‌ای حسابداران رسمی انجام شده است. با این حال، این "
+"تعهد یک حسابرسی یا بررسی محدود نیست."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Parent Company Details"
+msgstr "جزئیات شرکت والد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Partner Ledger"
+msgstr "معین اشخاص / دفتر طرف حساب"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Patents: To be specified..."
+msgstr "حق اختراع‌ها: جهت مشخص‌سازی..."
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_performance_and_operations
+msgid "Performance & Operations"
+msgstr "عملکرد و عملیات"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid ""
+"Please provide details of your share of results from joint operations of a "
+"specific nature"
+msgstr ""
+"لطفاً جزئیات سهم خود از نتایج حاصل از عملیات مشترک با ماهیت خاص را ارائه دهید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Please specify the method used to calculate inventory write-downs."
+msgstr "لطفاً روش مورداستفاده برای محاسبه کاهش ارزش موجودی را مشخص کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_significant_events
+msgid "Post-Closing Events"
+msgstr "رویدادهای پس از بستن حساب‌ها"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_preamble
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_preamble
+msgid "Preamble"
+msgstr "مقدمه / دیباچه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"Present the main items of prior period's financial statements that have "
+"been restated to correct the error."
+msgstr ""
+"اقلام اصلی صورت‌های مالی دوره قبل را که برای اصلاح خطا تجدید ارائه‌شده‌اند، "
+"ارائه دهید."
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "Print"
+msgstr "چاپ"
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Print your Report"
+msgstr "چاپ گزارش شما"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid "Pro rata recognition"
+msgstr "شناخت تناسبی (Pro rata)"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_profit_and_loss
+msgid "Profit and Loss"
+msgstr "سود و زیان"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_additional_information
+msgid "Provide any additional information necessary here..."
+msgstr "اطلاعات تکمیلی لازم را در اینجا وارد کنید..."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid ""
+"Provide details of any significant off-balance-sheet transactions or "
+"commitments not recorded in the financial statements"
+msgstr ""
+"جزئیات هرگونه معاملات یا تعهدات مهم خارج از ترازنامه که در صورت‌های مالی ثبت "
+"نشده‌اند را ارائه دهید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"Provide details on loan issuance costs and any loan redemption premiums."
+msgstr ""
+"جزئیات مربوط به هزینه‌های انتشار وام و هرگونه پاداش بازخرید وام را ارائه "
+"دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid ""
+"Provide details on the carryback and carryforward of tax losses, and the "
+"split of income tax between current and exceptional results."
+msgstr ""
+"جزئیات مربوط به انتقال زیان مالیاتی به دوره‌های قبل و بعد، و تفکیک مالیات بر "
+"درآمد بین نتایج جاری و استثنایی را ارائه دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid ""
+"Provide information on the estimated value of long-term investments held in "
+"the portfolio and any changes in their value over the financial year."
+msgstr ""
+"اطلاعات مربوط به ارزش برآوردی سرمایه‌گذاری‌های بلندمدت نگهداری‌شده در سبد سهام "
+"و هرگونه تغییر در ارزش آن‌ها طی سال مالی را ارائه دهید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Provisions"
+msgstr "ذخایر"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid "R&D cost"
+msgstr "هزینه تحقیق و توسعه (R&D)"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Receivables and Payables"
+msgstr "حساب‌های دریافتنی و پرداختنی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Receivables and payables are recorded at their nominal value."
+msgstr "حساب‌های دریافتنی و پرداختنی به ارزش اسمی خود ثبت می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"Receivables and payables denominated in foreign currencies are converted "
+"into euros using the exchange rate at the invoice date."
+msgstr ""
+"حساب‌های دریافتنی و پرداختنی ارزی با استفاده از نرخ ارز در تاریخ فاکتور به "
+"یورو تبدیل می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Refusal to Attest"
+msgstr "امتناع از تأیید / گواهی‌کردن"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Registered Office:"
+msgstr "دفتر ثبت‌شده:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "Related-Party Transactions"
+msgstr "معاملات با اشخاص وابسته"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Remuneration due for the fiscal year<br>"
+msgstr "پاداش و حقوق معوقه سال مالی<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Remuneration for Services"
+msgstr "حق‌الزحمه خدمات"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Renovations: 10 years"
+msgstr "بازسازی‌ها: ۱۰ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "Repayable Advances"
+msgstr "مساعدت‌ها و پیش‌پرداخت‌های قابل بازپرداخت"
+
+#. module: accountant_knowledge
+#: model:ir.model,name:accountant_knowledge.model_ir_actions_report
+msgid "Report Action"
+msgstr "اقدام گزارش"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Report on Work Conducted"
+msgstr "گزارش کار انجام‌شده"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Report on Work Performed"
+msgstr "گزارش عملکرد فعالیت‌های انجام‌شده"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid "Research and Development Expenses"
+msgstr "هزینه‌های تحقیق و توسعه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_research_and_development_costs
+msgid ""
+"Research and development costs are recognized as expenses in the period in "
+"which they are incurred."
+msgstr ""
+"هزینه‌های تحقیق و توسعه در دوره‌ای که متحمل می‌شوند به عنوان هزینه شناخته‌ "
+"می‌شوند."
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__responsible_user_ids
+msgid "Responsibles"
+msgstr "مسئولین"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Result breakdown by region"
+msgstr "تفکیک نتایج بر اساس منطقه"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Revenue: {{ revenue }}"
+msgstr "درآمد: {{ revenue }}"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "Save"
+msgstr "ذخیره"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Self-Held Shares"
+msgstr "سهام خزانه‌داری (سهام متعلق به خود شرکت)"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "Set to Done"
+msgstr "تنظیم به حالت انجام‌شده"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_kanban
+msgid "Set to Draft"
+msgstr "تبدیل به پیش‌نویس"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Share Capital"
+msgstr "سرمایه سهی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Shares Issues<br>"
+msgstr "سهام منتشرشده<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Shares Redeemed/Cancelled<br>"
+msgstr "سهام بازخریدشده/باطل‌شده<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Shares at End of Year<br>"
+msgstr "سهام در پایان سال<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_liabilities_information
+msgid "Shares at Start of Year<br>"
+msgstr "سهام در آغاز سال<br>"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/editor/embedded_components/backend/signature_input/signature_input.xml:0
+#: code:addons/accountant_knowledge/static/src/editor/embedded_components/core/signature_input/signature_input.xml:0
+msgid "Signature"
+msgstr "امضا"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_significant_events
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_significant_events
+msgid "Significant Events"
+msgstr "رویدادهای بااهمیت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Software: 3 years"
+msgstr "نرم‌افزار: ۳ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid ""
+"Specify details for executives, subsidiaries, investments, related "
+"companies, and others."
+msgstr ""
+"جزئیات مربوط به مدیران ارشد، شرکت‌های زیرمجموعه، سرمایه‌گذاری‌ها، شرکت‌های "
+"وابسته و سایر موارد را مشخص کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid ""
+"Specify the impact of the change as determined at the opening of the "
+"period, identifying the affected financial statement items."
+msgstr ""
+"تأثیر تغییر تعیین‌شده در ابتدای دوره را مشخص کرده و اقلام صورت‌های مالی تحت "
+"تأثیر را شناسایی کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Standard Cost"
+msgstr "بهای تمام‌شده استاندارد"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__start_date
+msgid "Start Date"
+msgstr "تاریخ آغاز"
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,help:accountant_knowledge.field_audit_report__start_date
+msgid "Start Date, included in the fiscal year."
+msgstr "تاریخ شروع، شامل‌شده در سال مالی."
+
+#. module: accountant_knowledge
+#: model_terms:ir.actions.act_window,help:accountant_knowledge.action_audit_report
+msgid "Start from our ready-to-use templates"
+msgstr "از قالب‌های آماده‌ی ما شروع کنید"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "State and justify the change in estimate."
+msgstr "تغییر در برآورد را بیان کرده و توجیه نمایید."
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__status
+msgid "Status"
+msgstr "وضعیت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_asset_information
+msgid "Subsidiaries and Equity Interests"
+msgstr "شرکت‌های زیرمجموعه و منافع سهام"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "Subsidiary Details"
+msgstr "جزئیات شرکت زیرمجموعه"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_subventions
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid "Subventions"
+msgstr "اعانات / یارانه‌ها و کمک‌های مالی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_supporting_documents
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_supporting_documents
+msgid "Supporting Documents"
+msgstr "مدارک پشتیبان"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"Tangible assets are also valued at their production cost where applicable."
+msgstr ""
+"دارایی‌های مشهود نیز در صورت کاربرد، به بهای تمام‌شده‌ی تولید ارزیابی می‌شوند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Tangible assets are valued at their acquisition cost, which includes:"
+msgstr ""
+"دارایی‌های مشهود بر اساس بهای تمام‌شده‌ی خرید ارزیابی می‌شوند که شامل موارد زیر "
+"است:"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_tax_and_compliance
+msgid "Tax & Compliance"
+msgstr "مالیات و انطباق قانونی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Tax Credits"
+msgstr "اعتبارت مالیاتی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_tax_package
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_tax_package
+msgid "Tax Package"
+msgstr "بسته مالیاتی"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_taxation
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_taxation
+msgid "Taxation"
+msgstr "امور مالیاتی"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_commitments_and_guarantees
+msgid "Technical installations, equipment, and tools<br>"
+msgstr "تاسیسات فنی، تجهیزات و ابزارآلات<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid ""
+"The annual financial statements have been prepared in accordance with "
+"applicable accounting standards."
+msgstr ""
+"صورت‌های مالی سالانه مطابق با استانداردهای حسابداری قابل‌اجرا تهیه شده‌اند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid ""
+"The company has received subsidies that are recognized in operating income "
+"in proportion to the expenses incurred. As a result, subsidies receivable "
+"may be recorded when the grant agreement is signed and eligible expenses "
+"have been incurred, even if the funds have not yet been received."
+msgstr ""
+"شرکت کمک‌هزینه‌هایی دریافت کرده است که به نسبت هزینه‌های متحمل‌شده در درآمد "
+"عملیاتی شناسایی می‌شوند. در نتیجه، کمک‌هزینه‌های دریافت‌شدنی ممکن است هنگام "
+"امضای قرارداد کمک‌مالی و متحمل شدن هزینه‌های واجد شرایط ثبت شوند، حتی اگر "
+"وجوه هنوز دریافت نشده باشند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "The consolidated financial statements can be obtained via..."
+msgstr "صورت‌های مالی تلفیقی را می‌توان از طریق... به دست آورد."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid "The equity method is used for valuation where applicable."
+msgstr "در صورت لزوم، از روش ارزش ویژه برای ارزیابی استفاده می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"The exemption for valuation of securities in case of abnormal and temporary "
+"decline is applied."
+msgstr "معافیت ارزیابی اوراق بهادار در صورت کاهش غیرعادی و موقت اعمال می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_preamble
+msgid ""
+"The fiscal year ended on {{ end of period }} covers a period of 12 months."
+msgstr "سال مالی منتهی به {{ end of period }} پوشش‌دهنده یک دوره ۱۲ ماهه است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"The following decisions have been made regarding the presentation of the "
+"annual financial statements:"
+msgstr "تصمیمات زیر در خصوص نحوه ارائه صورت‌های مالی سالانه اتخاذ شده است:"
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/editor/embedded_components/core/account_report/account_report.xml:0
+msgid "The full report will be included in the final document."
+msgstr "گزارش کامل در سند نهایی گنجانده خواهد شد."
+
+#. module: accountant_knowledge
+#. odoo-javascript
+#: code:addons/accountant_knowledge/static/src/editor/embedded_components/backend/account_report/account_report.xml:0
+msgid ""
+"The full report will be included in the final document. Feel free to tailor "
+"the result using filters and options from the report."
+msgstr ""
+"گزارش کامل در سند نهایی گنجانده خواهد شد. با خیال راحت نتیجه را با استفاده "
+"از فیلترها و گزینه‌های گزارش سفارشی کنید."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"The gross value consists of the purchase cost, excluding incidental "
+"expenses. When the inventory value is lower than the gross value, a "
+"provision for impairment is recorded for the amount of the difference."
+msgstr ""
+"ارزش ناخالص شامل بهای خرید، به استثنای هزینه‌های تبعی است. هنگامی که ارزش "
+"موجودی کمتر از ارزش ناخالص باشد، ذخیره‌ای برای کاهش ارزش به میزان "
+"مابه‌التفاوت ثبت می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid ""
+"The gross value of goods and supplies includes the purchase price and "
+"related incidental costs."
+msgstr ""
+"ارزش ناخالص کالاها و ملزومات شامل قیمت خرید و هزینه‌های تبعی مرتبط است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "The key figures are as follows:"
+msgstr "ارقام کلیدی به شرح زیر هستند:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_preamble
+msgid "The net accounting result is a {{ net accounting result }}."
+msgstr "نتیجه خالص حسابداری برابر با {{ net accounting result }} است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_preamble
+msgid ""
+"The notes and tables provided below form an integral part of the annual "
+"financial statements."
+msgstr ""
+"یادداشت‌ها و جداول ارائه‌شده در زیر بخش جدایی‌ناپذیری از صورت‌های مالی سالانه "
+"را تشکیل می‌دهند."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_subventions
+msgid ""
+"The portion of subsidies that finance capital expenditures is recognized in "
+"operating income over the same period as the depreciation of the related "
+"assets. The acquired portion not yet recognized in income is recorded under "
+"equity as investment grants."
+msgstr ""
+"بخشی از کمک‌هزینه‌ها که هزینه‌های سرمایه‌ای را تأمین مالی می‌کند، طی همان دوره "
+"استهلاک دارایی‌های مرتبط، در درآمد عملیاتی شناسایی می‌شود. بخش کسب‌شده‌ای که "
+"هنوز در درآمد شناسایی نشده است، تحت عنوان کمک‌هزینه‌های سرمایه‌گذاری در بخش "
+"حقوق صاحبان سهام ثبت می‌شود."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_account_principles_and_methods
+msgid ""
+"The primary method used to value the items recorded in the accounts is the "
+"historical cost method."
+msgstr ""
+"روش اصلی مورداستفاده برای ارزیابی اقلام ثبت‌شده در حساب‌ها، روش بهای تمام‌شده "
+"تاریخی است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"The purchase price (including customs duties and non-recoverable taxes, "
+"less any trade discounts, rebates, or settlement discounts);"
+msgstr ""
+"قیمت خرید (شامل حقوق گمرکی و مالیات‌های غیرقابل استرداد، پس از کسر هرگونه "
+"تخفیف تجاری، تخفیف مقطعی یا تخفیف تسویه حساب)؛"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_preamble
+msgid ""
+"The total balance sheet amount before allocation of the result is {{ total "
+"balance sheet }}."
+msgstr ""
+"مبلغ کل ترازنامه قبل از تخصیص نتیجه برابر با {{ total balance sheet }} است."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "This company is part of a group, and owns the following subsidiaries"
+msgstr "این شرکت بخشی از یک گروه است و دارای شرکت‌های زیرمجموعه زیر می‌باشد"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_entity_information
+msgid "This company is part of a group, under the following parent company."
+msgstr "این شرکت بخشی از یک گروه است که تحت نظر شرکت مادر زیر فعالیت می‌کند."
+
+#. module: accountant_knowledge
+#: model:ir.model.fields,field_description:accountant_knowledge.field_audit_report__title
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "Title"
+msgstr "عنوان"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Tools: 10 years"
+msgstr "ابزارآلات: ۱۰ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Total assets: {{ total balance sheet }}"
+msgstr "کل دارایی‌ها: {{ total balance sheet }}"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_income_statement
+msgid "Total<br>"
+msgstr "جمع<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_non_standard_transactions
+msgid "Transactions with Major Shareholders"
+msgstr "معاملات با سهامداران عمده"
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Transactions with Management"
+msgstr "معاملات با مدیریت"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid "Transport equipment: 5 years"
+msgstr "تجهیزات حمل‌ونقل: ۵ سال"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid "Unqualified Attestation"
+msgstr "گواهی‌نامه مقبول (بدون شرط / مطلوب)"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Valuation of free shares granted<br>"
+msgstr "ارزیابی سهام رایگان اعطاشده<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Valuation of multi-year variable compensation<br>"
+msgstr "ارزیابی پاداش متغیر چندساله<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_transactions_with_management
+msgid "Valuation of stock options granted during the year<br>"
+msgstr "ارزیابی حق تقدم خرید سهام (استاک آپشن) اعطاشده در طول سال<br>"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_changes_in_accounting_policies
+msgid "Voluntary Change in Accounting Policy"
+msgstr "تغییر داوطلبانه در رویه حسابداری"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_attestation
+msgid ""
+"We are making the following comment regarding a matter that may affect the "
+"overall consistency and reliability of the financial statements:"
+msgstr ""
+"ما اظهارنظر زیر را در خصوص مسئله‌ای که ممکن است بر سازگاری و قابلیت اتکای "
+"کلی صورت‌های مالی تأثیر بگذارد، مطرح می‌کنیم:"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_inventory_overview
+msgid "Weighted Average Cost"
+msgstr "میانگین موزون بهای تمام‌شده"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_intangible_and_tangible_assets
+msgid ""
+"When applicable, the initial estimate of dismantling, removal, and site "
+"restoration costs related to the asset's location."
+msgstr ""
+"در صورت لزوم، برآورد اولیه هزینه‌های برچیدن، جابجایی و پاکسازی محل مرتبط با "
+"استقرار دارایی."
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_financial_resources
+msgid ""
+"Where applicable, receivables are depreciated through provisions to account "
+"for potential collection difficulties. These provisions for impairment are "
+"determined by comparing the acquisition value with the probable realizable "
+"value."
+msgstr ""
+"در صورت لزوم، مطالبات به منظور پوشش مشکلات احتمالی وصول، از طریق منظور "
+"نمودن ذخیره کاهش ارزش می‌یابند. این ذخایر کاهش ارزش با مقایسه ارزش خرید با "
+"ارزش قابل بازیافت احتمالی تعیین می‌شوند."
+
+#. module: accountant_knowledge
+#: model:knowledge.article,template_name:accountant_knowledge.accountant_knowledge_article_template_workforce
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "Workforce"
+msgstr "نیروی کار"
+
+#. module: accountant_knowledge
+#: model_terms:knowledge.article,template_body:accountant_knowledge.accountant_knowledge_article_template_workforce
+msgid "Workforce employed during the Period"
+msgstr "نیروی کار شاغل طی دوره"
+
+#. module: accountant_knowledge
+#: model_terms:ir.ui.view,arch_db:accountant_knowledge.audit_report_view_form
+msgid "e.g. Annual Financial Overview"
+msgstr "مثلاً نمای کلی مالی سالانه"

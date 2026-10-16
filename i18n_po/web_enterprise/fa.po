@@ -1,0 +1,498 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_enterprise
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:33+0000\n"
+"PO-Revision-Date: 2026-10-12 18:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "%s days"
+msgstr "%s روز"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/settings_form_view/res_config_edition.xml:0
+msgid "(Enterprise Edition)"
+msgstr "(نسخه اینترپرایز)"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "1 month"
+msgstr "۱ ماه"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/views/list/list_renderer_desktop.xml:0
+msgid "Add Custom Field"
+msgstr "افزودن فیلد سفارشی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/views/view_components/group_config_menu_patch.js:0
+msgid "Automations"
+msgstr "اتوماسیون‌ها"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Build new apps from scratch"
+msgstr "ساخت برنامه‌های جدید از پایه"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Build new reports"
+msgstr "ایجاد گزارش‌های جدید"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/share_url/burger_menu.xml:0
+msgid "Close menu"
+msgstr "بستن منو"
+
+#. module: web_enterprise
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users__color_scheme
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users_settings__color_scheme
+msgid "Color Scheme"
+msgstr "طرح رنگ‌بندی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"Contact your sales representative to help you to unlink your previous "
+"database"
+msgstr ""
+"جهت آزادسازی اشتراک از پایگاه داده قبلی، با نماینده فروش خود تماس حاصل "
+"فرمایید"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Create automation rules"
+msgstr "ایجاد قواعد خودکارسازی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Customize Reports"
+msgstr "سفارشی‌سازی گزارش‌ها"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Customize any screen"
+msgstr "شخصی‌سازی فرم‌ها و صفحات"
+
+#. module: web_enterprise
+#: model:ir.model.fields.selection,name:web_enterprise.selection__res_users_settings__color_scheme__dark
+msgid "Dark"
+msgstr "تاریک"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/settings_form_view/res_config_edition.xml:0
+msgid "Database expiration:"
+msgstr "انقضای پایگاه داده:"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Define webhooks"
+msgstr "تعریف وبهوک‌ها (Webhooks)"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Discard"
+msgstr "انصراف"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Dismiss"
+msgstr "رد کردن"
+
+#. module: web_enterprise
+#: model:ir.model.fields,field_description:web_enterprise.field_ir_http__display_name
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users__display_name
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users_settings__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Error reason:"
+msgstr "علت خطا:"
+
+#. module: web_enterprise
+#: model:ir.model,name:web_enterprise.model_ir_http
+msgid "HTTP Routing"
+msgstr "مسیریابی HTTP"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/home_menu_service.js:0
+msgid "Home"
+msgstr "خانه"
+
+#. module: web_enterprise
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users_settings__homemenu_config
+msgid "Home Menu Configuration"
+msgstr "پیکربندی منوی اصلی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/navbar/navbar.js:0
+msgid "Home menu"
+msgstr "منوی اصلی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "I paid, please recheck!"
+msgstr "پرداخت انجام شد، لطفاً مجدداً بررسی کنید!"
+
+#. module: web_enterprise
+#: model:ir.model.fields,field_description:web_enterprise.field_ir_http__id
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users__id
+#: model:ir.model.fields,field_description:web_enterprise.field_res_users_settings__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Install Odoo Studio and its dependencies"
+msgstr "نصب استودیو مِنو (Studio) و وابستگی‌های آن"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Learn More"
+msgstr "اطلاعات بیشتر"
+
+#. module: web_enterprise
+#: model:ir.model.fields.selection,name:web_enterprise.selection__res_users_settings__color_scheme__light
+msgid "Light"
+msgstr "روشن"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Log in as an administrator to correct the issue."
+msgstr "جهت رفع مشکل، با حساب کاربری مدیر ارشد (Administrator) وارد شوید."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/home_menu.xml:0
+msgid "No result"
+msgstr "نتیجه‌ای یافت نشد"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/settings_form_view/res_config_edition.xml:0
+msgid "Odoo"
+msgstr "مِنو"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/settings_form_view/res_config_edition.xml:0
+msgid "Odoo Enterprise Edition License V1.0"
+msgstr "مجوز نسخه سازمانی مِنو نسخه ۱.۰"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_systray_item.xml:0
+msgid "Odoo Studio"
+msgstr "استودیو مِنو"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/views/list/list_renderer_desktop.js:0
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_systray_item.js:0
+msgid "Odoo Studio - Add new fields to any view"
+msgstr "استودیو مِنو - افزودن فیلدهای دلخواه به تمامی نماها"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/views/view_components/group_config_menu_patch.js:0
+msgid "Odoo Studio - Customize workflows in minutes"
+msgstr "استودیو مِنو - سفارشی‌سازی جریان‌های کاری در کمترین زمان"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Odoo Support"
+msgstr "پشتیبانی مِنو"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Paste code here"
+msgstr "کد را اینجا جای‌گذاری کنید"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/navbar/navbar.js:0
+msgid "Previous view"
+msgstr "نمای قبلی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "Register"
+msgstr "ثبت"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Register your subscription"
+msgstr "ثبت شناسه اشتراک سازمانی"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Renew now"
+msgstr "تمدید اشتراک"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "Retry"
+msgstr "تلاش مجدد"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Send an email"
+msgstr "ارسال ایمیل"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Sending the instructions by email ..."
+msgstr "در حال ارسال دستورالعمل از طریق ایمیل..."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/share_url/burger_menu.xml:0
+msgid "Share URL"
+msgstr "اشتراک‌گذاری نشانی اینترنتی (URL)"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"Something went wrong while registering your database. You can try again or "
+"contact"
+msgstr ""
+"هنگام ثبت پایگاه داده خطایی رخ داد. می‌توانید دوباره تلاش نموده یا تماس حاصل"
+" نمایید با"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Start using Odoo Studio"
+msgstr "شروع کار با استودیو مِنو"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Subscription Code:"
+msgstr "کد اشتراک سازمانی:"
+
+#. module: web_enterprise
+#: model:ir.model.fields.selection,name:web_enterprise.selection__res_users_settings__color_scheme__system
+msgid "System"
+msgstr "سیستم"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/home_menu.xml:0
+msgid "TIP"
+msgstr "نکته"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"Thank you, your registration was successful! Your database is valid until"
+msgstr "با تشکر، ثبت اشتراک شما موفقیت‌آمیز بود! پایگاه داده شما معتبر است تا"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/enterprise_subscription_service.js:0
+msgid ""
+"Thank you, your registration was successful! Your database is valid until "
+"%s."
+msgstr ""
+"با تشکر، ثبت اشتراک با موفقیت انجام شد! دیتابیس شما معتبر است تا تاریخ %s."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"The instructions to unlink your subscription from the previous database(s) "
+"have been sent"
+msgstr "دستورالعمل‌های لازم جهت جداسازی اشتراک از دیتابیس قبلی ارسال شد"
+
+#. module: web_enterprise
+#: model_terms:ir.ui.view,arch_db:web_enterprise.view_users_form_color_scheme
+#: model_terms:ir.ui.view,arch_db:web_enterprise.view_users_form_simple_modif_color_scheme
+msgid "Theme"
+msgstr "پوسته"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "This database has expired. "
+msgstr "مهلت اعتبار این دیتابیس منقضی شده است. "
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "This database will expire in %s. "
+msgstr "این دیتابیس پس از %s منقضی خواهد شد. "
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "This demo database will expire in %s. "
+msgstr "این پایگاه داده آزمایشی (دمو) پس از %s منقضی می‌شود. "
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Unable to send the instructions by email, please contact the"
+msgstr "امکان ارسال ایمیل راهنما وجود ندارد، لطفاً تماس حاصل کنید با"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Unleash the power of Odoo Studio:"
+msgstr "بهره‌مندی حداکثری از قابلیت‌های استودیو مِنو:"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Upgrade your subscription"
+msgstr "ارتقای اشتراک سازمانی"
+
+#. module: web_enterprise
+#: model:ir.model,name:web_enterprise.model_res_users
+msgid "User"
+msgstr "کاربر"
+
+#. module: web_enterprise
+#: model:ir.model,name:web_enterprise.model_res_users_settings
+msgid "User Settings"
+msgstr "تنظیمات کاربر"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "Want to tailor-make your Odoo?"
+msgstr ""
+"تمایل دارید مِنو را کاملاً متناسب با فرآیندهای کسب‌وکارتان اختصاصی‌سازی "
+"کنید؟"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"You have more users or more apps installed than your subscription allows."
+msgstr "تعداد کاربران یا برنامه‌های نصب‌شده فراتر از حد مجاز اشتراک شما است."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid ""
+"You will be able to register your database once you have installed your "
+"first app."
+msgstr ""
+"به محض نصب اولین برنامه، امکان فعال‌سازی و ثبت پایگاه داده فراهم خواهد شد."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Your subscription code"
+msgstr "کد اشتراک شما"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid ""
+"Your subscription expired %s days ago. This database will be blocked soon. "
+msgstr ""
+"اشتراک شما %s روز پیش منقضی شده است. دسترسی به پایگاه داده به‌زودی مسدود "
+"خواهد شد. "
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.js:0
+msgid "Your subscription expires in %s days. "
+msgstr "اشتراک شما تا %s روز دیگر منقضی می‌شود. "
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Your subscription is already linked to a database."
+msgstr "اشتراک شما در حال حاضر به دیتابیس دیگری متصل است."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "Your subscription was updated and is valid until"
+msgstr "اشتراک شما تمدید گردید و معتبر است تا"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/promote_studio/promote_studio_dialog.xml:0
+msgid "and more!"
+msgstr "و قابلیت‌های دیگر!"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "buy a subscription"
+msgstr "خرید اشتراک"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "buy a subscription."
+msgstr "خرید اشتراک سازمانی."
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "or"
+msgstr "یا"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/expiration_panel.xml:0
+msgid "to the subscription owner to confirm the change, enter a new code or"
+msgstr ""
+"برای مالک اشتراک جهت تایید تغییرات ارسال گردید؛ کد جدید را وارد نمایید یا"
+
+#. module: web_enterprise
+#. odoo-javascript
+#: code:addons/web_enterprise/static/src/webclient/home_menu/home_menu.xml:0
+msgid "— open me anywhere with"
+msgstr "— گشودن سریع با"

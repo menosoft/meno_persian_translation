@@ -1,0 +1,1777 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_blog
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:36+0000\n"
+"PO-Revision-Date: 2026-10-12 18:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_blog.py:0
+msgid "%s (copy)"
+msgstr "%s (کپی)"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_feed
+msgid "&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;"
+msgstr "&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "'. Showing results for '"
+msgstr "'. نمایش نتایج برای '"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.date_selector
+msgid "-- All dates"
+msgstr "-- تمامی تاریخ‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "<b>Publish your blog post</b> to make it visible to your visitors."
+msgstr ""
+"<b>پست وبلاگ خود را منتشر کنید</b> تا برای بازدیدکنندگان قابل دیدن شود."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_comment
+msgid "<b>Sign in</b>"
+msgstr "<b>ورود</b>"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid ""
+"<b>Write your story here.</b> Use the top toolbar to style your text: add an"
+" image or table, set bold or italic, etc. Drag and drop building blocks for "
+"more graphical blogs."
+msgstr ""
+"<b>داستان خود را اینجا بنویسید.</b> از نوار ابزار بالایی برای قالب‌دهی به "
+"متن خود استفاده کنید: یک تصویر یا جدول اضافه کنید، متن را بولد یا ایتالیک "
+"کنید و غیره. برای وبلاگ‌های گرافیکی‌تر، بلوک‌های سازنده را بکشید و رها کنید."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_tags_display
+msgid "<em>No tags defined</em>"
+msgstr "<em>هیچ برچسبی تعریف نشده است</em>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_complete
+msgid ""
+"<i class=\"fa fa-angle-down fa-3x text-white\" aria-label=\"To blog "
+"content\" title=\"To blog content\"/>"
+msgstr ""
+"<i class=\"fa fa-angle-down fa-3x text-white\" aria-label=\"به محتوای "
+"وبلاگ\" title=\"به محتوای وبلاگ\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_kanban
+msgid ""
+"<i class=\"fa fa-clock-o me-1\" role=\"img\" aria-label=\"Post date\" "
+"title=\"Post date\"/>"
+msgstr ""
+"<i class=\"fa fa-clock-o me-1\" role=\"img\" aria-label=\"تاریخ ارسال\" "
+"title=\"تاریخ ارسال\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_kanban
+msgid "<i class=\"fa fa-globe me-1\" title=\"Website\"/>"
+msgstr "<i class=\"fa fa-globe me-1\" title=\"وب‌سایت\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid ""
+"<i class=\"fa fa-linkedin text-linkedin\" aria-label=\"LinkedIn\" "
+"title=\"LinkedIn\"/>"
+msgstr ""
+"<i class=\"fa fa-linkedin text-linkedin\" aria-label=\"لینکدین\" "
+"title=\"لینکدین\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "<i class=\"fa fa-twitter text-twitter\" aria-label=\"X\" title=\"X\"/>"
+msgstr "<i class=\"fa fa-twitter text-twitter\" aria-label=\"ایکس\" title=\"ایکس\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_aside_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_circle_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_full_preview_data
+msgid ""
+"<i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/><span>Marc "
+"Demo</span> • <span>Mar 13, 2025</span> •"
+msgstr ""
+"<i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/><span>مارک "
+"دمو</span> • <span>۱۳ اسفند ۱۴۰۳</span> •"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid "<small class=\"text-muted\">Mar 13, 2025</small>"
+msgstr "<small class=\"text-muted\">۱۳ اسفند ۱۴۰۳</small>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_read_next
+msgid ""
+"<span class=\"bg-o-color-3 h6 d-inline-block py-1 px-2 rounded-1\">Read "
+"Next</span>"
+msgstr ""
+"<span class=\"bg-o-color-3 h6 d-inline-block py-1 px-2 rounded-1\">مطالعه "
+"بعدی</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_read_next
+msgid ""
+"<span class=\"h4 d-inline-block py-1 px-2 rounded-1 text-white\">\n"
+"                                    <i class=\"fa fa-angle-right fa-3x text-white\" aria-label=\"Read next\" title=\"Read Next\"/>\n"
+"                                </span>"
+msgstr ""
+"<span class=\"h4 d-inline-block py-1 px-2 rounded-1 text-white\">\n"
+"                                    <i class=\"fa fa-angle-right fa-3x text-white\" aria-label=\"مطالعه بعدی\" title=\"مطالعه بعدی\"/>\n"
+"                                </span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "<span class=\"me-1\">Show:</span>"
+msgstr "<span class=\"me-1\">نمایش:</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blogs_nav
+msgid "<span class=\"nav-link disabled ps-0\">Blogs:</span>"
+msgstr "<span class=\"nav-link disabled ps-0\">وبلاگ‌ها:</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_badge_preview_data
+msgid ""
+"<span class=\"o_cc o_cc1 d-inline-flex align-items-center justify-content-center gap-3 border rounded py-2 px-3 rounded-pill\">\n"
+"                    <span class=\"badge text-bg-primary\">NEW</span>\n"
+"                    <strong>Sierra Tarahumara</strong>\n"
+"                    <span class=\"text-muted\">Marc Demo in Travel</span>\n"
+"                    <span class=\"text-primary\">Read Now <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/></span>\n"
+"                </span>"
+msgstr ""
+"<span class=\"o_cc o_cc1 d-inline-flex align-items-center justify-content-center gap-3 border rounded py-2 px-3 rounded-pill\">\n"
+"                    <span class=\"badge text-bg-primary\">جدید</span>\n"
+"                    <strong>سیرا تاراهومارا</strong>\n"
+"                    <span class=\"text-muted\">مارک دمو در دسته سفر</span>\n"
+"                    <span class=\"text-primary\">اکنون بخوانید <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/></span>\n"
+"                </span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+msgid "<span class=\"text-muted\">Mar 13, 2025</span>"
+msgstr "<span class=\"text-muted\">۱۳ اسفند ۱۴۰۳</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_badge
+msgid ""
+"<span class=\"text-primary text-nowrap\">Read Now <i class=\"fa fa-long-"
+"arrow-right\"/></span>"
+msgstr ""
+"<span class=\"text-primary text-nowrap\">اکنون بخوانید <i class=\"fa fa-"
+"long-arrow-right\"/></span>"
+
+#. module: website_blog
+#: model_terms:web_tour.tour,rainbow_man_message:website_blog.blog
+msgid "<span><b>Good job!</b> You went through all steps of this tour.</span>"
+msgstr "<span><b>کار عالی بود!</b> شما تمام مراحل این تور را طی کردید.</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+msgid ""
+"<span><i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/> Marc "
+"Demo</span>"
+msgstr ""
+"<span><i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/> مارک "
+"دمو</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"<span><i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/>Marc Demo</span>\n"
+"                    <span class=\"text-muted\"> • Mar 13, 2025</span>"
+msgstr ""
+"<span><i class=\"fa fa-user-circle-o me-2\" role=\"presentation\"/>مارک دمو</span>\n"
+"                    <span class=\"text-muted\"> • ۱۳ اسفند ۱۴۰۳</span>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+msgid "A great way to discover hidden places"
+msgstr "یک روش عالی برای کشف مکان‌های پنهان"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_template_new_post
+msgid "A new post"
+msgstr "یک پست جدید"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.sidebar_blog_index
+msgid "About us"
+msgstr "درباره ما"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_template_new_post
+msgid "Access post"
+msgstr "دسترسی به پست"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_needaction
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_needaction
+msgid "Action Needed"
+msgstr "اقدام مورد نیاز است"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__active
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__active
+msgid "Active"
+msgstr "فعال"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_tags_display
+msgid "Add some"
+msgstr "افزودن مقداری"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blogs_nav
+msgid "All"
+msgstr "همه"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blogs_nav
+#: model_terms:ir.ui.view,arch_db:website_blog.post_breadcrumbs
+msgid "All Blogs"
+msgstr "تمام وبلاگ‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "All blogs"
+msgstr "همه وبلاگ‌ها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.date_selector
+msgid "All dates"
+msgstr "تمام تاریخ‌ها"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Alone in the ocean"
+msgstr "تنها در اقیانوس"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/interactions/website_blog.js:0
+msgid "Amazing blog article: %(title)s! Check it live: %(url)s"
+msgstr "مقاله شگفت‌انگیز وبلاگ: %(title)s! مشاهده زنده: %(url)s"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+msgid "An exciting mix of relaxation, culture, history, wildlife and hiking."
+msgstr "ترکیب هیجان‌انگیزی از آرامش، فرهنگ، تاریخ، حیات وحش و پیاده‌روی."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_archive_display
+msgid "Archive"
+msgstr "بایگانی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_blog_view_search
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_blog_form
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+msgid "Archived"
+msgstr "بایگانی‌شده"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_sidebar_blog_index_archives
+msgid "Archives"
+msgstr "آرشیوها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Article"
+msgstr "مقاله"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Articles"
+msgstr "مقاله‌ها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid "Astronomy"
+msgstr "نجوم"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "Atom Feed"
+msgstr "فید اتم"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_attachment_count
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_attachment_count
+msgid "Attachment Count"
+msgstr "تعداد پیوست‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__author_id
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+msgid "Author"
+msgstr "نویسنده"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__author_name
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__author_avatar
+msgid "Avatar"
+msgstr "آواتار"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Awesome hotel rooms"
+msgstr "اتاق‌های هتل فوق‌العاده"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid "Beyond The Eye"
+msgstr "فراتر از چشم"
+
+#. module: website_blog
+#. odoo-javascript
+#. odoo-python
+#: code:addons/website_blog/models/website.py:0
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+#: model:ir.model,name:website_blog.model_blog_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__blog_id
+#: model:ir.ui.menu,name:website_blog.menu_website_blog_root_global
+#: model:website.menu,name:website_blog.menu_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_blog_view_search
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_blog_form
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+msgid "Blog"
+msgstr "وبلاگ"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__name
+msgid "Blog Name"
+msgstr "نام وبلاگ"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option_plugin.js:0
+msgid "Blog Page"
+msgstr "صفحه وبلاگ"
+
+#. module: website_blog
+#: model:ir.model,name:website_blog.model_blog_post
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+#: model_terms:ir.ui.view,arch_db:website_blog.website_blog
+msgid "Blog Post"
+msgstr "پست وبلاگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_complete
+msgid "Blog Post Cover"
+msgstr "تصویر رویی پست وبلاگ"
+
+#. module: website_blog
+#: model:ir.actions.act_window,name:website_blog.action_blog_post
+msgid "Blog Post Pages"
+msgstr "صفحات پست وبلاگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_complete
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_form_add
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_read_next
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Blog Post Title"
+msgstr "عنوان پست وبلاگ"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__blog_post_ids
+#: model:ir.ui.menu,name:website_blog.menu_blog_post_pages
+#: model_terms:ir.ui.view,arch_db:website_blog.website_blog
+msgid "Blog Posts"
+msgstr "پست‌های وبلاگ"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__subtitle
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post_fullwidth_design
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Blog Subtitle"
+msgstr "زیرعنوان وبلاگ"
+
+#. module: website_blog
+#: model:ir.model,name:website_blog.model_blog_tag
+msgid "Blog Tag"
+msgstr "برچسب وبلاگ"
+
+#. module: website_blog
+#: model:ir.model,name:website_blog.model_blog_tag_category
+msgid "Blog Tag Category"
+msgstr "دسته‌بندی برچسب وبلاگ"
+
+#. module: website_blog
+#: model:ir.actions.act_window,name:website_blog.action_tags
+msgid "Blog Tags"
+msgstr "برچسب‌های وبلاگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post_fullwidth_design
+msgid "Blog Title"
+msgstr "عنوان وبلاگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post
+msgid "Blog's Title"
+msgstr "عنوان وبلاگ"
+
+#. module: website_blog
+#. odoo-javascript
+#. odoo-python
+#: code:addons/website_blog/controllers/main.py:0
+#: code:addons/website_blog/static/src/website_builder/blog_searchbar_option.xml:0
+#: model:ir.actions.act_window,name:website_blog.action_blog_blog
+#: model:ir.ui.menu,name:website_blog.menu_blog_global
+#: model_terms:ir.ui.view,arch_db:website_blog.blogs_nav
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_blog_list
+#: model_terms:ir.ui.view,arch_db:website_blog.website_blog
+msgid "Blogs"
+msgstr "وبلاگ‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Blogs List"
+msgstr "فهرست وبلاگ‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option_plugin.js:0
+msgid "Blogs Page"
+msgstr "صفحه وبلاگ‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Bottom"
+msgstr "پایین"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Breadcrumb"
+msgstr "مسیر راهنما"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid "Buying A Telescope"
+msgstr "خرید یک تلسکوپ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"Buying the right telescope to take your love of astronomy to the next level "
+"is a big next step in the development of your passion for the stars. In many"
+" ways, it is a big step from someone..."
+msgstr ""
+"خرید تلسکوپ مناسب برای ارتقای علاقه‌مندی شما به نجوم به سطح بعدی، گام بزرگ و"
+" مهمی در جهت شکوفایی اشتیاق شما به ستاره‌هاست. از بسیاری جهات، این یک گام "
+"بزرگ برای کسی است که..."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid ""
+"Buying the right telescope to take your love of astronomy to the next level "
+"is a big next step in the development..."
+msgstr ""
+"خرید تلسکوپ مناسب برای ارتقای علاقه‌مندی شما به نجوم به سطح بعدی، گام بزرگ و"
+" مهمی در توسعه..."
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__can_publish
+msgid "Can Publish"
+msgstr "قادر به انتشار است"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Cards"
+msgstr "کارت‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__category_id
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Choose an image from the library."
+msgstr "تصویری را از کتابخانه انتخاب کنید."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Click here to add new content to your website."
+msgstr "برای افزودن محتوای جدید به وب‌سایت خود اینجا کلیک کنید."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid ""
+"Click on \"<b>New</b>\" in the top-right corner to write your first blog "
+"post."
+msgstr ""
+"برای نوشتن اولین پست وبلاگ خود، روی گزینه \"<b>جدید</b>\" در گوشه بالا سمت "
+"راست کلیک کنید."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blogs_nav
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Close"
+msgstr "بستن"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__color
+msgid "Color"
+msgstr "رنگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_info
+msgid "Comment"
+msgstr "دیدگاه"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_info
+#: model_terms:ir.ui.view,arch_db:website_blog.post_info
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Comments/Views Stats"
+msgstr "آمار دیدگاه‌ها/بازدیدها"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__content
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__content
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+msgid "Content"
+msgstr "محتوا"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Cover"
+msgstr "کاور"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__cover_properties
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__cover_properties
+msgid "Cover Properties"
+msgstr "خصوصیات کاور"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__create_uid
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__create_uid
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__create_uid
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__create_uid
+msgid "Created by"
+msgstr "ایجاد شده توسط"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__create_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__create_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__create_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Date"
+msgstr "تاریخ"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_searchbar_option_plugin.js:0
+msgid "Date (new to old)"
+msgstr "تاریخ (جدید به قدیمی)"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_searchbar_option_plugin.js:0
+msgid "Date (old to new)"
+msgstr "تاریخ (قدیمی به جدید)"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_searchbar_option_plugin.js:0
+msgid "Description"
+msgstr "توضیحات"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Dexter"
+msgstr "دکستر"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__display_name
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__display_name
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__display_name
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__display_name
+#: model:ir.model.fields,field_description:website_blog.field_website__display_name
+#: model:ir.model.fields,field_description:website_blog.field_website_snippet_filter__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_tags_display
+msgid "Edit in backend"
+msgstr "ویرایش در بخش مدیریتی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "Edit the 'All Blogs' page header."
+msgstr "ویرایش سرآمد صفحه «همه وبلاگ‌ها»."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "Edit the 'Filter Results' page header."
+msgstr "ویرایش سرآمد صفحه «نتایج فیلتر»."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "Edit the '{{0}}' page header."
+msgstr "ویرایش سرآمد صفحه '{{0}}'."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Edit your title, the subtitle is optional."
+msgstr "عنوان خود را ویرایش کنید، زیرعنوان اختیاری است."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Enter your post's title"
+msgstr "عنوان پست خود را وارد کنید"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_circle_preview_data
+msgid "Facts you should bear in mind."
+msgstr "نکاتی که باید به خاطر داشته باشید."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_sidebar_blog_index_follow_us
+msgid "Follow Us"
+msgstr "ما را دنبال کنید"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_follower_ids
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_follower_ids
+msgid "Followers"
+msgstr "دنبال‌کنندگان"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_partner_ids
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "دنبال‌کنندگان (مخاطبین)"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__footer_visible
+msgid "Footer Visible"
+msgstr "پاورقی قابل مشاهده"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"For many of us, our very first experience of learning about the celestial "
+"bodies begins when we saw our first full moon in the sky. It is truly a "
+"magnificent view even to the naked eye...."
+msgstr ""
+"برای بسیاری از ما، اولین تجربه یادگیری درباره اجرام آسمانی زمانی آغاز شد که "
+"اولین ماه کامل را در آسمان دیدیم. حتی با چشم غیرمسلح نیز این منظره‌ای واقعاً"
+" باشکوه است..."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Full-Width"
+msgstr "تمام‌عرض"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Grid"
+msgstr "شبکه‌ای"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__has_message
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__has_message
+msgid "Has Message"
+msgstr "دارای پیام است"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__header_visible
+msgid "Header Visible"
+msgstr "سرآمد قابل مشاهده"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Hover Effect"
+msgstr "جلوه شناور (Hover Effect)"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid "How To Look Up"
+msgstr "چگونه جستجو کنیم"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_circle_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_full_preview_data
+msgid "How to choose the right hotel"
+msgstr "چگونه هتل مناسب را انتخاب کنیم"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__id
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__id
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__id
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__id
+#: model:ir.model.fields,field_description:website_blog.field_website__id
+#: model:ir.model.fields,field_description:website_blog.field_website_snippet_filter__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__message_needaction
+#: model:ir.model.fields,help:website_blog.field_blog_post__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "اگر این گزینه انتخاب شود، پیام‌های جدید به توجه شما نیاز خواهند داشت."
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__message_has_error
+#: model:ir.model.fields,help:website_blog.field_blog_blog__message_has_sms_error
+#: model:ir.model.fields,help:website_blog.field_blog_post__message_has_error
+#: model:ir.model.fields,help:website_blog.field_blog_post__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "اگر علامت زده شود، برخی از پیام‌ها دارای خطای تحویل هستند."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_card
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_horizontal
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+msgid "In"
+msgstr "در"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Increase Readability"
+msgstr "افزایش خوانایی"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_is_follower
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_is_follower
+msgid "Is Follower"
+msgstr "دنبال‌کننده است"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__is_published
+msgid "Is Published"
+msgstr "منتشر شده است"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Islands"
+msgstr "جزایر"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"It is safe to say that at some point on our lives, each and every one of us "
+"has that moment when we are suddenly stunned when we come face to face with "
+"the enormity of the universe that we..."
+msgstr ""
+"با اطمینان می‌توان گفت که در مقطعی از زندگی، تک‌تک ما لحظه‌ای را تجربه "
+"کرده‌ایم که وقتی ناگهان با عظمت جهان روبه‌رو می‌شویم، شگفت‌زده و مبهوت "
+"می‌مانیم..."
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Jungle"
+msgstr "جنگل"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_cover_properties_option.js:0
+msgid "Large"
+msgstr "بزرگ"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__write_uid
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_search
+msgid "Last Contributor"
+msgstr "آخرین مشارکت‌کننده"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__write_uid
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__write_uid
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__write_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__write_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__write_date
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: website_blog
+#: model:website.snippet.filter,name:website_blog.dynamic_filter_latest_blog_posts
+msgid "Latest Blog Posts"
+msgstr "آخرین پست‌های وبلاگ"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Layout"
+msgstr "طرح‌بندی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "List"
+msgstr "فهرست"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Marley"
+msgstr "مارلی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_preview_data
+msgid "Maui helicopter tours"
+msgstr "تورهای هلیکوپتر مائوئی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"Maui helicopter tours are a great way to see the island from a different "
+"perspective and have a fun adventure. If you have never been on a helicopter"
+" before, this is a great place to do it."
+msgstr ""
+"تورهای هلیکوپتر مائوئی روشی عالی برای دیدن جزیره از زاویه‌ای متفاوت و تجربه‌"
+" یک ماجراجویی سرگرم‌کننده است. اگر تاکنون سوار هلیکوپتر نشده‌اید، اینجا "
+"بهترین مکان برای انجام آن است."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid ""
+"Maui helicopter tours are a great way to see the island from a different "
+"perspective and have a fun adventure..."
+msgstr ""
+"تورهای هلیکوپتر مائوئی راهی عالی برای دیدن جزیره از زاویه‌ای متفاوت و داشتن "
+"یک ماجراجویی سرگرم‌کننده هستند..."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_cover_properties_option.js:0
+msgid "Medium"
+msgstr "متوسط"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_has_error
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_has_error
+msgid "Message Delivery error"
+msgstr "خطای تحویل پیام"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_ids
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_ids
+msgid "Messages"
+msgstr "پیام‌ها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Meta Description"
+msgstr "توضیحات متا"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Meta Keywords"
+msgstr "کلمات کلیدی متا"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Meta Title"
+msgstr "عنوان متا"
+
+#. module: website_blog
+#: model:website.snippet.filter,name:website_blog.dynamic_filter_most_viewed_blog_posts
+msgid "Most Viewed Blog Posts"
+msgstr "پربازدیدترین پست‌های وبلاگ"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_badge
+msgid "NEW"
+msgstr "جدید"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__name
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__name
+msgid "Name"
+msgstr "نام"
+
+#. module: website_blog
+#: model:ir.actions.act_window,name:website_blog.blog_post_action_add
+msgid "New Blog Post"
+msgstr "پست وبلاگ جدید"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "New Tag"
+msgstr "برچسب جدید"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Next Article"
+msgstr "مقاله بعدی"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "No Cover"
+msgstr "بدون کاور"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "No blog post yet."
+msgstr "هنوز هیچ پست وبلاگی وجود ندارد."
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__visits
+msgid "No of Views"
+msgstr "تعداد بازدیدها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "No results for \"%s\"."
+msgstr "هیچ نتیجه‌ای برای \"%s\" یافت نشد."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_short
+msgid "No results found for '"
+msgstr "هیچ نتیجه‌ای یافت نشد برای '"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_sidebar_blog_index_tags
+msgid "No tags defined yet."
+msgstr "هنوز هیچ برچسبی تعریف نشده است."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "None"
+msgstr "هیچ‌کدام"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Normal"
+msgstr "عادی"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Normal picture"
+msgstr "تصویر عادی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_kanban
+msgid "Not Published"
+msgstr "منتشر نشده"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_needaction_counter
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_needaction_counter
+msgid "Number of Actions"
+msgstr "تعداد اقدامات"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_has_error_counter
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_has_error_counter
+msgid "Number of errors"
+msgstr "تعداد خطاها"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__message_needaction_counter
+#: model:ir.model.fields,help:website_blog.field_blog_post__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "تعداد پیام‌هایی که نیاز به اقدام دارند"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__message_has_error_counter
+#: model:ir.model.fields,help:website_blog.field_blog_post__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "تعداد پیام‌های دارای خطای تحویل"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid ""
+"Once you have reviewed the content on mobile, you can switch back to the "
+"normal view by clicking here again"
+msgstr ""
+"پس از بررسی محتوا در موبایل، می‌توانید با کلیک مجدد در اینجا به نمای عادی "
+"بازگردید"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_sidebar_blog_index_tags
+msgid "Others"
+msgstr "سایر"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post_fullwidth_design
+msgid "Our Latest Posts"
+msgstr "آخرین پست‌های ما"
+
+#. module: website_blog
+#: model:blog.blog,name:website_blog.blog_blog_1
+msgid "Our blog"
+msgstr "وبلاگ ما"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_blogs_display
+msgid "Our blogs"
+msgstr "وبلاگ‌های ما"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Picture Size"
+msgstr "اندازه تصویر"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__blog_post_count
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__post_ids
+msgid "Posts"
+msgstr "پست‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Posts List"
+msgstr "فهرست پست‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_searchbar_option_plugin.js:0
+msgid "Publication Date"
+msgstr "تاریخ انتشار"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_kanban
+msgid "Published"
+msgstr "منتشر شده"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Published ("
+msgstr "منتشر شده ("
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__published_date
+msgid "Published Date"
+msgstr "تاریخ انتشار"
+
+#. module: website_blog
+#: model:mail.message.subtype,description:website_blog.mt_blog_blog_published
+#: model:mail.message.subtype,name:website_blog.mt_blog_blog_published
+msgid "Published Post"
+msgstr "پست منتشر شده"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Publishing Options"
+msgstr "گزینه‌های انتشار"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__post_date
+msgid "Publishing date"
+msgstr "تاریخ انتشار"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.sidebar_blog_index
+msgid "RSS"
+msgstr "RSS"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_aside_preview_data
+msgid "Read Now <i class=\"fa fa-long-arrow-right ms-2\" role=\"presentation\"/>"
+msgstr ""
+"اکنون بخوانید <i class=\"fa fa-long-arrow-right ms-2\" "
+"role=\"presentation\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_aside
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_circle
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_full
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_circle_preview_data
+msgid "Read Now <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/>"
+msgstr "اکنون بخوانید <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Read more <i class=\"oi oi-chevron-right ms-2\"/>"
+msgstr "ادامه مطلب <i class=\"oi oi-chevron-right ms-2\"/>"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__website_id
+#: model:ir.model.fields,help:website_blog.field_blog_post__website_id
+msgid "Restrict to a specific website."
+msgstr "محدود کردن به یک وب‌سایت خاص."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "SEO"
+msgstr "سئو"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__is_seo_optimized
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__is_seo_optimized
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__is_seo_optimized
+msgid "SEO optimized"
+msgstr "بهینه‌شده برای سئو"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__message_has_sms_error
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "خطای تحویل پیامک"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_big_picture
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_card
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_horizontal
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_list
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_aside
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_badge
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_circle
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_full
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_template_category
+msgid "Sample"
+msgstr "نمونه"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Satellites"
+msgstr "ماهواره‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Search for an image. (eg: type \"business\")"
+msgstr "جستجوی تصویر. (مثال: تایپ کنید \"تجارت\")"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Seaside vs mountain side"
+msgstr "ساحل در برابر کوهستان"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Seeing the world from above"
+msgstr "دیدن جهان از بالا"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_view_form_add
+msgid "Select Blog"
+msgstr "انتخاب وبلاگ"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Select the blog you want to add the post to."
+msgstr "وبلاگی را که می‌خواهید پست را به آن اضافه کنید، انتخاب نمایید."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Select this menu item to create a new blog post."
+msgstr "این گزینه منو را انتخاب کنید تا یک پست وبلاگ جدید ایجاد نمایید."
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__seo_name
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__seo_name
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__seo_name
+msgid "Seo name"
+msgstr "نام سئو"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.view_blog_post_form
+msgid "Separate every keyword with a comma"
+msgstr "هر کلمه کلیدی را با کاما از هم جدا کنید"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__sequence
+msgid "Sequence"
+msgstr "توالی"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Set a blog post <b>cover</b>."
+msgstr "یک <b>کاور</b> برای پست وبلاگ تنظیم کنید."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Share Links"
+msgstr "لینک‌های اشتراک‌گذاری"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Share on Facebook"
+msgstr "اشتراک‌گذاری در فیسبوک"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Share on LinkedIn"
+msgstr "اشتراک‌گذاری در لینکدین"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Share on X"
+msgstr "اشتراک‌گذاری در X"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Share this post"
+msgstr "اشتراک‌گذاری این پست"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_aside_preview_data
+msgid "Sierra Tarahumara"
+msgstr "سیرا تاراهومارا"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_aside_preview_data
+msgid ""
+"Sierra Tarahumara, popularly known as Copper Canyon is situated in Mexico. "
+"The area is a favorite destination among those seeking an adventurous "
+"vacation. Copper Canyon is one of the six gorges in the..."
+msgstr ""
+"سیرا تاراهومارا که به نام دره مس نیز شناخته می‌شود، در مکزیک واقع شده است. "
+"این منطقه مقصدی محبوب برای کسانی است که به دنبال تعطیلاتی ماجراجویانه هستند."
+" دره مس یکی از شش دره عمیق در..."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"Sierra Tarahumara, popularly known as Copper Canyon is situated in Mexico. "
+"The area is a favorite destination among those seeking an adventurous "
+"vacation. Copper Canyon is one of the six gorges..."
+msgstr ""
+"سیرا تاراهومارا که عموماً به نام دره مس شناخته می‌شود، در مکزیک واقع شده "
+"است. این منطقه مقصدی محبوب در میان افرادی است که به دنبال تعطیلاتی "
+"ماجراجویانه هستند. دره مس یکی از شش دره..."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid ""
+"Sierra Tarahumara, popularly known as Copper Canyon is situated in Mexico. "
+"The area is a favorite destination among those..."
+msgstr ""
+"سیرا تاراهومارا که به نام دره مس شناخته می‌شود، در مکزیک واقع است. این منطقه"
+" مقصدی محبوب در میان..."
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Silly-Chico"
+msgstr "سیلی-چیکو"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Skies"
+msgstr "آسمان‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Smaller"
+msgstr "کوچک‌تر"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+msgid "Smaller picture"
+msgstr "تصویر کوچک‌تر"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_full_preview_data
+msgid ""
+"So you're going abroad, you've chosen your destination and now you have to "
+"choose a hotel. Ten years ago, you'd have probably visited your local travel"
+" agent and trusted the face-to-face advice you we..."
+msgstr ""
+"بنابراین شما به خارج از کشور سفر می‌کنید، مقصد خود را انتخاب کرده‌اید و "
+"اکنون باید هتلی را برگزینید. ده سال پیش، احتمالاً به آژانس مسافرتی محلی خود "
+"مراجعه می‌کردید و به توصیه‌های حضوری اعتماد می‌کردید..."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_list_preview_data
+msgid ""
+"So you're going abroad, you've chosen your destination and now you have to "
+"choose a hotel. Ten years ago, you'd have probably visited your local travel"
+" agent and trusted the face-to-face advice..."
+msgstr ""
+"بنابراین شما عازم خارج از کشور هستید، مقصد خود را انتخاب کرده و اکنون باید "
+"هتل رزرو کنید. ده سال پیش، احتمالا به آژانس مسافرتی محلی مراجعه کرده و به "
+"توصیه‌های حضوری اعتماد می‌کردید..."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+msgid ""
+"So you're going abroad, you've chosen your destination and now you have to "
+"choose a hotel. Ten years ago, you'd have..."
+msgstr ""
+"بنابراین قصد سفر خارجی دارید، مقصد را انتخاب کرده‌اید و حالا باید هتلی "
+"انتخاب کنید. ده سال پیش، احتمالاً..."
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Spotting the fauna"
+msgstr "مشاهده گونه‌های جانوری"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_blog.py:0
+msgid "Start writing here..."
+msgstr "اینجا بنویسید..."
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__subtitle
+msgid "Sub Title"
+msgstr "زیرعنوان"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_complete
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_cover_post
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_read_next
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_regular_cover
+msgid "Subtitle"
+msgstr "زیرعنوان"
+
+#. module: website_blog
+#: model:ir.ui.menu,name:website_blog.menu_website_blog_tag_category_global
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_tag_category_tree
+msgid "Tag Categories"
+msgstr "دسته‌بندی‌های برچسب"
+
+#. module: website_blog
+#: model:ir.actions.act_window,name:website_blog.action_tag_category
+msgid "Tag Category"
+msgstr "دسته‌بندی برچسب"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_tag_category_form
+msgid "Tag Category Form"
+msgstr "فرم دسته‌بندی برچسب"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_tag_form
+msgid "Tag Form"
+msgstr "فرم برچسب"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_tag_tree
+msgid "Tag List"
+msgstr "فهرست برچسب"
+
+#. module: website_blog
+#: model:ir.model.constraint,message:website_blog.constraint_blog_tag_category_name_uniq
+msgid "Tag category already exists!"
+msgstr "دسته‌بندی برچسب از قبل وجود دارد!"
+
+#. module: website_blog
+#: model:ir.model.constraint,message:website_blog.constraint_blog_tag_name_uniq
+msgid "Tag name already exists!"
+msgstr "نام برچسب از قبل وجود دارد!"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+#: code:addons/website_blog/static/src/website_builder/blog_post_tags_option.xml:0
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__tag_ids
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag_category__tag_ids
+#: model:ir.ui.menu,name:website_blog.menu_blog_tag_global
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_tags_display
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_sidebar_blog_index_tags
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Tags List"
+msgstr "فهرست برچسب‌ها"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Taking pictures in the dark"
+msgstr "عکاسی در تاریکی"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__teaser
+msgid "Teaser"
+msgstr "تیزر"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Teaser & Tags"
+msgstr "تیزر و برچسب‌ها"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__teaser_manual
+msgid "Teaser Content"
+msgstr "محتوای تیزر"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_post__post_date
+msgid ""
+"The blog post will be visible for your visitors as of this date on the "
+"website if it is set as published."
+msgstr ""
+"اگر پست وبلاگ به صورت منتشرشده تنظیم شود، از این تاریخ به بعد برای "
+"بازدیدکنندگان در وب‌سایت قابل مشاهده خواهد بود."
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_post__website_absolute_url
+msgid "The full absolute URL to access the document through the website."
+msgstr "آدرس URL مطلق و کامل برای دسترسی به سند از طریق وب‌سایت."
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_post__website_url
+msgid "The full relative URL to access the document through the website."
+msgstr "آدرس URL نسبی و کامل برای دسترسی به سند از طریق وب‌سایت."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "This box will not be visible to your visitors"
+msgstr "این کادر برای بازدیدکنندگان شما قابل مشاهده نخواهد بود"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_cover_properties_option.js:0
+msgid "Tiny"
+msgstr "بسیار کوچک"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__name
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_regular_cover
+msgid "Title"
+msgstr "عنوان"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Title Above Cover"
+msgstr "عنوان بالای کاور"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_page_option.xml:0
+msgid "Title Inside Cover"
+msgstr "عنوان داخل کاور"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/website_builder/blog_post_page_option.xml:0
+msgid "Top Banner"
+msgstr "بنر بالا"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_card_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_horizontal_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_aside_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_circle_preview_data
+#: model_terms:ir.ui.view,arch_db:website_blog.s_dynamic_snippet_blog_posts_single_full_preview_data
+msgid "Travel"
+msgstr "سفر"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_share_links_display
+msgid "Twitter"
+msgstr "توییتر"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "Unpublished ("
+msgstr "منتشر نشده ("
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.post_heading
+msgid "Untitled Post"
+msgstr "پست بدون عنوان"
+
+#. module: website_blog
+#. odoo-javascript
+#: code:addons/website_blog/static/src/tours/website_blog.js:0
+msgid "Use this icon to preview your blog post on <b>mobile devices</b>."
+msgstr ""
+"برای پیش‌نمایش پست وبلاگ خود روی <b>دستگاه‌های موبایل</b>، از این آیکون "
+"استفاده کنید."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_tag_form
+msgid "Used in:"
+msgstr "استفاده شده در:"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "Viewpoints"
+msgstr "دیدگاه‌ها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.post_info
+msgid "Views"
+msgstr "بازدیدها"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.index
+msgid "Visible in all blogs' pages"
+msgstr "قابل مشاهده در تمام صفحات وبلاگ‌ها"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_published
+msgid "Visible on current website"
+msgstr "قابل مشاهده در وب‌سایت فعلی"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_content
+msgid "WRITE HERE OR DRAG BUILDING BLOCKS"
+msgstr "اینجا بنویسید یا بلوک‌های ساختاری را بکشید"
+
+#. module: website_blog
+#: model:blog.blog,subtitle:website_blog.blog_blog_1
+msgid ""
+"We are a team of passionate people whose goal is to improve everyone's life."
+msgstr "ما تیمی از افراد پرشور هستیم که هدفمان بهبود زندگی همه است."
+
+#. module: website_blog
+#: model:ir.model,name:website_blog.model_website
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_id
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_id
+msgid "Website"
+msgstr "وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_absolute_url
+msgid "Website Absolute URL"
+msgstr "آدرس URL مطلق وب‌سایت"
+
+#. module: website_blog
+#: model:ir.actions.act_url,name:website_blog.action_open_website
+msgid "Website Blogs"
+msgstr "وبلاگ‌های وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_message_ids
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_message_ids
+msgid "Website Messages"
+msgstr "پیام‌های وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model,name:website_blog.model_website_snippet_filter
+msgid "Website Snippet Filter"
+msgstr "فیلتر قطعه (Snippet) وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_url
+msgid "Website URL"
+msgstr "آدرس URL وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,help:website_blog.field_blog_blog__website_message_ids
+#: model:ir.model.fields,help:website_blog.field_blog_post__website_message_ids
+msgid "Website communication history"
+msgstr "تاریخچه ارتباطات وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_meta_description
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_meta_description
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__website_meta_description
+msgid "Website meta description"
+msgstr "توضیحات متا وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_meta_keywords
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_meta_keywords
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__website_meta_keywords
+msgid "Website meta keywords"
+msgstr "کلمات کلیدی متا وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_meta_title
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_meta_title
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__website_meta_title
+msgid "Website meta title"
+msgstr "عنوان متا وب‌سایت"
+
+#. module: website_blog
+#: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_meta_og_img
+#: model:ir.model.fields,field_description:website_blog.field_blog_post__website_meta_og_img
+#: model:ir.model.fields,field_description:website_blog.field_blog_tag__website_meta_og_img
+msgid "Website opengraph image"
+msgstr "تصویر OpenGraph وب‌سایت"
+
+#. module: website_blog
+#. odoo-python
+#: code:addons/website_blog/models/website_snippet_filter.py:0
+msgid "With a View"
+msgstr "همراه با چشم‌انداز"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.sidebar_blog_index
+msgid "Write a small text here to describe your blog or company."
+msgstr "متن کوتاهی اینجا بنویسید تا وبلاگ یا شرکت خود را توصیف کنید."
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_template_new_post
+msgid "blog. Click here to access the blog :"
+msgstr "وبلاگ. برای دسترسی به وبلاگ اینجا کلیک کنید:"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.post_breadcrumbs
+msgid "breadcrumb"
+msgstr "مسیر راهنما"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_info
+#: model_terms:ir.ui.view,arch_db:website_blog.post_heading
+msgid "by"
+msgstr "توسط"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_template_new_post
+msgid "has been published on the"
+msgstr "منتشر شده است در"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_content
+#: model_terms:ir.ui.view,arch_db:website_blog.dynamic_filter_template_blog_post_single_badge
+msgid "in"
+msgstr "در"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.opt_blog_post_comment
+msgid "to leave a comment"
+msgstr "برای گذاشتن دیدگاه"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.posts_loop
+msgid "unpublished"
+msgstr "منتشر نشده"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_info
+msgid ""
+"|\n"
+"            <i class=\"fa fa-comment ms-1 text-muted\"/>"
+msgstr ""
+"|\n"
+"            <i class=\"fa fa-comment ms-1 text-muted\"/>"
+
+#. module: website_blog
+#: model_terms:ir.ui.view,arch_db:website_blog.blog_post_info
+msgid "| No comments yet"
+msgstr "| هنوز دیدگاهی وجود ندارد"

@@ -1,0 +1,428 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* social_linkedin
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:29+0000\n"
+"PO-Revision-Date: 2026-10-12 18:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.linkedin_preview
+msgid "<b>LinkedIn Post</b>"
+msgstr "<b>پست لینکدین</b>"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_stream_post_view_kanban
+msgid "<i class=\"fa fa-comments me-1\" title=\"Comments\"/>"
+msgstr "<i class=\"fa fa-comments me-1\" title=\"نظرات\"/>"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_stream_post_view_kanban
+msgid "<i class=\"fa fa-thumbs-up me-1\" title=\"Likes\"/>"
+msgstr "<i class=\"fa fa-thumbs-up me-1\" title=\"پسندها\"/>"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_live_post__linkedin_post_id
+msgid "Actual LinkedIn ID of the post"
+msgstr "شناسه واقعی لینکدین پست"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid "An error occurred when fetching your pages data: “%s”."
+msgstr "هنگام دریافت داده‌های صفحات شما خطایی رخ داد: «%s»."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid "An error occurred when fetching your pages: “%s”."
+msgstr "هنگام دریافت صفحات شما خطایی رخ داد: «%s»."
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_res_config_settings__linkedin_app_id
+msgid "App ID"
+msgstr "شناسه اپلیکیشن"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_res_config_settings__linkedin_client_secret
+msgid "App Secret"
+msgstr "رمز محرمانه اپلیکیشن"
+
+#. module: social_linkedin
+#. odoo-javascript
+#: code:addons/social_linkedin/static/src/xml/social_linkedin_templates.xml:0
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_stream_post_view_kanban
+msgid "Author Image"
+msgstr "تصویر نویسنده"
+
+#. module: social_linkedin
+#: model:ir.model.fields,help:social_linkedin.field_res_config_settings__linkedin_use_own_account
+msgid ""
+"Check this if you want to use your personal LinkedIn Developer Account "
+"instead of the provided one."
+msgstr ""
+"اگر می‌خواهید به جای حساب ارائه‌شده، از حساب توسعه‌دهنده شخصی لینکدین خود "
+"استفاده کنید، این گزینه را علامت بزنید."
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid "Could not like / dislike this comment."
+msgstr "امکان لایک / دیسلایک کردن این نظر وجود ندارد."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid "Couldn't delete the post: “%s”."
+msgstr "امکان حذف پست وجود ندارد: «%s»."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid "Couldn't update the post: “%s”."
+msgstr "امکان به‌روزرسانی پست وجود ندارد: «%s»."
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__display_linkedin_preview
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__display_linkedin_preview
+msgid "Display LinkedIn Preview"
+msgstr "نمایش پیش‌نمایش لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_account__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_live_post__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_media__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream__display_name
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid "Failed to post the comment: “%(error_description)s”"
+msgstr "ارسال نظر با شکست مواجه شد: «%(error_description)s»"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid ""
+"Failed to retrieve the post. It might have been deleted or you may not have "
+"permission to view it."
+msgstr ""
+"بازیابی پست با شکست مواجه شد. ممکن است حذف شده باشد یا شما دسترسی لازم برای "
+"مشاهده آن را نداشته باشید."
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__has_linkedin_account
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__has_linkedin_account
+msgid "Has LinkedIn Account"
+msgstr "دارای حساب لینکدین است"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_res_config_settings__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_account__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_live_post__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_media__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream__id
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_post_template_view_form
+msgid "Images"
+msgstr "تصاویر"
+
+#. module: social_linkedin
+#. odoo-javascript
+#: code:addons/social_linkedin/static/src/xml/social_linkedin_templates.xml:0
+msgid "Likes"
+msgstr "پسندها"
+
+#. module: social_linkedin
+#: model:ir.model.fields.selection,name:social_linkedin.selection__social_media__media_type__linkedin
+#: model:social.media,name:social_linkedin.social_media_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_post_template_view_form
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_account__linkedin_account_id
+msgid "LinkedIn Account ID"
+msgstr "شناسه حساب لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_account__linkedin_account_urn
+#: model:ir.model.fields,help:social_linkedin.field_social_account__linkedin_account_urn
+msgid "LinkedIn Account URN"
+msgstr "شناسه یکتای حساب لینکدین (URN)"
+
+#. module: social_linkedin
+#. odoo-javascript
+#: code:addons/social_linkedin/static/src/js/stream_post_kanban_record.js:0
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_comments_count
+msgid "LinkedIn Comments"
+msgstr "نظرات لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__linkedin_image_ids
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__linkedin_image_ids
+msgid "LinkedIn Images"
+msgstr "تصاویر لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_likes_count
+msgid "LinkedIn Likes"
+msgstr "لایک‌های لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__linkedin_message
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__linkedin_message
+msgid "LinkedIn Message"
+msgstr "پیام لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post__linkedin_preview
+#: model:ir.model.fields,field_description:social_linkedin.field_social_post_template__linkedin_preview
+msgid "LinkedIn Preview"
+msgstr "پیش‌نمایش لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_author_vanity_name
+msgid "LinkedIn Vanity Name"
+msgstr "نام اختصاصی لینکدین (Vanity Name)"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_account__linkedin_access_token
+msgid "LinkedIn access token"
+msgstr "توکن دسترسی لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_author_id
+msgid "LinkedIn author ID"
+msgstr "شناسه نویسنده در لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_author_urn
+msgid "LinkedIn author URN"
+msgstr "شناسه یکتای نویسنده در لینکدین (URN)"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_author_image_url
+msgid "LinkedIn author image URL"
+msgstr "نشانی تصویر نویسنده در لینکدین"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/controllers/main.py:0
+msgid "LinkedIn did not provide a valid access token."
+msgstr "لینکدین توکن دسترسی معتبری ارائه نکرد."
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_stream_post__linkedin_post_urn
+msgid "LinkedIn post URN"
+msgstr "شناسه یکتای پست لینکدین (URN)"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.res_config_settings_view_form
+msgid "Linkedin Developer Account"
+msgstr "حساب توسعه‌دهنده لینکدین"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_social_media__media_type
+msgid "Media Type"
+msgstr "نوع رسانه"
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.social_post_template_view_form
+msgid "Message"
+msgstr "پیام"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_media.py:0
+msgid ""
+"Oops! You currently don't have an active subscription. No worries, though! You can easily get one here: %s.\n"
+"Grab a subscription and unlock a world of amazing features!"
+msgstr ""
+"اوه! شما در حال حاضر اشتراک فعالی ندارید. اما جای نگرانی نیست! می‌توانید به‌آسانی از اینجا یکی تهیه کنید: %s.\n"
+"اشتراک تهیه کنید و دنیایی از امکانات شگفت‌انگیز را باز کنید!"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_post_template.py:0
+msgid ""
+"Please specify either a LinkedIn Message or upload some LinkedIn Images."
+msgstr ""
+"لطفاً یا یک پیام لینکدین مشخص کنید یا تعدادی تصویر لینکدین بارگذاری کنید."
+
+#. module: social_linkedin
+#: model_terms:ir.ui.view,arch_db:social_linkedin.linkedin_preview
+msgid "Post Image"
+msgstr "تصویر پست"
+
+#. module: social_linkedin
+#: model:social.stream.type,name:social_linkedin.stream_type_linkedin_company_post
+msgid "Posts"
+msgstr "پست‌ها"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid "Read More about Business Accounts"
+msgstr "بیشتر درباره حساب‌های تجاری بخوانید"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_account
+msgid "Social Account"
+msgstr "حساب اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_live_post
+msgid "Social Live Post"
+msgstr "پست زنده اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_media
+msgid "Social Media"
+msgstr "رسانه‌های اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_post
+msgid "Social Post"
+msgstr "پست اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_post_template
+msgid "Social Post Template"
+msgstr "قالب پست اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_stream
+msgid "Social Stream"
+msgstr "جریان اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model,name:social_linkedin.model_social_stream_post
+msgid "Social Stream Post"
+msgstr "پست جریان اجتماعی"
+
+#. module: social_linkedin
+#: model:ir.model.fields,help:social_linkedin.field_social_account__linkedin_access_token
+msgid "The access token is used to perform request to the REST API"
+msgstr "توکن دسترسی برای انجام درخواست به REST API استفاده می‌شود"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_media.py:0
+msgid ""
+"The url that this service requested returned an error. Please contact the "
+"author of the app."
+msgstr ""
+"نشانی وب درخواستی این سرویس خطایی بازگرداند. لطفاً با توسعه‌دهنده اپلیکیشن "
+"تماس بگیرید."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/controllers/main.py:0
+msgid "There was a authentication issue during your request."
+msgstr "هنگام درخواست شما مشکلی در احراز هویت رخ داد."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/controllers/main.py:0
+msgid "Unauthorized. Please contact your administrator."
+msgstr "دسترسی غیرمجاز. لطفاً با مدیر سیستم تماس بگیرید."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream.py:0
+#: code:addons/social_linkedin/models/social_stream_post.py:0
+msgid "Unknown"
+msgstr "ناشناخته"
+
+#. module: social_linkedin
+#: model:ir.model.fields,field_description:social_linkedin.field_res_config_settings__linkedin_use_own_account
+msgid "Use your own LinkedIn Account"
+msgstr "از حساب لینکدین خودتان استفاده کنید"
+
+#. module: social_linkedin
+#: model:ir.model.fields,help:social_linkedin.field_social_media__media_type
+msgid ""
+"Used to make comparisons when we need to restrict some features to a "
+"specific media ('facebook', 'x', ...)."
+msgstr ""
+"برای انجام مقایسه‌ها زمانی که نیاز داریم برخی ویژگی‌ها را به یک رسانه خاص "
+"محدود کنیم ('facebook', 'x', ...)."
+
+#. module: social_linkedin
+#: model:ir.model.fields,help:social_linkedin.field_social_stream_post__linkedin_author_vanity_name
+msgid "Vanity name, used to generate a link to the author"
+msgstr "نام Vanity، برای تولید پیوند به نویسنده استفاده می‌شود"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid ""
+"We could not upload your image, try reducing its size and posting it again "
+"(error: Failed during upload registering)."
+msgstr ""
+"امکان بارگذاری تصویر شما وجود نداشت، سعی کنید اندازه آن را کاهش داده و "
+"دوباره ارسال کنید (خطا: شکست در ثبت بارگذاری)."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid ""
+"We could not upload your image, try reducing its size and posting it again."
+msgstr ""
+"امکان بارگذاری تصویر شما وجود نداشت، سعی کنید اندازه آن را کاهش داده و "
+"دوباره ارسال کنید."
+
+#. module: social_linkedin
+#: model:ir.model.fields,help:social_linkedin.field_social_post__linkedin_image_ids
+#: model:ir.model.fields,help:social_linkedin.field_social_post_template__linkedin_image_ids
+msgid "Will attach images to your posts."
+msgstr "تصاویر را به پست‌های شما پیوست خواهد کرد."
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_stream.py:0
+msgid "Wrong stream type for \"%s\""
+msgstr "نوع جریان نامعتبر برای \"%s\""
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_account.py:0
+msgid ""
+"You need a Business Account to post on LinkedIn with Odoo Social.\n"
+" Please create one and make sure it is linked to your account"
+msgstr ""
+"برای ارسال پست در لینکدین با ماژول اجتماعی مِنو، به یک حساب تجاری نیاز دارید.\n"
+" لطفاً یک حساب ایجاد کرده و مطمئن شوید که به حساب شما متصل است"
+
+#. module: social_linkedin
+#. odoo-python
+#: code:addons/social_linkedin/models/social_live_post.py:0
+msgid "unknown"
+msgstr "ناشناخته"

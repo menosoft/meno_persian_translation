@@ -1,0 +1,441 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_smart_auth
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:14+0000\n"
+"PO-Revision-Date: 2026-10-12 18:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "0912xxxxxxx / email@domain.com"
+msgstr "0912xxxxxxx / email@domain.com"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "09xxxxxxxxx"
+msgstr "09xxxxxxxxx"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid ""
+"<i class=\"fa fa-address-card-o text-primary mr-2\"/> اطلاعات تماس و\n"
+"                    تاییدیه‌ها"
+msgstr ""
+"<i class=\"fa fa-address-card-o text-primary mr-2\"/> اطلاعات تماس و\n"
+"                    تاییدیه‌ها"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"<i class=\"fa fa-arrow-right\"/>\n"
+"                    <span>بازگشت به سایت</span>"
+msgstr ""
+"<i class=\"fa fa-arrow-right\"/>\n"
+"                    <span>بازگشت به سایت</span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_email_verification_notice
+msgid ""
+"<i class=\"fa fa-envelope-o\"/> عدم تایید آدرس\n"
+"                        ایمیل"
+msgstr ""
+"<i class=\"fa fa-envelope-o\"/> عدم تایید آدرس\n"
+"                        ایمیل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "<i class=\"fa fa-fingerprint mr-1\"/> ورود سریع با Passkey"
+msgstr "<i class=\"fa fa-fingerprint mr-1\"/> ورود سریع با کلید عبور (Passkey)"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"<small class=\"text-info\" id=\"otp_timer_text\">زمان باقی‌مانده: <span "
+"id=\"cooldown_timer\">90</span> ثانیه</small>"
+msgstr ""
+"<small class=\"text-info\" id=\"otp_timer_text\">زمان باقی‌مانده: <span "
+"id=\"cooldown_timer\">90</span> ثانیه</small>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"<small class=\"text-muted d-block\" style=\"font-size: 0.7rem;\">(در\n"
+"                                    صورتی که در دستگاه شما فعال شده باشد)</small>"
+msgstr ""
+"<small class=\"text-muted d-block\" style=\"font-size: 0.7rem;\">(در\n"
+"                                    صورتی که در دستگاه شما فعال شده باشد)</small>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "<small class=\"text-muted\" id=\"mobile_otp_timer\">01:30</small>"
+msgstr "<small class=\"text-muted\" id=\"mobile_otp_timer\">01:30</small>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "<span aria-hidden=\"true\">&amp;times;</span>"
+msgstr "<span aria-hidden=\"true\">&amp;times;</span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "<span class=\"badge badge-danger ml-2\">تایید نشده</span>"
+msgstr "<span class=\"badge badge-danger ml-2\">تایید نشده</span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "<span class=\"badge badge-success ml-2\">تایید شده</span>"
+msgstr "<span class=\"badge badge-success ml-2\">تایید شده</span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid ""
+"<span class=\"badge badge-warning text-dark ml-2\">نیازمند\n"
+"                                            تایید</span>"
+msgstr ""
+"<span class=\"badge badge-warning text-dark ml-2\">نیازمند\n"
+"                                            تایید</span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "<span class=\"text-light small\">حساب کاربری ندارید؟ </span>"
+msgstr "<span class=\"text-light small\">حساب کاربری ندارید؟ </span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "<span class=\"text-light small\">قبلاً ثبت‌نام کرده‌اید؟ </span>"
+msgstr "<span class=\"text-light small\">قبلاً ثبت‌نام کرده‌اید؟ </span>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_home_verification_banner
+msgid ""
+"<strong class=\"text-danger d-block mb-1\"><i class=\"fa fa-exclamation-"
+"triangle\"/> تایید حساب کاربری ضروری است!</strong>"
+msgstr ""
+"<strong class=\"text-danger d-block mb-1\"><i class=\"fa fa-exclamation-"
+"triangle\"/> تایید حساب کاربری ضروری است!</strong>"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "Close"
+msgstr "بستن"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "Company Logo"
+msgstr "لوگوی شرکت"
+
+#. module: meno_smart_auth
+#: model:ir.model,name:meno_smart_auth.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__email_verified
+msgid "Email Verified"
+msgstr "ایمیل تاییدشده"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_config_settings__id
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__mobile_verified
+msgid "Mobile Verified"
+msgstr "موبایل تاییدشده"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields.selection,name:meno_smart_auth.selection__res_config_settings__sms_provider__none
+msgid "No SMS Provider (Demo/Fallback Mode)"
+msgstr "بدون ارائه‌دهنده پیامک (حالت نمایشی / پیش‌فرض)"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__otp_code
+msgid "OTP Code"
+msgstr "کد یکبار مصرف (OTP)"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_config_settings__otp_cooldown_duration
+msgid "OTP Cooldown Duration (Seconds)"
+msgstr "مدت زمان توقف بین درخواست‌های OTP (ثانیه)"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__otp_cooldown
+msgid "OTP Cooldown Time"
+msgstr "زمان توقف OTP"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_users__otp_expiry
+msgid "OTP Expiry Time"
+msgstr "زمان انقضای OTP"
+
+#. module: meno_smart_auth
+#. odoo-python
+#: code:addons/meno_smart_auth/models/res_users.py:0
+msgid "Please wait %s seconds before requesting a new code."
+msgstr "لطفاً پیش از درخواست کد جدید، %s ثانیه صبر کنید."
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,field_description:meno_smart_auth.field_res_config_settings__sms_provider
+msgid "SMS Gateway Provider"
+msgstr "ارائه‌دهنده درگاه پیامک"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,help:meno_smart_auth.field_res_config_settings__sms_provider
+msgid "Select the SMS provider to send OTP codes to website users."
+msgstr ""
+"ارائه‌دهنده پیامک را برای ارسال کدهای OTP به کاربران وب‌سایت انتخاب کنید."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "Smart Auth (MENO SOFT)"
+msgstr "احراز هویت هوشمند (منوسافت)"
+
+#. module: meno_smart_auth
+#: model:ir.model,name:meno_smart_auth.model_res_users
+msgid "User"
+msgstr "کاربر"
+
+#. module: meno_smart_auth
+#: model:ir.model.fields,help:meno_smart_auth.field_res_config_settings__otp_cooldown_duration
+msgid "Wait time limit between OTP verification retries."
+msgstr "محدودیت زمان انتظار بین تلاش‌های مجدد تایید OTP."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"آدرس\n"
+"                                    ایمیل"
+msgstr ""
+"آدرس\n"
+"                                    ایمیل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "آدرس ایمیل"
+msgstr "آدرس ایمیل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "ادامه"
+msgstr "ادامه"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "ارائه‌دهنده پیامک"
+msgstr "ارائه‌دهنده پیامک"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "ارسال لینک"
+msgstr "ارسال لینک"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_home_verification_banner
+msgid "ارسال مجدد لینک"
+msgstr "ارسال مجدد لینک"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "ارسال مجدد کد"
+msgstr "ارسال مجدد کد"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "ارسال کد تایید"
+msgstr "ارسال کد تایید"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"ایمیل\n"
+"                                    یا شماره موبایل"
+msgstr ""
+"ایمیل\n"
+"                                    یا شماره موبایل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_email_verification_notice
+msgid "بازگشت به داشبورد"
+msgstr "بازگشت به داشبورد"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_email_verification_notice
+msgid "برای دسترسی به این بخش، ابتدا باید ایمیل خود را تایید کنید."
+msgstr "برای دسترسی به این بخش، ابتدا باید ایمیل خود را تایید کنید."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "تایید نهایی شماره"
+msgstr "تایید نهایی شماره"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid ""
+"تغییر و تایید شماره\n"
+"                                موبایل"
+msgstr ""
+"تغییر و تایید شماره\n"
+"                                موبایل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "تکمیل ثبت‌نام"
+msgstr "تکمیل ثبت‌نام"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"ثبت‌نام\n"
+"                                    کنید"
+msgstr ""
+"ثبت‌نام\n"
+"                                    کنید"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_home_verification_banner
+msgid "را تایید کنید."
+msgstr "را تایید کنید."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"رمز\n"
+"                                    عبور اختصاصی"
+msgstr ""
+"رمز\n"
+"                                    عبور اختصاصی"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "رمز عبور"
+msgstr "رمز عبور"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "رمز عبور خود را وارد کنید"
+msgstr "رمز عبور خود را وارد کنید"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid "روش‌های ورود جایگزین"
+msgstr "روش‌های ورود جایگزین"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "زمان مجاز برای فشردن مجدد دکمه ارسال پیامک."
+msgstr "زمان مجاز برای فشردن مجدد دکمه ارسال پیامک."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"شماره\n"
+"                                    موبایل (نام کاربری)"
+msgstr ""
+"شماره\n"
+"                                    موبایل (نام کاربری)"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "شماره موبایل (نام کاربری)"
+msgstr "شماره موبایل (نام کاربری)"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "شماره موبایل جدید را وارد کنید:"
+msgstr "شماره موبایل جدید را وارد کنید:"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_home_verification_banner
+msgid "لطفاً آدرس ایمیل"
+msgstr "لطفاً آدرس ایمیل"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_email_verification_notice
+msgid ""
+"لطفاً صندوق ورودی خود را بررسی کرده و روی لینک تایید کلیک\n"
+"                        کنید."
+msgstr ""
+"لطفاً صندوق ورودی خود را بررسی کرده و روی لینک تایید کلیک\n"
+"                        کنید."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "محدودیت زمانی ارسال مجدد (ثانیه)"
+msgstr "محدودیت زمانی ارسال مجدد (ثانیه)"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"نام و\n"
+"                                    نام خانوادگی"
+msgstr ""
+"نام و\n"
+"                                    نام خانوادگی"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"وارد\n"
+"                                    شوید"
+msgstr ""
+"وارد\n"
+"                                    شوید"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"ورود\n"
+"                            به پورتال هوشمند"
+msgstr ""
+"ورود\n"
+"                            به پورتال هوشمند"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid "ویرایش و تایید"
+msgstr "ویرایش و تایید"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "پنل ارسال پیامک OTP را انتخاب کنید."
+msgstr "پنل ارسال پیامک OTP را انتخاب کنید."
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.view_meno_smart_auth_settings
+msgid "پیکربندی سیستم احراز هویت پورتال"
+msgstr "پیکربندی سیستم احراز هویت پورتال"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_login_template
+msgid ""
+"کد تایید\n"
+"                                    پیامکی (OTP)"
+msgstr ""
+"کد تایید\n"
+"                                    پیامکی (OTP)"
+
+#. module: meno_smart_auth
+#: model_terms:ir.ui.view,arch_db:meno_smart_auth.portal_my_security_inherit_meno
+msgid ""
+"کد ۶ رقمی پیامک\n"
+"                                    شده را وارد کنید:"
+msgstr ""
+"کد ۶ رقمی پیامک\n"
+"                                    شده را وارد کنید:"

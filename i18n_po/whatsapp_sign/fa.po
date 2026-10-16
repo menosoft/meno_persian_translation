@@ -1,0 +1,186 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* whatsapp_sign
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:36+0000\n"
+"PO-Revision-Date: 2026-10-12 18:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: whatsapp_sign
+#. odoo-python
+#: code:addons/whatsapp_sign/models/sign_request.py:0
+msgid ""
+"All Whatsapp templates must be configured before creating the sign request."
+msgstr "تمام قالب‌های واتس‌اپ باید پیش از ایجاد درخواست امضا پیکربندی شوند."
+
+#. module: whatsapp_sign
+#. odoo-python
+#: code:addons/whatsapp_sign/wizard/sign_send_request.py:0
+msgid "All signers must have a phone number to send messages via WhatsApp."
+msgstr ""
+"تمامی امضاکنندگان برای ارسال پیام از طریق واتس‌اپ باید دارای شماره تلفن "
+"باشند."
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request_item__attachments_download_link
+msgid "Attachments Download Link"
+msgstr "لینک دانلود پیوست‌ها"
+
+#. module: whatsapp_sign
+#. odoo-python
+#: code:addons/whatsapp_sign/controllers/main.py:0
+msgid "Attachments of Request %s"
+msgstr "پیوست‌های درخواست %s"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,help:whatsapp_sign.field_res_config_settings__send_request_wa_template_id
+msgid "Choose an approved WhatsApp template to send signature requests"
+msgstr "یک قالب تاییدشده واتس‌اپ را برای ارسال درخواست‌های امضا انتخاب کنید"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,help:whatsapp_sign.field_res_config_settings__request_completion_wa_template_id
+msgid ""
+"Choose an approved WhatsApp template to send the signature request "
+"completion"
+msgstr "یک قالب تاییدشده واتس‌اپ را برای ارسال اتمام درخواست امضا انتخاب کنید"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,help:whatsapp_sign.field_res_config_settings__request_refusal_wa_template_id
+msgid ""
+"Choose an approved WhatsApp template to send the signature request refusal"
+msgstr "یک قالب تاییدشده واتس‌اپ را برای ارسال رد درخواست امضا انتخاب کنید"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_res_config_settings__request_completion_wa_template_id
+#: model_terms:ir.ui.view,arch_db:whatsapp_sign.res_config_settings_view_form
+msgid "Completed template"
+msgstr "قالب تکمیل‌شده"
+
+#. module: whatsapp_sign
+#: model:ir.model,name:whatsapp_sign.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__send_channel
+msgid "Delivery Method"
+msgstr "روش تحویل"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__display_name
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request_item__display_name
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_send_request__display_name
+#: model:ir.model.fields,field_description:whatsapp_sign.field_whatsapp_template_variable__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request_item__document_link
+msgid "Document Link"
+msgstr "لینک سند"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_res_config_settings__id
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__id
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request_item__id
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_send_request__id
+#: model:ir.model.fields,field_description:whatsapp_sign.field_whatsapp_template_variable__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: whatsapp_sign
+#. odoo-python
+#: code:addons/whatsapp_sign/models/sign_request_item.py:0
+msgid ""
+"In sign request '%(ref)s', signer '%(signer)s' does not have a phone number,"
+" which is required to send messages via WhatsApp."
+msgstr ""
+"در درخواست امضای '%(ref)s'، امضاکننده '%(signer)s' فاقد شماره تلفن است که "
+"برای ارسال پیام از طریق واتس‌اپ الزامی می‌باشد."
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_send_request__is_whatsapp_feature_enabled
+msgid "Is Whatsapp Feature Enabled"
+msgstr "قابلیت واتس‌اپ فعال است"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__raw_optional_message
+msgid "Optional Message"
+msgstr "پیام اختیاری"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__refusal_reason
+msgid "Refusal reason"
+msgstr "دلیل رد"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_res_config_settings__request_refusal_wa_template_id
+#: model_terms:ir.ui.view,arch_db:whatsapp_sign.res_config_settings_view_form
+msgid "Refusal template"
+msgstr "قالب رد"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__refuser_partner
+msgid "Refuser Partner"
+msgstr "همکار ردکننده"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_res_config_settings__send_request_wa_template_id
+#: model_terms:ir.ui.view,arch_db:whatsapp_sign.res_config_settings_view_form
+msgid "Request template"
+msgstr "قالب درخواست"
+
+#. module: whatsapp_sign
+#: model_terms:ir.ui.view,arch_db:whatsapp_sign.res_config_settings_view_form
+msgid "Send Requests through WhatsApp"
+msgstr "ارسال درخواست‌ها از طریق واتس‌اپ"
+
+#. module: whatsapp_sign
+#: model_terms:ir.ui.view,arch_db:whatsapp_sign.sign_send_request_view_form_inherit_whatsapp
+msgid "Send via WhatsApp"
+msgstr "ارسال از طریق واتس‌اپ"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request_item__sign_link
+msgid "Sign Link"
+msgstr "لینک امضا"
+
+#. module: whatsapp_sign
+#: model:ir.model,name:whatsapp_sign.model_sign_send_request
+msgid "Sign send request"
+msgstr "درخواست ارسال امضا"
+
+#. module: whatsapp_sign
+#: model:ir.model,name:whatsapp_sign.model_sign_request
+msgid "Signature Request"
+msgstr "درخواست امضا"
+
+#. module: whatsapp_sign
+#: model:ir.model,name:whatsapp_sign.model_sign_request_item
+msgid "Signature Request Item"
+msgstr "مورد درخواست امضا"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields,field_description:whatsapp_sign.field_sign_request__signers_name
+msgid "Signers name"
+msgstr "نام امضاکنندگان"
+
+#. module: whatsapp_sign
+#: model:ir.model.fields.selection,name:whatsapp_sign.selection__sign_request__send_channel__whatsapp
+msgid "WhatsApp"
+msgstr "واتس‌اپ"
+
+#. module: whatsapp_sign
+#: model:ir.model,name:whatsapp_sign.model_whatsapp_template_variable
+msgid "WhatsApp Template Variable"
+msgstr "متغیر قالب واتس‌اپ"

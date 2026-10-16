@@ -1,0 +1,194 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ai_website_livechat
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:19+0000\n"
+"PO-Revision-Date: 2026-10-12 18:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ai_website_livechat
+#: model_terms:ir.ui.view,arch_db:ai_website_livechat.s_ai_livechat
+msgid "<span class=\"text-muted flex-grow-1\">Ask AI</span>"
+msgstr "<span class=\"text-muted flex-grow-1\">پرسش از هوش مصنوعی</span>"
+
+#. module: ai_website_livechat
+#: model_terms:ir.ui.view,arch_db:ai_website_livechat.snippets
+msgid "AI"
+msgstr "هوش مصنوعی"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+#: model:ir.model,name:ai_website_livechat.model_ai_agent
+msgid "AI Agent"
+msgstr "عامل هوش مصنوعی"
+
+#. module: ai_website_livechat
+#: model_terms:ir.ui.view,arch_db:ai_website_livechat.snippets
+msgid "AI,chat,livechat"
+msgstr "هوش مصنوعی، چت، گفتگوی زنده"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/interactions/ai_livechat.js:0
+#: code:addons/ai_website_livechat/static/src/website/interactions/edit/ai_livechat.edit.js:0
+msgid "Ask AI"
+msgstr "پرسش از هوش مصنوعی"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+#: code:addons/ai_website_livechat/static/src/website/interactions/edit/ai_livechat.edit.xml:0
+msgid "Ask a Human"
+msgstr "پرسش از یک انسان"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Chat Style"
+msgstr "سبک گفتگو"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+msgid "Close"
+msgstr "بستن"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/interactions/ai_livechat.js:0
+#: code:addons/ai_website_livechat/static/src/website/interactions/edit/ai_livechat.edit.js:0
+msgid "Contact Us"
+msgstr "تماس با ما"
+
+#. module: ai_website_livechat
+#: model:ir.model.fields,field_description:ai_website_livechat.field_ai_agent__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Fallback Button"
+msgstr "دکمه جایگزین / پشتیبان"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Fullscreen"
+msgstr "تمام‌صفحه"
+
+#. module: ai_website_livechat
+#: model:ir.model.fields,field_description:ai_website_livechat.field_ai_agent__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Livechat Channel"
+msgstr "کانال گفتگوی زنده"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+#. module: ai_website_livechat
+#: model_terms:ir.ui.view,arch_db:ai_website_livechat.s_ai_livechat
+msgid "Need help?<br/>"
+msgstr "به کمک نیاز دارید؟<br/>"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.js:0
+msgid "Oops, the Agent linked to this block is archived!"
+msgstr "وای! عاملی که به این بلوک متصل است، بایگانی شده است!"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.js:0
+msgid "Oops, there is no Agent linked to this block!"
+msgstr "وای! هیچ عاملی به این بلوک متصل نیست!"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Popup Window"
+msgstr "پنجره بازشونده (پاپ‌آپ)"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Prompt Placeholder"
+msgstr "متن پیش‌فرض راهنما (Placeholder)"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+msgid "Submit"
+msgstr "ثبت"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "Text"
+msgstr "متن"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+msgid "Thinking..."
+msgstr "در حال پردازش..."
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "URL"
+msgstr "نشانی وب (URL)"
+
+#. module: ai_website_livechat
+#: model:ir.model.fields,field_description:ai_website_livechat.field_ai_agent__used_on_website_snippet
+msgid "Used On Website Snippet"
+msgstr "استفاده‌شده در قطعه‌کد وب‌سایت"
+
+#. module: ai_website_livechat
+#. odoo-python
+#: code:addons/ai_website_livechat/controllers/main.py:0
+msgid "Visitor"
+msgstr "بازدیدکننده"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "e.g. /contactus"
+msgstr "مثلاً /contactus"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "e.g. Ask AI"
+msgstr "مثلاً پرسش از هوش مصنوعی"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/plugins/ai_livechat_option.xml:0
+msgid "e.g. Contact Us"
+msgstr "مثلاً تماس با ما"
+
+#. module: ai_website_livechat
+#. odoo-javascript
+#: code:addons/ai_website_livechat/static/src/website/components/ai_livechat_component/ai_livechat.xml:0
+#: code:addons/ai_website_livechat/static/src/website/interactions/edit/ai_livechat.edit.xml:0
+msgid "or"
+msgstr "یا"

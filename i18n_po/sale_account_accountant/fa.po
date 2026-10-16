@@ -1,0 +1,154 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sale_account_accountant
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:27+0000\n"
+"PO-Revision-Date: 2026-10-12 18:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Company"
+msgstr "شرکت"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_list
+msgid "Create Accrual Entries"
+msgstr "ایجاد سندهای تعهدی"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Customer"
+msgstr "مشتری"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,field_description:sale_account_accountant.field_sale_order_line__deferred_revenue
+msgid "Deferred Revenue"
+msgstr "درآمد معوق"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,field_description:sale_account_accountant.field_sale_order_line__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Display only goods lines"
+msgstr "نمایش فقط سطرهای کالا"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Display only lines for product invoiced on delivered quantities"
+msgstr "نمایش فقط سطرهای محصولات فاکتورشده بر اساس مقادیر تحویلی"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Display only lines for product invoiced on ordered quantities"
+msgstr "نمایش فقط سطرهای محصولات فاکتورشده بر اساس مقادیر سفارشی"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Display only service lines"
+msgstr "نمایش فقط سطرهای خدمات"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "For the Last 365 Days"
+msgstr "برای ۳۶۵ روز گذشته"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Goods"
+msgstr "کالاها"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,field_description:sale_account_accountant.field_sale_order_line__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Invoice on Delivered"
+msgstr "فاکتور بر اساس تحویل"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Invoice on Ordered"
+msgstr "فاکتور بر اساس سفارش"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,field_description:sale_account_accountant.field_sale_order_line__invoice_to_be_issued
+msgid "Invoice to be Issued"
+msgstr "فاکتورهای قابل صدور"
+
+#. module: sale_account_accountant
+#: model:ir.actions.act_window,name:sale_account_accountant.sale_order_line_accrual_deferred_revenues_action
+#: model:ir.ui.menu,name:sale_account_accountant.menu_sale_order_line_accrual_deferred_revenues_action
+msgid "Invoiced Not Delivered"
+msgstr "فاکتورشده اما تحویل‌داده‌نشده"
+
+#. module: sale_account_accountant
+#: model:ir.actions.act_window,name:sale_account_accountant.sale_order_line_accrual_to_bill_action
+#: model:ir.ui.menu,name:sale_account_accountant.menu_sale_order_line_accrual_to_bill_action
+msgid "Invoices To Be Issued"
+msgstr "فاکتورهای قابل صدور"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,field_description:sale_account_accountant.field_sale_order_line__product_invoice_policy
+msgid "Invoicing Policy"
+msgstr "خط‌مشی صدور فاکتور"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Order Reference"
+msgstr "مرجع سفارش"
+
+#. module: sale_account_accountant
+#: model:ir.model.fields,help:sale_account_accountant.field_sale_order_line__product_invoice_policy
+msgid ""
+"Ordered Quantity: Invoice quantities ordered by the customer.\n"
+"Delivered Quantity: Invoice quantities delivered to the customer."
+msgstr ""
+"مقدار سفارش‌داده‌شده: فاکتور کردن مقادیر سفارش‌داده‌شده توسط مشتری.\n"
+"مقدار تحویل‌داده‌شده: فاکتور کردن مقادیر تحویل‌داده‌شده به مشتری."
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Product Category"
+msgstr "دسته‌بندی محصول"
+
+#. module: sale_account_accountant
+#. odoo-javascript
+#: code:addons/sale_account_accountant/static/src/components/bank_reconciliation/button_list/button_list.js:0
+#: model:ir.ui.menu,name:sale_account_accountant.sale_accountant_accrual_menu
+msgid "Sales"
+msgstr "فروش"
+
+#. module: sale_account_accountant
+#: model:ir.model,name:sale_account_accountant.model_sale_order_line
+msgid "Sales Order Line"
+msgstr "سطر سفارش فروش"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_list
+msgid "Sales Order Lines"
+msgstr "سطرهای سفارش فروش"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Sales Order Lines processed during last 365 days"
+msgstr "سطرهای سفارش فروش پردازش‌شده در ۳۶۵ روز گذشته"
+
+#. module: sale_account_accountant
+#: model_terms:ir.ui.view,arch_db:sale_account_accountant.sale_order_line_view_search
+msgid "Service"
+msgstr "خدمت"

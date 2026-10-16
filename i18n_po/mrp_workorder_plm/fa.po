@@ -1,0 +1,138 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mrp_workorder_plm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:25+0000\n"
+"PO-Revision-Date: 2026-10-12 18:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mrp_workorder_plm
+#. odoo-python
+#: code:addons/mrp_workorder_plm/wizard/propose_change.py:0
+msgid ""
+"BoM feedback for not found step: %(step)s (%(production)s - %(operation)s)"
+msgstr ""
+"بازخورد صورت مواد اولیه (BOM) برای مرحله یافت‌نشده: %(step)s (%(production)s"
+" - %(operation)s)"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,help:mrp_workorder_plm.field_mrp_eco_routing_change__test_type
+msgid "Defines the type of the quality control point."
+msgstr "نوع نقطه کنترل کیفیت را مشخص می‌کند."
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco__display_name
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__display_name
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_production__display_name
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_propose_change__display_name
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_quality_check__display_name
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_quality_point__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco__routing_change_ids_on_operation
+msgid "ECO Routing Changes - Operation"
+msgstr "تغییرات مسیریابی در ECO - عملیات"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco__routing_change_ids_on_quality_point
+msgid "ECO Routing Changes - Quality Point"
+msgstr "تغییرات مسیریابی در ECO - نقطه کیفی"
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_mrp_eco_routing_change
+msgid "Eco Routing changes"
+msgstr "تغییرات فرایند و مسیر تولید در ECO"
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_mrp_eco
+msgid "Engineering Change Order (ECO)"
+msgstr "دستور تغییرات مهندسی (ECO)"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco__id
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__id
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_production__id
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_propose_change__id
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_quality_check__id
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_quality_point__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: mrp_workorder_plm
+#: model_terms:ir.ui.view,arch_db:mrp_workorder_plm.mrp_workorder_eco_view_form
+msgid "Instruction Changes"
+msgstr "تغییرات دستورالعمل"
+
+#. module: mrp_workorder_plm
+#. odoo-python
+#: code:addons/mrp_workorder_plm/models/mrp_workorder.py:0
+#: code:addons/mrp_workorder_plm/wizard/propose_change.py:0
+msgid "Instruction Suggestions (%(wo_name)s)"
+msgstr "پیشنهادهای اصلاح دستورالعمل (%(wo_name)s)"
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_mrp_production
+msgid "Manufacturing Order"
+msgstr "سفارش ساخت"
+
+#. module: mrp_workorder_plm
+#. odoo-python
+#: code:addons/mrp_workorder_plm/models/mrp_workorder.py:0
+msgid "New Step Suggestion: %s"
+msgstr "پیشنهاد مرحله جدید: %s"
+
+#. module: mrp_workorder_plm
+#: model_terms:ir.ui.view,arch_db:mrp_workorder_plm.mrp_workorder_eco_view_form
+msgid "Open Quality Point"
+msgstr "گشودن نقطه کیفی"
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_propose_change
+msgid "Propose a change in the production"
+msgstr "پیشنهاد تغییر در روند تولید"
+
+#. module: mrp_workorder_plm
+#: model_terms:ir.ui.view,arch_db:mrp_workorder_plm.mrp_workorder_eco_view_form
+msgid "Quality Changes made on the quality point."
+msgstr "تغییرات کیفی اعمال‌شده روی نقطه کیفی."
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_quality_check
+msgid "Quality Check"
+msgstr "کنترل کیفیت"
+
+#. module: mrp_workorder_plm
+#: model:ir.model,name:mrp_workorder_plm.model_quality_point
+msgid "Quality Control Point"
+msgstr "نقطه کنترل کیفیت"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__quality_point_id
+msgid "Quality Point"
+msgstr "نقطه کیفی"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__step
+msgid "Step"
+msgstr "مرحله"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__test_type
+msgid "Step Type"
+msgstr "نوع مرحله"
+
+#. module: mrp_workorder_plm
+#: model:ir.model.fields,field_description:mrp_workorder_plm.field_mrp_eco_routing_change__title
+msgid "Title"
+msgstr "عنوان"

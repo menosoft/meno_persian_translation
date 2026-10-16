@@ -1,0 +1,124 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* purchase_accountant
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:26+0000\n"
+"PO-Revision-Date: 2026-10-12 18:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: purchase_accountant
+#: model:ir.actions.act_window,name:purchase_accountant.purchase_order_line_accrual_bill_to_receive_action
+#: model:ir.ui.menu,name:purchase_accountant.menu_purchase_order_line_accrual_bill_to_receives_action
+msgid "Bill To Receive"
+msgstr "صورتحساب برای دریافت"
+
+#. module: purchase_accountant
+#: model:ir.model.fields,field_description:purchase_accountant.field_purchase_order_line__bill_to_receive
+msgid "Bill to Receive"
+msgstr "صورتحساب برای دریافت"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_list
+msgid "Billed"
+msgstr "فاکتور‌شده"
+
+#. module: purchase_accountant
+#: model:ir.actions.act_window,name:purchase_accountant.purchase_order_line_accrual_prepaid_expenses_action
+#: model:ir.ui.menu,name:purchase_accountant.menu_purchase_order_line_accrual_prepaid_expenses_action
+msgid "Billed Not Received"
+msgstr "فاکتور‌شده دریافت‌نشده"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Company"
+msgstr "شرکت"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_list
+msgid "Create Accrual Entries"
+msgstr "ایجاد سندهای تعهدی"
+
+#. module: purchase_accountant
+#: model:ir.model.fields,field_description:purchase_accountant.field_purchase_order_line__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "For the Last 365 Days"
+msgstr "برای ۳۶۵ روز گذشته"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Goods"
+msgstr "کالاها"
+
+#. module: purchase_accountant
+#: model:ir.model.fields,field_description:purchase_accountant.field_purchase_order_line__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Only goods lines"
+msgstr "فقط سطرهای کالا"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Only service lines"
+msgstr "فقط سطرهای خدمات"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Order Reference"
+msgstr "مرجع سفارش"
+
+#. module: purchase_accountant
+#: model:ir.model.fields,field_description:purchase_accountant.field_purchase_order_line__prepaid_expense
+msgid "Prepaid Expense"
+msgstr "هزینه پیش‌پرداخت"
+
+#. module: purchase_accountant
+#: model:ir.model.fields,field_description:purchase_accountant.field_purchase_order_line__product_categ_id
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Product Category"
+msgstr "دسته‌بندی محصول"
+
+#. module: purchase_accountant
+#: model:ir.model,name:purchase_accountant.model_purchase_order_line
+msgid "Purchase Order Line"
+msgstr "سطر سفارش خرید"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Purchase Order Lines processed during last 365 days"
+msgstr "سطرهای سفارش خرید پردازش‌شده در ۳۶۵ روز گذشته"
+
+#. module: purchase_accountant
+#: model:ir.ui.menu,name:purchase_accountant.purchase_accountant_accrual_menu
+msgid "Purchases"
+msgstr "خریدها"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_list
+msgid "Received"
+msgstr "دریافت‌شده"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Service"
+msgstr "خدمت"
+
+#. module: purchase_accountant
+#: model_terms:ir.ui.view,arch_db:purchase_accountant.purchase_order_line_view_search
+msgid "Vendor"
+msgstr "فروشنده (تامین‌کننده)"

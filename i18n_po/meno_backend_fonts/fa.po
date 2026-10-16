@@ -1,0 +1,127 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_backend_fonts
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "<i class=\"fa fa-heart text-danger me-1\"/> پاسداشتِ یک میراث ماندگار"
+msgstr "<i class=\"fa fa-heart text-danger me-1\"/> پاسداشتِ یک میراث ماندگار"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid ""
+"<i class=\"fa fa-info-circle me-1\"/> \n"
+"                            پس از کلیک بر روی دکمه بالا، صفحه به صورت خودکار رفرش شده و فایل‌های استاتیک بازسازی می‌شوند."
+msgstr ""
+"<i class=\"fa fa-info-circle me-1\"/> \n"
+"                            پس از کلیک بر روی دکمه بالا، صفحه به صورت خودکار به‌روزرسانی شده و فایل‌های استاتیک بازسازی می‌شوند."
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "<strong>مراحل اعمال تغییرات:</strong>"
+msgstr "<strong>مراحل اعمال تغییرات:</strong>"
+
+#. module: meno_backend_fonts
+#: model:ir.model,name:meno_backend_fonts.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields,field_description:meno_backend_fonts.field_res_config_settings__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields,field_description:meno_backend_fonts.field_res_config_settings__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__iransansxfanum
+msgid "IRANSansX (ایران سنس ایکس)"
+msgstr "IRANSansX (ایران سنس ایکس)"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__sahel
+msgid "Sahel (ساحل - کلاسیک)"
+msgstr "Sahel (ساحل - کلاسیک)"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__samim
+msgid "Samim (صمیم - ملایم)"
+msgstr "Samim (صمیم - ملایم)"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__shabnam
+msgid "Shabnam (شبنم - اداری)"
+msgstr "Shabnam (شبنم - اداری)"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__vazirmatn
+msgid "Vazirmatn (وزیرمتن - مدرن و استاندارد)"
+msgstr "Vazirmatn (وزیرمتن - مدرن و استاندارد)"
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields.selection,name:meno_backend_fonts.selection__res_config_settings__meno_font_family__yekanbakhfanum
+msgid "Yekan Bakh (یکان بخ - تجاری)"
+msgstr "Yekan Bakh (یکان بخ - تجاری)"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid ""
+"ابتدا فونت مد نظر را انتخاب و دکمه <b>ذخیره (Save)</b> بالای صفحه را بزنید."
+msgstr ""
+"ابتدا فونت مدنظر را انتخاب کرده و دکمه <b>ذخیره (Save)</b> را در بالای صفحه "
+"بزنید."
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "اعمال دائمی و کامپایل مجدد فونت‌ها"
+msgstr "اعمال دائمی و کامپایل مجدد فونت‌ها"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "تنظیمات رابط کاربری و فونت"
+msgstr "تنظیمات رابط کاربری و فونت"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid ""
+"در این سیستم افتخار استفاده از خانواده فونت‌های بی‌نظیر <b>وزیرمتن، شبنم، صمیم و ساحل</b> را داریم. \n"
+"                                بدین‌وسیله یاد و خاطره‌ی <strong>زنده‌یاد صابر راستی‌کردار</strong>، برنامه‌نویس و طراح باسخاوت ایرانی را گرامی می‌داریم؛\n"
+"                                کسی که با روحیه متن‌باز، آزادگی و عشق بی‌پایان به جامعه کاربری، جلوه‌ای نو به تایپوگرافی وب فارسی هدیه داد و اثری ابدی بر جای گذاشت. \n"
+"                                روحش شاد و نامش همواره جاودان باد."
+msgstr ""
+"در این سیستم افتخار استفاده از خانواده فونت‌های بی‌نظیر <b>وزیرمتن، شبنم، صمیم و ساحل</b> را داریم. \n"
+"                                بدین‌وسیله یاد و خاطره‌ی <strong>زنده‌یاد صابر راستی‌کردار</strong>، برنامه‌نویس و طراح سخاوتمند ایرانی را گرامی می‌داریم؛\n"
+"                                کسی که با روحیه متن‌باز، آزادگی و عشق بی‌پایان به جامعه کاربری، جلوه‌ای نو به تایپوگرافی وب فارسی هدیه داد و اثری ابدی بر جای گذاشت. \n"
+"                                روحش شاد و نامش همواره جاودان باد."
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "سپس بر روی دکمه <b>«اعمال دائمی و کامپایل مجدد فونت‌ها»</b> کلیک کنید."
+msgstr "سپس روی دکمه <b>«اعمال دائمی و کامپایل مجدد فونت‌ها»</b> کلیک کنید."
+
+#. module: meno_backend_fonts
+#: model:ir.model.fields,field_description:meno_backend_fonts.field_res_config_settings__meno_font_family
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "فونت سیستم بک‌اند"
+msgstr "فونت سیستم سمت سرور (بک‌اند)"
+
+#. module: meno_backend_fonts
+#: model_terms:ir.ui.view,arch_db:meno_backend_fonts.res_config_settings_view_form_meno_font
+msgid "فونت پیش‌فرض برای تمامی پنل‌ها، نماها و داشبوردهای مِنو"
+msgstr "فونت پیش‌فرض برای تمامی پنل‌ها، نماها و داشبوردهای مِنو"

@@ -1,0 +1,99 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_helpdesk_knowledge
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:34+0000\n"
+"PO-Revision-Date: 2026-10-12 18:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.search_result
+msgid ", by"
+msgstr "، توسط"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.search_result
+msgid "<i class=\"fa fa-fw fa-2x fa-book\" title=\"Knowledge Article\"/>"
+msgstr "<i class=\"fa fa-fw fa-2x fa-book\" title=\"مقاله پایگاه دانش\"/>"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model.fields,field_description:website_helpdesk_knowledge.field_helpdesk_team__website_article_id
+msgid "Article"
+msgstr "مقاله"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model.fields,help:website_helpdesk_knowledge.field_helpdesk_team__website_article_id
+msgid ""
+"Article on which customers will land by default, and to which the search "
+"will be restricted."
+msgstr ""
+"مقاله‌ای که مشتریان به طور پیش‌فرض روی آن فرود می‌آیند و جستجو به آن محدود "
+"خواهد شد."
+
+#. module: website_helpdesk_knowledge
+#. odoo-python
+#: code:addons/website_helpdesk_knowledge/models/helpdesk.py:0
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.knowledge_base_articles_card
+msgid "Articles"
+msgstr "مقاله‌ها"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.knowledge_base_articles_card
+msgid "Browse articles"
+msgstr "مرور مقالات"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model.fields,field_description:website_helpdesk_knowledge.field_helpdesk_team__display_name
+#: model:ir.model.fields,field_description:website_helpdesk_knowledge.field_knowledge_article__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.knowledge_base_articles_card
+msgid "Favorites"
+msgstr "علاقه‌مندی‌ها"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model,name:website_helpdesk_knowledge.model_helpdesk_team
+msgid "Helpdesk Team"
+msgstr "تیم میز پشتیبانی"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model.fields,field_description:website_helpdesk_knowledge.field_helpdesk_team__id
+#: model:ir.model.fields,field_description:website_helpdesk_knowledge.field_knowledge_article__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: website_helpdesk_knowledge
+#: model:ir.model,name:website_helpdesk_knowledge.model_knowledge_article
+msgid "Knowledge Article"
+msgstr "مقاله پایگاه دانش"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.knowledge_base_articles_card
+msgid "Quick Links"
+msgstr "لینک‌های سریع"
+
+#. module: website_helpdesk_knowledge
+#: model_terms:ir.ui.view,arch_db:website_helpdesk_knowledge.knowledge_base_articles_card
+msgid "Search our documentation for answers to common questions"
+msgstr "مستندات ما را برای یافتن پاسخ سوالات متداول جستجو کنید"
+
+#. module: website_helpdesk_knowledge
+#. odoo-python
+#: code:addons/website_helpdesk_knowledge/models/knowledge_article.py:0
+msgid ""
+"You cannot delete, unpublish or set a parent on an article that is used by a"
+" helpdesk team."
+msgstr ""
+"شما نمی‌توانید مقاله‌ای را که توسط یک تیم میز پشتیبانی استفاده می‌شود، حذف "
+"کنید، انتشار آن را لغو کنید یا والد برای آن تعیین کنید."

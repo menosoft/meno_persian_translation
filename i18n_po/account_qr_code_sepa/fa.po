@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* account_qr_code_sepa
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:18+0000\n"
+"PO-Revision-Date: 2026-10-12 18:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: account_qr_code_sepa
+#: model:ir.model,name:account_qr_code_sepa.model_res_partner_bank
+msgid "Bank Accounts"
+msgstr "حساب‌های بانکی"
+
+#. module: account_qr_code_sepa
+#. odoo-python
+#: code:addons/account_qr_code_sepa/models/res_bank.py:0
+msgid "Can't generate a SEPA QR Code with the %s currency."
+msgstr "تولید کد QR استاندارد SEPA با واحد پول %s امکان‌پذیر نیست."
+
+#. module: account_qr_code_sepa
+#. odoo-python
+#: code:addons/account_qr_code_sepa/models/res_bank.py:0
+msgid "Can't generate a SEPA QR code if the account type isn't IBAN."
+msgstr ""
+"در صورتی که نوع حساب شماره شبا (IBAN) نباشد، امکان ایجاد کد QR استاندارد "
+"SEPA وجود ندارد."
+
+#. module: account_qr_code_sepa
+#. odoo-python
+#: code:addons/account_qr_code_sepa/models/res_bank.py:0
+msgid "Can't generate a SEPA QR code with a non SEPA iban."
+msgstr ""
+"امکان ایجاد کد QR اختصاصی SEPA با شماره شبای خارج از حوزه SEPA وجود ندارد."
+
+#. module: account_qr_code_sepa
+#: model:ir.model.fields,field_description:account_qr_code_sepa.field_res_partner_bank__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: account_qr_code_sepa
+#: model:ir.model.fields,field_description:account_qr_code_sepa.field_res_partner_bank__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: account_qr_code_sepa
+#. odoo-python
+#: code:addons/account_qr_code_sepa/models/res_bank.py:0
+msgid "SEPA Credit Transfer QR"
+msgstr "بارکد QR انتقال اعتبار SEPA"
+
+#. module: account_qr_code_sepa
+#. odoo-python
+#: code:addons/account_qr_code_sepa/models/res_bank.py:0
+msgid ""
+"The account receiving the payment must have an account holder name or "
+"partner name set."
+msgstr ""
+"برای حسابی که وجه را دریافت می‌کند باید نام دارنده حساب یا طرف‌حساب تعیین "
+"شده باشد."

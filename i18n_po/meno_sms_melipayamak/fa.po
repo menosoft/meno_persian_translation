@@ -1,0 +1,254 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_sms_melipayamak
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model,name:meno_sms_melipayamak.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_users__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__id
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_users__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_api_key
+msgid "MeliPayamak API Key"
+msgstr "کلید API ملی‌پیامک"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_password
+msgid "MeliPayamak Password"
+msgstr "رمز عبور ملی‌پیامک"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_send_method
+msgid "MeliPayamak Send Method"
+msgstr "روش ارسال ملی‌پیامک"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_username
+msgid "MeliPayamak Username"
+msgstr "نام کاربری ملی‌پیامک"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_otp_template
+msgid "OTP Pattern / Body ID"
+msgstr "کد الگو / شناسه قالب OTP"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__sms_provider
+msgid "SMS Gateway Provider"
+msgstr "ارائه‌دهنده درگاه پیامک"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,help:meno_sms_melipayamak.field_res_config_settings__sms_provider
+msgid "Select the SMS provider to send OTP codes to website users."
+msgstr ""
+"ارائه‌دهنده پیامک را جهت ارسال کدهای OTP به کاربران وب‌سایت انتخاب کنید."
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,field_description:meno_sms_melipayamak.field_res_config_settings__melipayamak_test_mobile
+msgid "Test Mobile Number"
+msgstr "شماره موبایل تست"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model,name:meno_sms_melipayamak.model_res_users
+msgid "User"
+msgstr "کاربر"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "Username or Phone Number"
+msgstr "نام کاربری یا شماره تلفن"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "ارسال پیامک تست"
+msgstr "ارسال پیامک تست"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "برای روش اختصاصی، وارد کردن نام کاربری و رمز عبور الزامی است."
+msgstr "برای روش اختصاصی، وارد کردن نام کاربری و رمز عبور الزامی است."
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "برای روش اشتراکی، وارد کردن API Key الزامی است."
+msgstr "برای روش اشتراکی، وارد کردن API Key الزامی است."
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "بررسی صحت ارتباط با تنظیمات وارد شده."
+msgstr "بررسی صحت ارتباط با تنظیمات وارد شده."
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "تست ارتباط با سرور"
+msgstr "تست ارتباط با سرور"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "تنظیمات درگاه ملی‌پیامک"
+msgstr "تنظیمات درگاه ملی‌پیامک"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "توکن (API Key)"
+msgstr "توکن (API Key)"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,help:meno_sms_melipayamak.field_res_config_settings__melipayamak_api_key
+msgid "توکن انتهای آدرس API (مثال: 71749a67a)"
+msgstr "توکن انتهای آدرس API (مثال: 71749a67a)"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields.selection,name:meno_sms_melipayamak.selection__res_config_settings__melipayamak_send_method__base_service
+msgid "خط اختصاصی (Base Service)"
+msgstr "خط اختصاصی (Base Service)"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields.selection,name:meno_sms_melipayamak.selection__res_config_settings__melipayamak_send_method__shared_console
+msgid "خط خدماتی اشتراکی (Console API)"
+msgstr "خط خدماتی اشتراکی (Console API)"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "خطا در ارسال پیامک اشتراکی: %s"
+msgstr "خطا در ارسال پیامک اشتراکی: %s"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "خطا در ارسال پیامک: %s (کد بازگشتی: %s)"
+msgstr "خطا در ارسال پیامک: %s (کد بازگشتی: %s)"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid ""
+"خطا در برقراری ارتباط با سرور ملی‌پیامک.\n"
+"%s"
+msgstr ""
+"خطا در برقراری ارتباط با سرور ملی‌پیامک.\n"
+"%s"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "روش ارسال"
+msgstr "روش ارسال"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "روش ارسال و اطلاعات اتصال را تنظیم کنید."
+msgstr "روش ارسال و اطلاعات اتصال را تنظیم کنید."
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "شماره موبایل تست"
+msgstr "شماره موبایل تست"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,help:meno_sms_melipayamak.field_res_config_settings__melipayamak_test_mobile
+msgid "شماره موبایلی که پیامک تستی به آن ارسال می‌شود (مثال: 09121111111)"
+msgstr "شماره موبایلی که پیامک تستی به آن ارسال می‌شود (مثال: 09121111111)"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "عملیات موفق"
+msgstr "عملیات موفق"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "لطفاً کد قالب (Pattern/Body ID) را وارد کنید."
+msgstr "لطفاً کد قالب (Pattern/Body ID) را وارد کنید."
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "لطفاً یک شماره موبایل برای ارسال پیامک تستی وارد کنید."
+msgstr "لطفاً یک شماره موبایل برای ارسال پیامک تستی وارد کنید."
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "مثال: 09120000000"
+msgstr "مثال: 09120000000"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "مثال: 524"
+msgstr "مثال: 524"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "مثال: 71749a67a"
+msgstr "مثال: 71749a67a"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields.selection,name:meno_sms_melipayamak.selection__res_config_settings__sms_provider__melipayamak
+msgid "ملی پیامک (MeliPayamak)"
+msgstr "ملی پیامک (MeliPayamak)"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "نام کاربری"
+msgstr "نام کاربری"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "پاسخ نامعتبر (غیر JSON) از سرور دریافت شد."
+msgstr "پاسخ نامعتبر (غیر JSON) از سرور دریافت شد."
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "پیامک تست از طریق خط اختصاصی ارسال شد. (کد رهگیری: %s)"
+msgstr "پیامک تست از طریق خط اختصاصی ارسال شد. (کد رهگیری: %s)"
+
+#. module: meno_sms_melipayamak
+#. odoo-python
+#: code:addons/meno_sms_melipayamak/models/res_config_settings.py:0
+msgid "پیامک تست از طریق خط خدماتی اشتراکی ارسال شد. (کد رهگیری: %s)"
+msgstr "پیامک تست از طریق خط خدماتی اشتراکی ارسال شد. (کد رهگیری: %s)"
+
+#. module: meno_sms_melipayamak
+#: model:ir.model.fields,help:meno_sms_melipayamak.field_res_config_settings__melipayamak_otp_template
+msgid "کد الگو یا bodyId تایید شده در پنل ملی پیامک."
+msgstr "کد الگو یا bodyId تایید شده در پنل ملی پیامک."
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "کد قالب (Body ID)"
+msgstr "کد قالب (Body ID)"
+
+#. module: meno_sms_melipayamak
+#: model_terms:ir.ui.view,arch_db:meno_sms_melipayamak.view_meno_sms_melipayamak_settings
+msgid "کلمه عبور"
+msgstr "کلمه عبور"

@@ -1,0 +1,139 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* partner_autocomplete
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:25+0000\n"
+"PO-Revision-Date: 2026-10-12 18:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: partner_autocomplete
+#: model:iap.service,description:partner_autocomplete.iap_service_partner_autocomplete
+msgid "Automatically enrich your contact base with corporate data."
+msgstr "پایگاه مخاطبین خود را به‌طور خودکار با داده‌های شرکتی غنی‌سازی کنید."
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/xml/partner_autocomplete.xml:0
+msgid "Buy more credits"
+msgstr "خرید اعتبار بیشتر"
+
+#. module: partner_autocomplete
+#: model:ir.model,name:partner_autocomplete.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: partner_autocomplete
+#: model:ir.model,name:partner_autocomplete.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: partner_autocomplete
+#: model:ir.model,name:partner_autocomplete.model_res_partner
+msgid "Contact"
+msgstr "مخاطب"
+
+#. module: partner_autocomplete
+#: model:ir.model,website_form_label:partner_autocomplete.model_res_partner
+msgid "Create a Customer"
+msgstr "ایجاد مشتری"
+
+#. module: partner_autocomplete
+#: model:ir.model.fields,field_description:partner_autocomplete.field_iap_autocomplete_api__display_name
+#: model:ir.model.fields,field_description:partner_autocomplete.field_ir_http__display_name
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_company__display_name
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_partner__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: partner_autocomplete
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_company__iap_enrich_auto_done
+msgid "Enrich Done"
+msgstr "غنی‌سازی انجام شد"
+
+#. module: partner_autocomplete
+#: model:iap.service,unit_name:partner_autocomplete.iap_service_partner_autocomplete
+msgid "Enrichments"
+msgstr "غنی‌سازی‌ها"
+
+#. module: partner_autocomplete
+#: model:ir.model,name:partner_autocomplete.model_ir_http
+msgid "HTTP Routing"
+msgstr "مسیریابی HTTP"
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/js/partner_autocomplete_core.js:0
+msgid "IAP Account Token missing"
+msgstr "توکن حساب IAP وجود ندارد"
+
+#. module: partner_autocomplete
+#: model:ir.model,name:partner_autocomplete.model_iap_autocomplete_api
+msgid "IAP Partner Autocomplete API"
+msgstr "API تکمیل خودکار شرکای IAP"
+
+#. module: partner_autocomplete
+#: model:ir.model.fields,field_description:partner_autocomplete.field_iap_autocomplete_api__id
+#: model:ir.model.fields,field_description:partner_autocomplete.field_ir_http__id
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_company__id
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_config_settings__id
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_partner__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: partner_autocomplete
+#: model:ir.model.fields,field_description:partner_autocomplete.field_res_config_settings__partner_autocomplete_insufficient_credit
+msgid "Insufficient credit"
+msgstr "اعتبار ناکافی"
+
+#. module: partner_autocomplete
+#. odoo-python
+#: code:addons/partner_autocomplete/models/iap_autocomplete_api.py:0
+msgid "No account token"
+msgstr "توکن حساب وجود ندارد"
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/js/partner_autocomplete_core.js:0
+msgid "Not enough credits for Partner Autocomplete"
+msgstr "اعتبار کافی برای تکمیل خودکار همکاران وجود ندارد"
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/xml/partner_autocomplete.xml:0
+msgid "Search Worldwide 🌎"
+msgstr "جستجوی جهانی 🌎"
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/js/partner_autocomplete_fieldchar.js:0
+#: code:addons/partner_autocomplete/static/src/js/partner_autocomplete_many2one.js:0
+msgid "Searching Autocomplete..."
+msgstr "در حال جستجوی تکمیل خودکار..."
+
+#. module: partner_autocomplete
+#. odoo-javascript
+#: code:addons/partner_autocomplete/static/src/xml/partner_autocomplete.xml:0
+msgid "Set Your Account Token"
+msgstr "تنظیم توکن حساب"
+
+#. module: partner_autocomplete
+#. odoo-python
+#: code:addons/partner_autocomplete/models/iap_autocomplete_api.py:0
+msgid "Test mode"
+msgstr "حالت آزمایشی"
+
+#. module: partner_autocomplete
+#. odoo-python
+#: code:addons/partner_autocomplete/models/res_partner.py:0
+msgid "Unable to enrich company (no credit was consumed)."
+msgstr "امکان غنی‌سازی شرکت وجود ندارد (هیچ اعتباری کسر نشد)."

@@ -1,0 +1,824 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* project_todo
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:16+0000\n"
+"PO-Revision-Date: 2026-10-12 18:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"&amp;#128075; <br/>\n"
+"    Welcome to the To-do app!"
+msgstr ""
+"&#128075; <br/>\n"
+"    به برنامه فهرست کارها (To-do) خوش آمدید!"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<br/>\n"
+"    <span style=\"font-size: 14px;\">\n"
+"        Ensure you follow the correct format and order. For example: Send invitations #event @Mitchell !\n"
+"    </span>"
+msgstr ""
+"<br/>\n"
+"    <span style=\"font-size: 14px;\">\n"
+"        اطمینان حاصل کنید که قالب و ترتیب صحیح را رعایت کرده‌اید. به عنوان مثال: ارسال دعوت‌نامه‌ها #event @Mitchell !\n"
+"    </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"                    Add a checklist\n"
+"                    (/<span style=\"font-style: italic;\">checklist</span>)\n"
+"                </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"                    افزودن چک‌لیست\n"
+"                    (/<span style=\"font-style: italic;\">checklist</span>)\n"
+"                </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"                    Add a separator\n"
+"                    (/<span style=\"font-style: italic;\">separator</span>)\n"
+"                </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"                    افزودن جداکننده\n"
+"                    (/<span style=\"font-style: italic;\">separator</span>)\n"
+"                </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"                    Use\n"
+"                    /<span style=\"font-style: italic;\">heading</span>\n"
+"                    to convert a text into a title\n"
+"                </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"                    از\n"
+"                    /<span style=\"font-style: italic;\">heading</span>\n"
+"                    برای تبدیل یک متن به عنوان استفاده کنید\n"
+"                </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"            Below this list, try\n"
+"            <span style=\"font-weight: bolder;\">commands</span>\n"
+"            by\n"
+"            <span style=\"font-weight: bolder;\">\n"
+"                <font style=\"color: #017E84\">typing</font>\n"
+"            </span>\n"
+"            \"<span style=\"font-weight: bolder;\">/</span>\"\n"
+"        </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"            در زیر این فهرست، با\n"
+"            <span style=\"font-weight: bolder;\">\n"
+"                <font style=\"color: #017E84\">تایپ کاراکتر</font>\n"
+"            </span>\n"
+"            \"<span style=\"font-weight: bolder;\">/</span>\"\n"
+"            دستورات را امتحان کنید\n"
+"        </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"            Select text to\n"
+"            <font style=\"background-color: #017E84; color: white\">Highlight</font>,\n"
+"            <span style=\"text-decoration-line: line-through;\">strikethrough</span>\n"
+"            or\n"
+"            <span style=\"font-weight: bolder;\">style</span>\n"
+"            <span style=\"font-style: italic; text-decoration-line: underline;\">it</span>\n"
+"        </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"            متن را انتخاب کنید تا آن را\n"
+"            <font style=\"background-color: #017E84; color: white\">برجسته (Highlight)</font>،\n"
+"            <span style=\"text-decoration-line: line-through;\">خط‌خورده (Strikethrough)</span>\n"
+"            یا دارای\n"
+"            <span style=\"font-weight: bolder;\">قالب‌بندی</span>\n"
+"            <span style=\"font-style: italic; text-decoration-line: underline;\">کنید</span>\n"
+"        </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        Access your personal pipeline with your to-dos and assigned tasks by going to the Project app and clicking\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">My Tasks</font>.\n"
+"        </span>\n"
+"    </span>\n"
+"    <br/>\n"
+"    <br/>\n"
+"    <span style=\"font-size: 14px;\">\n"
+"        There, your to-dos are listed as\n"
+"        <span style=\"font-weight: bolder;\">\n"
+"            <font class=\"text-o-color-2\">private tasks.</font>\n"
+"        </span>\n"
+"        Any task you create privately will also be included in your to-dos. Essentially, they are interchangeable.\n"
+"    </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        با رفتن به برنامه پروژه‌ها و کلیک روی\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">وظایف من</font>،\n"
+"        </span>\n"
+"        به پایپ‌لاین شخصی کارهای روزمره و وظایف محول‌شده خود دسترسی پیدا کنید.\n"
+"    </span>\n"
+"    <br/>\n"
+"    <br/>\n"
+"    <span style=\"font-size: 14px;\">\n"
+"        در آنجا کارهای شما به عنوان\n"
+"        <span style=\"font-weight: bolder;\">\n"
+"            <font class=\"text-o-color-2\">وظایف خصوصی</font>\n"
+"        </span>\n"
+"        فهرست می‌شوند. هر وظیفه‌ای که به‌صورت خصوصی بسازید نیز در کارهای روزمره شما درج خواهد شد. این دو بخش در حقیقت معادل یکدیگر هستند.\n"
+"    </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        By default, to-dos are only visible to you. You can share them with other users by adding them as\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">assignees</font>.\n"
+"        </span>\n"
+"    </span>\n"
+"    <br/>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        به‌طور پیش‌فرض، وظایف روزمره فقط برای شما قابل مشاهده هستند. می‌توانید با افزودن سایر کاربران به عنوان\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">مسئولین انجام</font>،\n"
+"        </span>\n"
+"        آن‌ها را به اشتراک بگذارید.\n"
+"    </span>\n"
+"    <br/>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        Customize the stages from the\n"
+"        <span style=\"font-weight: bolder;\">\n"
+"            <font class=\"text-o-color-2\">Kanban view</font>\n"
+"        </span>\n"
+"        to reflect your preferred workflow.\n"
+"    </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        مراحل را از طریق\n"
+"        <span style=\"font-weight: bolder;\">\n"
+"            <font class=\"text-o-color-2\">نمای کانبان</font>\n"
+"        </span>\n"
+"        شخصی‌سازی کنید تا جریان کاری مورد نظر شما پیاده‌سازی شود.\n"
+"    </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        If you want to assign your to-do to a specific project, open the ⚙️ menu and click\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">Convert to Task</font>.\n"
+"        </span>\n"
+"        This action will make it visible to other users.\n"
+"    </span>\n"
+"    <br/>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        اگر می‌خواهید این کار را به یک پروژه خاص اختصاص دهید، منوی ⚙️ را باز کرده و روی\n"
+"        <span>\n"
+"            <font style=\"font-weight: bolder;\" class=\"text-o-color-2\">تبدیل به وظیفه</font>\n"
+"        </span>\n"
+"        کلیک کنید. این اقدام باعث می‌شود مورد برای سایر کاربران نیز قابل مشاهده شود.\n"
+"    </span>\n"
+"    <br/>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        Use it to manage your work, take notes on the go, and create tasks based on them.\n"
+"    </span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        از آن برای مدیریت کارهای خود، یادداشت‌برداری سریع در حین کار و ایجاد وظایف بر اساس آن‌ها استفاده کنید.\n"
+"    </span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        Use these keywords in the title to streamline your to-dos:\n"
+"    </span>\n"
+"    <br/>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        جهت تسهیل و تسریع در مدیریت کارهای خود، از این کلیدواژه‌ها در عنوان استفاده کنید:\n"
+"    </span>\n"
+"    <br/>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">\n"
+"        Wherever you are, use the magic keyboard shortcut to add yourself a reminder &amp;#128161;\n"
+"    </span>\n"
+"    <br/>"
+msgstr ""
+"<span style=\"font-size: 14px;\">\n"
+"        در هر کجای سیستم که هستید، از میانبر جادویی کیبورد برای افزودن یادآور به خود استفاده کنید &#128161;\n"
+"    </span>\n"
+"    <br/>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">Check this box to indicate it's done</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">برای مشخص کردن انجام کار، این گزینه را "
+"علامت بزنید</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">Click anywhere, and just start "
+"typing</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">روی هر قسمت کلیک کرده و شروع به تایپ "
+"کنید</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">Press Ctrl+Z/⌘+Z to undo any change</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">برای لغو هرگونه تغییر، کلیدهای Ctrl+Z/⌘+Z "
+"را فشار دهید</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-size: 14px;\">This private to-do is for you to play around with.</span>\n"
+"    <br/>\n"
+"    <span style=\"font-size: 14px;\">Ready to give it a spin?</span>"
+msgstr ""
+"<span style=\"font-size: 14px;\">این کار خصوصی برای آزمون و آشنایی شما با محیط است.</span>\n"
+"    <br/>\n"
+"    <span style=\"font-size: 14px;\">آیا برای شروع آماده‌اید؟</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "<span style=\"font-size: 14px;\">Try the following</span>"
+msgstr "<span style=\"font-size: 14px;\">موارد زیر را امتحان کنید</span>"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!!!:</font>\n"
+"            </span>\n"
+"            Mark the to-do as urgent"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!!!:</font>\n"
+"            </span>\n"
+"            علامت‌گذاری کار به عنوان اضطراری (فوری)"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!!:</font>\n"
+"            </span>\n"
+"            Mark the to-do as high priority"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!!:</font>\n"
+"            </span>\n"
+"            علامت‌گذاری کار با اولویت بالا"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!:</font>\n"
+"            </span>\n"
+"            Mark the to-do as medium priority"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">!:</font>\n"
+"            </span>\n"
+"            علامت‌گذاری کار با اولویت متوسط"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">#tags:</font>\n"
+"            </span>\n"
+"            Add tags to categorize the to-do"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">#برچسب:</font>\n"
+"            </span>\n"
+"            افزودن برچسب‌ها برای دسته‌بندی کار"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">@user:</font>\n"
+"            </span>\n"
+"            Assign the to-do to a specific user"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">@کاربر:</font>\n"
+"            </span>\n"
+"            تخصیص کار به یک کاربر مشخص"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">Alt + Shift + T</font>\n"
+"            </span>\n"
+"            (Windows/Linux)"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">Alt + Shift + T</font>\n"
+"            </span>\n"
+"            (ویندوز/لینوکس)"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">Ctrl + Shift + T</font>\n"
+"            </span>\n"
+"            (MacOs)"
+msgstr ""
+"<span style=\"font-weight: bolder;\">\n"
+"                <font class=\"text-o-color-2\">Ctrl + Shift + T</font>\n"
+"            </span>\n"
+"            (مک‌او‌اس)"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
+msgid "Add To-Do"
+msgstr "افزودن کار"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/web/activity/activity_menu_patch.js:0
+msgid "Add a To-Do"
+msgstr "افزودن یک کار"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
+msgid "Add details about your to-do..."
+msgstr "افزودن توضیحات درباره کار خود..."
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Archived"
+msgstr "بایگانی‌شده"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid "Are you sure you want to restore this version?"
+msgstr "آیا از بازگردانی این نسخه اطمینان دارید؟"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__user_id
+msgid "Assigned to"
+msgstr "واگذار شده به"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Assignees"
+msgstr "مسئولین انجام"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "By assigned tags"
+msgstr "بر اساس برچسب‌های منتسب"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "By personal stages"
+msgstr "بر اساس مراحل شخصی"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+msgid "Choose tags from the selected project"
+msgstr "انتخاب برچسب‌ها از پروژه مشخص‌شده"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Closed"
+msgstr "بسته‌شده"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Closed On"
+msgstr "بسته‌شده در"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+#: model:ir.actions.act_window,name:project_todo.project_task_action_convert_todo_to_task
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+msgid "Convert to Task"
+msgstr "تبدیل به وظیفه"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Convert to-dos into tasks"
+msgstr "تبدیل کارها به وظایف"
+
+#. module: project_todo
+#: model:ir.model,website_form_label:project_todo.model_project_task
+msgid "Create a Task"
+msgstr "ایجاد یک وظیفه"
+
+#. module: project_todo
+#: model:ir.model,name:project_todo.model_mail_activity_todo_create
+msgid "Create activity and todo at the same time"
+msgstr "ایجاد فعالیت و کار به صورت همزمان"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Create to-dos from anywhere"
+msgstr "ایجاد کارها از هر کجای برنامه"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__create_uid
+msgid "Created by"
+msgstr "ایجادشده توسط"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Deadline"
+msgstr "مهلت نهایی"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_kanban
+msgid "Delete"
+msgstr "حذف"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
+msgid "Discard"
+msgstr "انصراف"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__display_name
+#: model:ir.model.fields,field_description:project_todo.field_project_task__display_name
+#: model:ir.model.fields,field_description:project_todo.field_res_users__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__date_deadline
+msgid "Due Date"
+msgstr "سررسید"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Enhance Your To-Dos with Shortcuts &amp;#9889;"
+msgstr "کارهای خود را با میانبرها ارتقا دهید &#9889;"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Future Activities"
+msgstr "فعالیت‌های آتی"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Hey"
+msgstr "سلام"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__id
+#: model:ir.model.fields,field_description:project_todo.field_project_task__id
+#: model:ir.model.fields,field_description:project_todo.field_res_users__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: project_todo
+#: model_terms:ir.actions.act_window,help:project_todo.project_task_action_todo
+msgid ""
+"Keep your work organized by using memos and to-do lists.\n"
+"                Your to-do items are private by default, but you can choose to share them with others by adding them as assignees."
+msgstr ""
+"کارهای خود را با استفاده از یادداشت‌ها و فهرست‌های انجام کار سازماندهی کنید.\n"
+"                موارد کاری شما به‌طور پیش‌فرض خصوصی هستند، اما می‌توانید با افزودن دیگران به عنوان مسئول انجام، آن‌ها را به اشتراک بگذارید."
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Late Activities"
+msgstr "فعالیت‌های به تعویق افتاده"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Manage your to-dos and assigned tasks from a single place"
+msgstr "کارهای شخصی و وظایف محول‌شده خود را از یک مکان واحد مدیریت کنید"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "My Activities"
+msgstr "فعالیت‌های من"
+
+#. module: project_todo
+#: model_terms:ir.actions.act_window,help:project_todo.project_task_action_todo
+msgid "No to-do found. Let's create one!"
+msgstr "هیچ کاری یافت نشد. بیایید یک کار ایجاد کنیم!"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__note
+msgid "Note"
+msgstr "یادداشت"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Open"
+msgstr "باز"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Organize your to-dos however you want"
+msgstr "کارهای خود را به هر شکلی که مایلید سازماندهی کنید"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_calendar
+msgid "Personal Stage"
+msgstr "مرحله شخصی"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Priority"
+msgstr "اولویت"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
+msgid "Reminder to..."
+msgstr "یادآوری برای..."
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid "Restore"
+msgstr "بازیابی"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid ""
+"Restoring will replace the current content with the selected version. Any "
+"unsaved changes will be lost."
+msgstr ""
+"بازیابی، محتوای فعلی را با نسخه انتخابی جایگزین می‌کند. تغییرات ذخیره‌نشده "
+"از دست خواهند رفت."
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_kanban
+msgid "Set Cover Image"
+msgstr "تنظیم تصویر شاخص"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Show all records whose next activity date is past"
+msgstr "نمایش تمامی رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+msgid "Stage"
+msgstr "مرحله"
+
+#. module: project_todo
+#: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__summary
+msgid "Summary"
+msgstr "چکیده"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#. module: project_todo
+#. odoo-python
+#: code:addons/project_todo/models/res_users.py:0
+#: model:ir.model,name:project_todo.model_project_task
+msgid "Task"
+msgstr "وظیفه"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+msgid "Task Title..."
+msgstr "عنوان وظیفه..."
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid ""
+"The To-do description lacks any past content that could be restored at the "
+"moment."
+msgstr "توضیحات این کار فاقد هرگونه محتوای پیشین جهت بازیابی در حال حاضر است."
+
+#. module: project_todo
+#. odoo-python
+#: code:addons/project_todo/models/res_users.py:0
+msgid "To-Do"
+msgstr "کار انجام‌دادنی"
+
+#. module: project_todo
+#: model:ir.ui.menu,name:project_todo.menu_todo_todos
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+msgid "To-do"
+msgstr "کار"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid "To-do History"
+msgstr "تاریخچه کار"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_quick_create_form
+msgid "To-do Title"
+msgstr "عنوان کار"
+
+#. module: project_todo
+#: model:ir.actions.act_window,name:project_todo.project_task_action_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_activity
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_calendar
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
+msgid "To-dos"
+msgstr "کارها"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Today Activities"
+msgstr "فعالیت‌های امروز"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
+msgid "Todos"
+msgstr "کارها"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_control_panel.xml:0
+msgid "Toggle chatter"
+msgstr "تغییر وضعیت نمایش گفتگو (Chatter)"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
+msgid "Type Here..."
+msgstr "اینجا بنویسید..."
+
+#. module: project_todo
+#. odoo-python
+#: code:addons/project_todo/models/project_task.py:0
+msgid "Untitled to-do"
+msgstr "کار بدون عنوان"
+
+#. module: project_todo
+#: model:ir.model.fields,help:project_todo.field_project_task__display_name
+msgid ""
+"Use these keywords in the title to set new tasks:\n"
+"\n"
+"        30h Allocate 30 hours to the task\n"
+"        #tags Set tags on the task\n"
+"        @user Assign the task to a user\n"
+"        ! Set the task a medium priority\n"
+"        !! Set the task a high priority\n"
+"        !!! Set the task a urgent priority\n"
+"\n"
+"        Make sure to use the right format and order e.g. Improve the configuration screen 5h #feature #v16 @Mitchell !"
+msgstr ""
+"از این کلیدواژه‌ها در عنوان برای تعریف وظایف جدید استفاده کنید:\n"
+"\n"
+"        30h تخصیص ۳۰ ساعت به وظیفه\n"
+"        #tags اختصاص برچسب به وظیفه\n"
+"        @user واگذاری وظیفه به یک کاربر\n"
+"        ! اولویت متوسط برای وظیفه\n"
+"        !! اولویت بالای وظیفه\n"
+"        !!! اولویت فوری و اضطراری برای وظیفه\n"
+"\n"
+"        دقت کنید قالب و ترتیب صحیح را رعایت فرمایید؛ مانند: بهبود صفحه پیکربندی 5h #feature #v16 @Mitchell !"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_quick_create_form
+msgid ""
+"Use these keywords in the title to streamline your to-dos:\n"
+"\n"
+"                             #tags: Add tags to categorize the to-do\n"
+"                             @user: Assign the to-do to a specific user\n"
+"                             !: Mark the to-do as medium priority\n"
+"                             !!: Mark the to-do as high priority\n"
+"                             !!!: Mark the to-do as urgent\n"
+"\n"
+"                             Ensure you follow the correct format and order. For example: \"Send invitations #event @Mitchell !\""
+msgstr ""
+"از این کلیدواژه‌ها در عنوان برای ساماندهی سریع کارهای خود استفاده کنید:\n"
+"\n"
+"                             #برچسب: افزودن برچسب جهت دسته‌بندی کار\n"
+"                             @کاربر: واگذاری کار به یک کاربر معین\n"
+"                             !: ثبت کار با اولویت متوسط\n"
+"                             !!: ثبت کار با اولویت بالا\n"
+"                             !!!: تعیین کار به عنوان اضطراری\n"
+"\n"
+"                             دقت داشته باشید که ساختار و چینش مناسب را حفظ کنید. به عنوان مثال: \"ارسال دعوت‌نامه‌ها #رویداد @Mitchell !\""
+
+#. module: project_todo
+#: model:ir.model,name:project_todo.model_res_users
+msgid "User"
+msgstr "کاربر"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Using the editor"
+msgstr "استفاده از ویرایشگر"
+
+#. module: project_todo
+#. odoo-javascript
+#: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
+msgid "Version History"
+msgstr "تاریخچه نسخه‌ها"
+
+#. module: project_todo
+#. odoo-python
+#: code:addons/project_todo/models/res_users.py:0
+msgid "Welcome %s!"
+msgstr "%s خوش آمدید!"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "Who has access to what?"
+msgstr "چه کسی به چه مواردی دسترسی دارد؟"
+
+#. module: project_todo
+#. odoo-python
+#: code:addons/project_todo/wizard/mail_activity_todo_create.py:0
+msgid "Your to-do has been successfully added to your pipeline."
+msgstr "کار شما با موفقیت به پایپ‌لاین شخصی‌تان اضافه شد."
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "convert-todo"
+msgstr "تبدیل-کار"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_quick_create_form
+msgid "e.g. Send Invitations"
+msgstr "مثلاً: ارسال دعوت‌نامه‌ها"
+
+#. module: project_todo
+#: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
+msgid "todo-access"
+msgstr "دسترسی-کار"

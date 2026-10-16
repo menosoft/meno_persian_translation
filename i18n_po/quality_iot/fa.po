@@ -1,0 +1,115 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* quality_iot
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:27+0000\n"
+"PO-Revision-Date: 2026-10-12 18:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: quality_iot
+#. odoo-javascript
+#: code:addons/quality_iot/static/src/iot_picture_button.js:0
+msgid "Capturing image..."
+msgstr "در حال ثبت تصویر..."
+
+#. module: quality_iot
+#. odoo-javascript
+#: code:addons/quality_iot/static/src/iot_measure_button.js:0
+msgid "Could not get measurement from device"
+msgstr "دریافت اندازه‌گیری از دستگاه ممکن نشد"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_quality_point__device_id
+msgid "Device"
+msgstr "دستگاه"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__device_name
+msgid "Device Name: "
+msgstr "نام دستگاه: "
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_iot_device__display_name
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__display_name
+#: model:ir.model.fields,field_description:quality_iot.field_quality_point__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__ip
+msgid "Domain Address"
+msgstr "نشانی دامنه"
+
+#. module: quality_iot
+#. odoo-javascript
+#: code:addons/quality_iot/static/src/iot_picture_button.js:0
+msgid "Failed to take a picture using the IoT Camera"
+msgstr "ثبت تصویر با استفاده از دوربین IoT با خطا مواجه شد"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_iot_device__id
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__id
+#: model:ir.model.fields,field_description:quality_iot.field_quality_point__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: quality_iot
+#: model:ir.model,name:quality_iot.model_iot_device
+msgid "IOT Device"
+msgstr "دستگاه IoT"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__identifier
+msgid "Identifier"
+msgstr "شناسه یکتا"
+
+#. module: quality_iot
+#. odoo-javascript
+#: code:addons/quality_iot/static/src/iot_picture_button.js:0
+msgid "Image captured successfully"
+msgstr "تصویر با موفقیت ثبت شد"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_quality_check__iot_box_id
+msgid "IoT Box"
+msgstr "جعبه IoT"
+
+#. module: quality_iot
+#. odoo-javascript
+#: code:addons/quality_iot/static/src/iot_measure_button.js:0
+msgid "No IoT device configured for this quality check."
+msgstr "هیچ دستگاه IoT برای این بررسی کیفی پیکربندی نشده است."
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_iot_device__qcp_test_type
+msgid "Qcp Test Type"
+msgstr "نوع آزمون نقطه کنترل کیفیت"
+
+#. module: quality_iot
+#: model:ir.model,name:quality_iot.model_quality_check
+msgid "Quality Check"
+msgstr "کنترل کیفی"
+
+#. module: quality_iot
+#: model:ir.model,name:quality_iot.model_quality_point
+msgid "Quality Control Point"
+msgstr "نقطه کنترل کیفیت"
+
+#. module: quality_iot
+#: model_terms:ir.ui.view,arch_db:quality_iot.iot_device_view_form_inherit
+msgid "Quality Control Points"
+msgstr "نقاط کنترل کیفیت"
+
+#. module: quality_iot
+#: model:ir.model.fields,field_description:quality_iot.field_iot_device__quality_point_ids
+msgid "Quality Point"
+msgstr "نقطه کیفی"

@@ -1,0 +1,1621 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* theme_meno_corporate_pro
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:32+0000\n"
+"PO-Revision-Date: 2026-10-12 18:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_latest_blogs
+msgid "(محتوای مقالات در وب‌سایت اصلی در اینجا بارگذاری خواهد شد)"
+msgstr "(محتوای مقالات در وب‌سایت اصلی در اینجا بارگذاری خواهد شد)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "+4,985"
+msgstr "+۴,۹۸۵"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "+5,933"
+msgstr "+۵,۹۳۳"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "+7,171"
+msgstr "+۷,۱۷۱"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "+8,821"
+msgstr "+۸,۸۲۱"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "021 9130 7531"
+msgstr "۰۲۱ ۹۱۳۰ ۷۵۳۱"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "093 5251 6855"
+msgstr "۰۹۳ ۵۲۵۱ ۶۸۵۵"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "100٪"
+msgstr "۱۰۰٪"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "21k+"
+msgstr "۲۱ هزار+"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "28M+"
+msgstr "۲۸ میلیون+"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "40k+"
+msgstr "۴۰ هزار+"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<i class=\"fa fa-bolt fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">عملیات سریع‌تر و کارآمدتر</span>"
+msgstr ""
+"<i class=\"fa fa-bolt fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">عملیات سریع‌تر و کارآمدتر</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid ""
+"<i class=\"fa fa-check me-1\" aria-hidden=\"true\"/>\n"
+"                                    <span>آنلاین</span>"
+msgstr ""
+"<i class=\"fa fa-check me-1\" aria-hidden=\"true\"/>\n"
+"                                    <span>آنلاین</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<i class=\"fa fa-check-circle me-2 text-success\"/> انطباق ۱۰۰٪ با الزامات "
+"قانونی و مالیاتی ایران: اتصال مستقیم و بلادرنگ به سامانه مؤدیان، تقویم "
+"جلالی، حقوق و دستمزد و گزارش‌های فصلی"
+msgstr ""
+"<i class=\"fa fa-check-circle me-2 text-success\"/> انطباق ۱۰۰٪ با الزامات "
+"قانونی و مالیاتی ایران: اتصال مستقیم و بلادرنگ به سامانه مؤدیان، تقویم "
+"جلالی، حقوق و دستمزد و گزارش‌های فصلی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<i class=\"fa fa-check-circle me-2\" aria-hidden=\"true\"/>\n"
+"                                            <span class=\"small fw-semibold\">پشتیبانی ۲۴/۷ برای پروژه‌های جاری فعال است</span>"
+msgstr ""
+"<i class=\"fa fa-check-circle me-2\" aria-hidden=\"true\"/>\n"
+"                                            <span class=\"small fw-semibold\">پشتیبانی ۲۴/۷ برای پروژه‌های جاری فعال است</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                                     پیش‌بینی روندها و تحلیل جریان نقدینگی."
+msgstr ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                                     پیش‌بینی روندها و تحلیل جریان نقدینگی."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                               گزارش‌سازی پویا مطابق با سلیقه شما"
+msgstr ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                               گزارش‌سازی پویا مطابق با سلیقه شما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                               یکپارچگی داده‌های مالی و عملیاتی در یک داشبورد."
+msgstr ""
+"<i class=\"fa fa-check-circle me-2\" style=\"color: var(--meno-accent, #07adce);\"/>\n"
+"                                               یکپارچگی داده‌های مالی و عملیاتی در یک داشبورد."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<i class=\"fa fa-cog fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">کاهش هزینه کل مالکیت (TCO)</span>"
+msgstr ""
+"<i class=\"fa fa-cog fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">کاهش هزینه کل مالکیت (TCO)</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "<i class=\"fa fa-cubes\"/> انبار"
+msgstr "<i class=\"fa fa-cubes\"/> انبار"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "<i class=\"fa fa-globe\"/> وب‌سایت"
+msgstr "<i class=\"fa fa-globe\"/> وب‌سایت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<i class=\"fa fa-headphones\"/>\n"
+"                        <span class=\"fw-semibold\">پشتیبانی ۲۴/۷</span>"
+msgstr ""
+"<i class=\"fa fa-headphones\"/>\n"
+"                        <span class=\"fw-semibold\">پشتیبانی ۲۴/۷</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<i class=\"fa fa-industry\"/>\n"
+"                                    تولید"
+msgstr ""
+"<i class=\"fa fa-industry\"/>\n"
+"                                    تولید"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<i class=\"fa fa-line-chart\"/>\n"
+"                                    مالی"
+msgstr ""
+"<i class=\"fa fa-line-chart\"/>\n"
+"                                    مالی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<i class=\"fa fa-paper-plane me-2\"/>\n"
+"                                        <span class=\"btn-text\">ارسال درخواست</span>"
+msgstr ""
+"<i class=\"fa fa-paper-plane me-2\"/>\n"
+"                                        <span class=\"btn-text\">ارسال درخواست</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid ""
+"<i class=\"fa fa-server\"/>\n"
+"                                <span>MeNo ERP</span>"
+msgstr ""
+"<i class=\"fa fa-server\"/>\n"
+"                                <span>MeNo ERP</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<i class=\"fa fa-shield fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">انعطاف‌پذیری و مقیاس‌پذیری بالا</span>"
+msgstr ""
+"<i class=\"fa fa-shield fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">انعطاف‌پذیری و مقیاس‌پذیری بالا</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<i class=\"fa fa-shopping-cart\"/>\n"
+"                                    فروش"
+msgstr ""
+"<i class=\"fa fa-shopping-cart\"/>\n"
+"                                    فروش"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "<i class=\"fa fa-tasks\"/> پروژه"
+msgstr "<i class=\"fa fa-tasks\"/> پروژه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<i class=\"fa fa-th-large fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">ماژول‌های کاملاً یکپارچه</span>"
+msgstr ""
+"<i class=\"fa fa-th-large fa-lg me-3 text-info\"/>\n"
+"                                            <span class=\"fs-6 fw-semibold\">ماژول‌های کاملاً یکپارچه</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "<i class=\"fa fa-users\"/> CRM"
+msgstr "<i class=\"fa fa-users\"/> CRM"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<i class=\"fa fa-users\"/> منابع\n"
+"                                    انسانی"
+msgstr ""
+"<i class=\"fa fa-users\"/> منابع\n"
+"                                    انسانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<select class=\"meno-input meno-select\" id=\"contact_service\" name=\"service\" required=\"required\">\n"
+"                                            <option value=\"\" selected=\"selected\" disabled=\"disabled\">انتخاب کنید...</option>\n"
+"                                            <option value=\"web\">طراحی وب‌سایت</option>\n"
+"                                            <option value=\"ai\">هوش مصنوعی</option>\n"
+"                                            <option value=\"erp\">نرم‌افزارهای سازمانی (ERP)</option>\n"
+"                                            <option value=\"seo\">مشاوره سئو</option>\n"
+"                                            <option value=\"other\">سایر موارد</option>\n"
+"                                        </select>"
+msgstr ""
+"<select class=\"meno-input meno-select\" id=\"contact_service\" name=\"service\" required=\"required\">\n"
+"                                            <option value=\"\" selected=\"selected\" disabled=\"disabled\">انتخاب کنید...</option>\n"
+"                                            <option value=\"web\">طراحی وب‌سایت</option>\n"
+"                                            <option value=\"ai\">هوش مصنوعی</option>\n"
+"                                            <option value=\"erp\">نرم‌افزارهای سازمانی (ERP)</option>\n"
+"                                            <option value=\"seo\">مشاوره سئو</option>\n"
+"                                            <option value=\"other\">سایر موارد</option>\n"
+"                                        </select>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "<small class=\"meno-svc-desc\">پایش یکپارچه فرآیندها</small>"
+msgstr "<small class=\"meno-svc-desc\">پایش یکپارچه فرآیندها</small>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<span class=\"badge ms-2 odoo-version-badge\">19</span>\n"
+"                                                <span class=\"odoo-letter-d\"> ERP</span>\n"
+"                                            <span class=\"odoo-letter-o\">MeNo</span>"
+msgstr ""
+"<span class=\"badge ms-2 odoo-version-badge\">19</span>\n"
+"                                                <span class=\"odoo-letter-d\"> ERP</span>\n"
+"                                            <span class=\"odoo-letter-o\">MeNo</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "<span class=\"cd-separator\">:</span>"
+msgstr "<span class=\"cd-separator\">:</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "<span class=\"cd-value cd-days\">00</span><span class=\"cd-label\">روز</span>"
+msgstr "<span class=\"cd-value cd-days\">00</span><span class=\"cd-label\">روز</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid ""
+"<span class=\"cd-value cd-hours\">00</span><span class=\"cd-"
+"label\">ساعت</span>"
+msgstr ""
+"<span class=\"cd-value cd-hours\">00</span><span class=\"cd-"
+"label\">ساعت</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid ""
+"<span class=\"cd-value cd-minutes\">00</span><span class=\"cd-"
+"label\">دقیقه</span>"
+msgstr ""
+"<span class=\"cd-value cd-minutes\">00</span><span class=\"cd-"
+"label\">دقیقه</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid ""
+"<span class=\"cd-value cd-seconds\">00</span><span class=\"cd-"
+"label\">ثانیه</span>"
+msgstr ""
+"<span class=\"cd-value cd-seconds\">00</span><span class=\"cd-"
+"label\">ثانیه</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"<span class=\"core_brand_text\">MeNo</span>\n"
+"                                        <span class=\"core_live_indicator\"/>"
+msgstr ""
+"<span class=\"core_brand_text\">MeNo</span>\n"
+"                                        <span class=\"core_live_indicator\"/>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "<span class=\"data-text fw-bold text-muted\">داده‌های انبار</span>"
+msgstr "<span class=\"data-text fw-bold text-muted\">داده‌های انبار</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "<span class=\"data-text fw-bold text-muted\">داده‌های فروش</span>"
+msgstr "<span class=\"data-text fw-bold text-muted\">داده‌های فروش</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid "<span class=\"data-text fw-bold text-muted\">داده‌های منابع انسانی</span>"
+msgstr "<span class=\"data-text fw-bold text-muted\">داده‌های منابع انسانی</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid ""
+"<span class=\"kpi-value\" id=\"kpi1-val\">-</span>\n"
+"                                        <span class=\"kpi-label\" id=\"kpi1-lbl\">-</span>"
+msgstr ""
+"<span class=\"kpi-value\" id=\"kpi1-val\">-</span>\n"
+"                                        <span class=\"kpi-label\" id=\"kpi1-lbl\">-</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid ""
+"<span class=\"kpi-value\" id=\"kpi2-val\">-</span>\n"
+"                                        <span class=\"kpi-label\" id=\"kpi2-lbl\">-</span>"
+msgstr ""
+"<span class=\"kpi-value\" id=\"kpi2-val\">-</span>\n"
+"                                        <span class=\"kpi-label\" id=\"kpi2-lbl\">-</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid ""
+"<span class=\"legend-item d-flex align-items-center gap-1\">\n"
+"                                                <span class=\"badge rounded-circle p-1\" style=\"background-color: var(--meno-accent, #07adce); width: 12px; height: 12px;\"> \n"
+"                                                </span>رشد پایدار</span>"
+msgstr ""
+"<span class=\"legend-item d-flex align-items-center gap-1\">\n"
+"                                                <span class=\"badge rounded-circle p-1\" style=\"background-color: var(--meno-accent, #07adce); width: 12px; height: 12px;\"> \n"
+"                                                </span>رشد پایدار</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "<span class=\"meno-eyebrow\">[ استانداردهای در مقیاس سازمانی ]</span>"
+msgstr "<span class=\"meno-eyebrow\">[ استانداردهای در مقیاس سازمانی ]</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_preloader_template
+msgid "<span class=\"meno-loader-text\">در حال بارگذاری...</span>"
+msgstr "<span class=\"meno-loader-text\">در حال بارگذاری...</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid ""
+"<span class=\"meno-pulse-dot\" aria-hidden=\"true\"/>\n"
+"                            <span class=\"fw-bold fs-7\">پلتفرم یکپارچه مدیریت سازمانی (ERP)</span>"
+msgstr ""
+"<span class=\"meno-pulse-dot\" aria-hidden=\"true\"/>\n"
+"                            <span class=\"fw-bold fs-7\">پلتفرم یکپارچه مدیریت سازمانی (ERP)</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_showcase
+msgid ""
+"<span class=\"meno-slogan-gradient mt-2 d-inline-block fw-bold\">تصویر روشن "
+"کسب‌وکار شما</span>"
+msgstr ""
+"<span class=\"meno-slogan-gradient mt-2 d-inline-block fw-bold\">تصویر روشن "
+"کسب‌وکار شما</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<span class=\"meno-text-muted\">جمعه‌ها و تعطیلات رسمی</span>\n"
+"                                            <span class=\"fw-semibold meno-closed-label\">تعطیل</span>"
+msgstr ""
+"<span class=\"meno-text-muted\">جمعه‌ها و تعطیلات رسمی</span>\n"
+"                                            <span class=\"fw-semibold meno-closed-label\">تعطیل</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<span class=\"meno-text-muted\">شنبه تا چهارشنبه</span>\n"
+"                                            <span class=\"fw-semibold\" dir=\"ltr\">۰۸:۰۰ – ۱۷:۰۰</span>"
+msgstr ""
+"<span class=\"meno-text-muted\">شنبه تا چهارشنبه</span>\n"
+"                                            <span class=\"fw-semibold\" dir=\"ltr\">۰۸:۰۰ – ۱۷:۰۰</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"<span class=\"meno-text-muted\">پنجشنبه</span>\n"
+"                                            <span class=\"fw-semibold\" dir=\"ltr\">۰۸:۰۰ – ۱۴:۰۰</span>"
+msgstr ""
+"<span class=\"meno-text-muted\">پنجشنبه</span>\n"
+"                                            <span class=\"fw-semibold\" dir=\"ltr\">۰۸:۰۰ – ۱۴:۰۰</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid ""
+"<span class=\"text-focus-color\">مسیر استقرار چابک</span> \n"
+"                            <span class=\"text-primary\">MeNo ERP</span>"
+msgstr ""
+"<span class=\"text-focus-color\">مسیر استقرار چابک</span> \n"
+"                            <span class=\"text-primary\">MeNo ERP</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_copyright
+msgid ""
+"<span class=\"text-muted small\">\n"
+"                    © ۱۴۰۵ کلیه حقوق برای شرکت مدیریت الکترونیک نوآوران اوج (منو سافت) محفوظ است.\n"
+"                </span>"
+msgstr ""
+"<span class=\"text-muted small\">\n"
+"                    © ۱۴۰۵ کلیه حقوق برای شرکت مدیریت الکترونیک نوآوران اوج (منو سافت) محفوظ است.\n"
+"                </span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "<span class=\"text-muted\">ساعت</span>"
+msgstr "<span class=\"text-muted\">ساعت</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid ""
+"<span>درخواست دموی سازمانی</span>\n"
+"                                <i class=\"oi oi-arrow-right fs-6\" aria-hidden=\"true\"/>"
+msgstr ""
+"<span>درخواست دموی سازمانی</span>\n"
+"                                <i class=\"oi oi-arrow-right fs-6\" aria-hidden=\"true\"/>"
+
+#. module: theme_meno_corporate_pro
+#. odoo-javascript
+#: code:addons/theme_meno_corporate_pro/static/src/xml/dynamic_blog_template.xml:0
+msgid "Author"
+msgstr "نویسنده"
+
+#. module: theme_meno_corporate_pro
+#. odoo-javascript
+#: code:addons/theme_meno_corporate_pro/static/src/xml/dynamic_blog_template.xml:0
+msgid "Blog"
+msgstr "بلاگ"
+
+#. module: theme_meno_corporate_pro
+#. odoo-javascript
+#: code:addons/theme_meno_corporate_pro/static/src/xml/dynamic_blog_template.xml:0
+msgid "Blog Cover"
+msgstr "تصویر شاخص بلاگ"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model,name:theme_meno_corporate_pro.model_blog_post
+msgid "Blog Post"
+msgstr "پست بلاگ"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model,name:theme_meno_corporate_pro.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__create_uid
+msgid "Created by"
+msgstr "ایجاد شده توسط"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__create_date
+msgid "Created on"
+msgstr "ایجاد شده در تاریخ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "Danone"
+msgstr "دانون (Danone)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "Decathlon"
+msgstr "دکاتلون (Decathlon)"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_blog_post__display_name
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__display_name
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "ERP سنتی و جزیره‌ای"
+msgstr "ERP سنتی و جزیره‌ای"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "GitHub"
+msgstr "گیت‌هاب (GitHub)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "Hyundai"
+msgstr "هیوندای (Hyundai)"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_blog_post__id
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__id
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__id
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "Instagram"
+msgstr "اینستاگرام (Instagram)"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به‌روزرسانی توسط"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در تاریخ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "LinkedIn"
+msgstr "لینکدین (LinkedIn)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_showcase
+msgid "MeNo ERP"
+msgstr "MeNo ERP"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid ""
+"MeNo ERP ترکیب معماری قدرتمند و مقیاس‌پذیر Odoo با بومی‌سازی عمیق و انطباق "
+"۱۰۰ درصدی با قوانین مالی ایران. زیرساختی یکپارچه برای تصمیم‌گیری‌های "
+"داده‌محور و مدیریت متمرکز سازمان."
+msgstr ""
+"MeNo ERP ترکیب معماری قدرتمند و مقیاس‌پذیر Odoo با بومی‌سازی عمیق و انطباق "
+"۱۰۰ درصدی با قوانین مالی ایران. زیرساختی یکپارچه برای تصمیم‌گیری‌های "
+"داده‌محور و مدیریت متمرکز سازمان."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "MeNo<span class=\"fw-light\">Soft</span>"
+msgstr "MeNo<span class=\"fw-light\">Soft</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "MeNoSoft , لندینگ, معرفی, داینامیک"
+msgstr "منوسافت، لندینگ، معرفی، داینامیک"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_preloader_template
+msgid "MeNoSoft Logo"
+msgstr "لوگوی منوسافت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "Meno Soft"
+msgstr "منوسافت"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model,name:theme_meno_corporate_pro.model_meno_theme_settings
+msgid "Meno Theme Global Settings"
+msgstr "تنظیمات سراسری تم منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "Odoo"
+msgstr "مِنو (Odoo)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "Odoo 19 Roadmap"
+msgstr "نقشه راه مِنو ۱۹"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "Sodexo"
+msgstr "سودکسو (Sodexo)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "Subscribe"
+msgstr "عضویت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "Toyota"
+msgstr "تویوتا (Toyota)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "Twitter"
+msgstr "توییتر (Twitter)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "WWF"
+msgstr "صندوق جهانی طبیعت (WWF)"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model,name:theme_meno_corporate_pro.model_website
+msgid "Website"
+msgstr "وب‌سایت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "WhatsApp"
+msgstr "واتس‌اپ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "blog, news, articles, meno, وبلاگ, اخبار, مقالات"
+msgstr "وبلاگ، اخبار، مقالات، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "contact, form, meno, تماس, فرم"
+msgstr "تماس، فرم، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "dashboard, 360, radial, hub, meno, داشبورد, چرخشی, شعاعی"
+msgstr "داشبورد، ۳۶۰، شعاعی، هاب، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "e-Namad"
+msgstr "اینماد (e-Namad)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "financial, dashboard, meno, داشبورد, مالی, گزارش"
+msgstr "مالی، داشبورد، منو، گزارش"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "hero, banner, meno, هیرو, بنر, منو"
+msgstr "هیرو، بنر، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "https://..."
+msgstr "https://..."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "info@menosoft.ir"
+msgstr "info@menosoft.ir"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "paradigm, shift, meno, تغییر, پارادایم"
+msgstr "پارادایم، تغییر، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "roadmap, deployment, 3d, agile, meno, نقشه راه, استقرار, چابک"
+msgstr "نقشه راه، استقرار، سه‌بعدی، چابک، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "roi, return, investment, meno, سرمایه, بازگشت"
+msgstr "بازگشت سرمایه، ROI، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "showcase, hero, meno, erp, لندینگ, معرفی, داینامیک"
+msgstr "نمایش، هیرو، منو، ERP، لندینگ، معرفی، داینامیک"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "trust, global, logos, sla, sandbox, meno, اعتماد, مقیاس, برندها"
+msgstr "اعتماد، جهانی، لوگوها، توافق سطح خدمت، سندباکس، منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"«داده‌های متناقض، ورود مکرر اطلاعات، عدم ارتباط بین واحدها و تصمیم‌گیری‌های "
+"با تاخیر»"
+msgstr ""
+"«داده‌های متناقض، ورود مکرر اطلاعات، عدم ارتباط بین واحدها و تصمیم‌گیری‌های "
+"با تاخیر»"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_latest_blogs
+msgid "آخرین بینش‌ها، اخبار و مقالات تخصصی از تیم مِنوسافت"
+msgstr "آخرین بینش‌ها، اخبار و مقالات تخصصی از تیم مِنوسافت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "آخرین مقالات (وبلاگ)"
+msgstr "آخرین مقالات (وبلاگ)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "آموزش تیم و<br/>مدیریت تغییر"
+msgstr "آموزش تیم و<br/>مدیریت تغییر"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "ابر و امنیت"
+msgstr "ابر و امنیت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "ابزارهای منو (Meno)"
+msgstr "ابزارهای منو (Meno)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "ارتباط با ما"
+msgstr "ارتباط با ما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "ارتقاء و افزودن ماژول‌های تخصصی همگام با توسعه ابعاد کسب‌وکار"
+msgstr "ارتقاء و افزودن ماژول‌های تخصصی همگام با توسعه ابعاد کسب‌وکار"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "ارسال درخواست جدید"
+msgstr "ارسال درخواست جدید"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "از طریق اتوماسیون فرآیندهای تکراری و کاهش خطای انسانی."
+msgstr "از طریق اتوماسیون فرآیندهای تکراری و کاهش خطای انسانی."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "استقرار چابک و سریع (Rapid Deployment)"
+msgstr "استقرار چابک و سریع (Rapid Deployment)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "اطلاعات تماس"
+msgstr "اطلاعات تماس"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "اعتماد جهانی و مقیاس‌پذیری"
+msgstr "اعتماد جهانی و مقیاس‌پذیری"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "افزایش نرخ بازگشت سرمایه (ROI)"
+msgstr "افزایش نرخ بازگشت سرمایه (ROI)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "امنیت پایدار در سطح جهانی"
+msgstr "امنیت پایدار در سطح جهانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "انطباق با سامانه مودیان و بهای تمام‌شده"
+msgstr "انطباق با سامانه مودیان و بهای تمام‌شده"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "اکوسیستم همیشه به‌روز"
+msgstr "اکوسیستم همیشه به‌روز"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,help:theme_meno_corporate_pro.field_res_config_settings__meno_topbar_close_timeout
+#: model:ir.model.fields,help:theme_meno_corporate_pro.field_website__meno_topbar_close_timeout
+msgid "اگر کاربر نوار اعلان را ببندد، تا چند ساعت بعد به او نمایش داده نشود؟"
+msgstr "اگر کاربر نوار اعلان را ببندد، تا چند ساعت بعد به او نمایش داده نشود؟"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "ایمیل سازمانی"
+msgstr "ایمیل سازمانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "ایمیل شما"
+msgstr "ایمیل شما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "ایمیل پشتیبانی"
+msgstr "ایمیل پشتیبانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "اینستاگرام"
+msgstr "اینستاگرام"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid ""
+"با اتکا بر معماری متمرکز مِنو (Odoo)، تصمیمات کلان\n"
+"                            سازمانی را بر پایه داده‌های یکپارچه، به‌روز و عاری از خطای انسانی اتخاذ\n"
+"                            کنید."
+msgstr ""
+"با اتکا بر معماری متمرکز مِنو (Odoo)، تصمیمات کلان\n"
+"                            سازمانی را بر پایه داده‌های یکپارچه، به‌روز و عاری از خطای انسانی اتخاذ\n"
+"                            کنید."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "با حذف لایسنس‌های متعدد نرم‌افزارهای جزیره‌ای."
+msgstr "با حذف لایسنس‌های متعدد نرم‌افزارهای جزیره‌ای."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "برای بازدهی مالی در کوتاه‌ترین زمان ممکن."
+msgstr "برای بازدهی مالی در کوتاه‌ترین زمان ممکن."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "برای دریافت آخرین مقالات و اخبار فناوری در خبرنامه ما عضو شوید."
+msgstr "برای دریافت آخرین مقالات و اخبار فناوری در خبرنامه ما عضو شوید."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"برای دریافت مشاوره تخصصی، فرم زیر را پر کنید تا کارشناسان ما در اسرع وقت با "
+"شما تماس بگیرند."
+msgstr ""
+"برای دریافت مشاوره تخصصی، فرم زیر را پر کنید تا کارشناسان ما در اسرع وقت با "
+"شما تماس بگیرند."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "برنامه‌ و ماژول تخصصی"
+msgstr "برنامه‌ و ماژول تخصصی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "برنامه‌های وب"
+msgstr "برنامه‌های وب"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "بستن اعلان"
+msgstr "بستن اعلان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "بهره‌برداری و<br/>موفقیت"
+msgstr "بهره‌برداری و<br/>موفقیت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid ""
+"بهره‌گیری از پروتکل‌های امنیتی چندلایه، رمزنگاری پیشرفته پایگاه داده "
+"PostgreSQL و سیستم مدیریت سطوح دسترسی (RBAC) تست شده توسط هزاران شرکت "
+"بین‌المللی."
+msgstr ""
+"بهره‌گیری از پروتکل‌های امنیتی چندلایه، رمزنگاری پیشرفته پایگاه داده "
+"PostgreSQL و سیستم مدیریت سطوح دسترسی (RBAC) تست شده توسط هزاران شرکت "
+"بین‌المللی."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "بومی‌سازی"
+msgstr "بومی‌سازی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "تاریخ و زمان پایان رویداد برای نمایش تایمر."
+msgstr "تاریخ و زمان پایان رویداد برای نمایش تایمر."
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_countdown_datetime
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_countdown_datetime
+msgid "تاریخ و زمان پایان شمارش معکوس"
+msgstr "تاریخ و زمان پایان شمارش معکوس"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_latest_blogs
+msgid ""
+"تازه‌های <span class=\"meno-text-gradient\" style=\"color: var(--meno-"
+"accent);\">دانش و فناوری</span>"
+msgstr ""
+"تازه‌های <span class=\"meno-text-gradient\" style=\"color: var(--meno-"
+"accent);\">دانش و فناوری</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "تحلیل و<br/>نیازمندی‌ها"
+msgstr "تحلیل و<br/>نیازمندی‌ها"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid "تسلط کامل بر اکوسیستم سازمان"
+msgstr "تسلط کامل بر اکوسیستم سازمان"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_meno_theme_settings__latest_blog_limit
+msgid "تعداد مقالات"
+msgstr "تعداد مقالات"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "تغییر پارادایم"
+msgstr "تغییر پارادایم"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "تماس با ما"
+msgstr "تماس با ما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "تماس مستقیم"
+msgstr "تماس مستقیم"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "تمرکز استراتژیک"
+msgstr "تمرکز استراتژیک"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.view_meno_theme_settings_form
+msgid "تنظیمات آخرین مقالات"
+msgstr "تنظیمات آخرین مقالات"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.actions.act_window,name:theme_meno_corporate_pro.action_meno_theme_settings
+#: model:ir.ui.menu,name:theme_meno_corporate_pro.menu_meno_theme_settings
+msgid "تنظیمات تم Meno"
+msgstr "تنظیمات تم Meno"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.view_meno_theme_settings_form
+msgid "تنظیمات تم منو"
+msgstr "تنظیمات تم منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.view_meno_theme_settings_form
+msgid "تنظیمات سراسری تم Meno"
+msgstr "تنظیمات سراسری تم Meno"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "تنظیمات هدر منو (Meno Theme)"
+msgstr "تنظیمات هدر منو (Meno Theme)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid ""
+"تهران، بلوار اشرفی اصفهانی- نرسیده به پل اتوبان همت، خیابان شهید قموشی، "
+"خیابان بهار، دانشگاه علم و فرهنگ، طبقه 6، پارک ملی علوم و فناوری‌های نرم و "
+"صنایع فرهنگی"
+msgstr ""
+"تهران، بلوار اشرفی اصفهانی- نرسیده به پل اتوبان همت، خیابان شهید قموشی، "
+"خیابان بهار، دانشگاه علم و فرهنگ، طبقه ۶، پارک ملی علوم و فناوری‌های نرم و "
+"صنایع فرهنگی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "توسعه‌دهنده در اکوسیستم"
+msgstr "توسعه‌دهنده در اکوسیستم"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid ""
+"توسعه‌یافته بر بستر قدرتمند Python. سیستمی که همراه با رشد سازمان شما "
+"مقیاس‌پذیر است و هیچ محدودیتی در تعریف شرکت‌ها و شعب جدید (Multi-Company) "
+"ندارد."
+msgstr ""
+"توسعه‌یافته بر بستر قدرتمند Python. سیستمی که همراه با رشد سازمان شما "
+"مقیاس‌پذیر است و هیچ محدودیتی در تعریف شرکت‌ها و شعب جدید (Multi-Company) "
+"ندارد."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "تولید و زنجیره تامین"
+msgstr "تولید و زنجیره تامین"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "توییتر"
+msgstr "توییتر"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"جایگزینی ده‌ها\n"
+"                                        نرم‌افزار، حذف کامل دوباره‌کاری و ورود تکراری اطلاعات در دپارتمان‌ها"
+msgstr ""
+"جایگزینی ده‌ها\n"
+"                                        نرم‌افزار، حذف کامل دوباره‌کاری و ورود تکراری اطلاعات در دپارتمان‌ها"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "جریان داده‌های بلادرنگ"
+msgstr "جریان داده‌های بلادرنگ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "حذف جزایر اطلاعاتی و گزارش‌های بلادرنگ"
+msgstr "حذف جزایر اطلاعاتی و گزارش‌های بلادرنگ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "خانه"
+msgstr "خانه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "خبرنامه"
+msgstr "خبرنامه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "خدمات"
+msgstr "خدمات"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "خواب سرمایه و خطاهای انسانی"
+msgstr "خواب سرمایه و خطاهای انسانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid "داشبورد استراتژیک مدیران ارشد"
+msgstr "داشبورد استراتژیک مدیران ارشد"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "داشبورد مالی"
+msgstr "داشبورد مالی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "داشبورد ۳۶۰ درجه"
+msgstr "داشبورد ۳۶۰ درجه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_360_dashboard
+msgid "در حال بارگذاری..."
+msgstr "در حال بارگذاری..."
+
+#. module: theme_meno_corporate_pro
+#. odoo-javascript
+#: code:addons/theme_meno_corporate_pro/static/src/xml/dynamic_blog_template.xml:0
+msgid "در حال حاضر مقاله‌ای منتشر نشده است."
+msgstr "در حال حاضر مقاله‌ای منتشر نشده است."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_showcase
+msgid "درخواست دمو"
+msgstr "درخواست دمو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "درخواست مشاوره"
+msgstr "درخواست مشاوره"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "دریافت کاتالوگ"
+msgstr "دریافت کاتالوگ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "دفتر مرکزی"
+msgstr "دفتر مرکزی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "دکمه فراخوان (CTA)"
+msgstr "دکمه فراخوان (CTA)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "دکمه‌ای که کاربر را به صفحه هدف هدایت می‌کند."
+msgstr "دکمه‌ای که کاربر را به صفحه هدف هدایت می‌کند."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "راهکار ارزش‌محور MeNo"
+msgstr "راهکار ارزش‌محور MeNo"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "راهکارها"
+msgstr "راهکارها"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "ردیابی دقیق انبار و برنامه‌ریزی MRP"
+msgstr "ردیابی دقیق انبار و برنامه‌ریزی MRP"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "رزرو جلسه در سطح کلان"
+msgstr "رزرو جلسه در سطح کلان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"رویکرد\n"
+"                                    سنتی: پیچیدگی و پراکندگی"
+msgstr ""
+"رویکرد\n"
+"                                    سنتی: پیچیدگی و پراکندگی"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_topbar_close_timeout
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_topbar_close_timeout
+msgid "زمان عدم نمایش پس از بستن (ساعت)"
+msgstr "زمان عدم نمایش پس از بستن (ساعت)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "زمان پاسخگویی تیم ما"
+msgstr "زمان پاسخگویی تیم ما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid ""
+"زیرساختی که کمپانی‌های پیشرو بین‌المللی برای یکپارچگی زنجیره ارزش خود انتخاب"
+" کرده‌اند، اکنون با انطباق کامل بر قوانین مالیاتی و فرآیندهای کسب‌وکار ایران"
+" در اختیار شماست."
+msgstr ""
+"زیرساختی که کمپانی‌های پیشرو بین‌المللی برای یکپارچگی زنجیره ارزش خود انتخاب"
+" کرده‌اند، اکنون با انطباق کامل بر قوانین مالیاتی و فرآیندهای کسب‌وکار ایران"
+" در اختیار شماست."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "سازمان نظام صنفی رایانه‌ای تهران"
+msgstr "سازمان نظام صنفی رایانه‌ای تهران"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "ساعات کاری"
+msgstr "ساعات کاری"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "سیستم‌های ERP و مدیریت سازمانی"
+msgstr "سیستم‌های ERP و مدیریت سازمانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "شبکه‌های اجتماعی ما"
+msgstr "شبکه‌های اجتماعی ما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "شرح مختصر پروژه"
+msgstr "شرح مختصر پروژه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "شمارش معکوس"
+msgstr "شمارش معکوس"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "شماره تماس"
+msgstr "شماره تماس"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "صفحه تماس با ما"
+msgstr "صفحه تماس با ما"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_showcase
+msgid ""
+"طراحی شده برای مدیران ارشد؛ کنترل یکپارچه، تحلیل دقیق و رهبری سازمان در یک "
+"نگاه."
+msgstr ""
+"طراحی شده برای مدیران ارشد؛ کنترل یکپارچه، تحلیل دقیق و رهبری سازمان در یک "
+"نگاه."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "عدم نمایش مجدد"
+msgstr "عدم نمایش مجدد"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "عضو پارک ملی علوم و فناوری های نرم و صنایع فرهنگی"
+msgstr "عضو پارک ملی علوم و فناوری‌های نرم و صنایع فرهنگی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "فرآیند کار"
+msgstr "فرآیند کار"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "فرآیندها و اتوماسیون"
+msgstr "فرآیندها و اتوماسیون"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "فرم تماس منو"
+msgstr "فرم تماس منو"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "فعال‌سازی حالت تاریک"
+msgstr "فعال‌سازی حالت تاریک"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "فعال‌سازی نوار اطلاع‌رسانی در بالاترین بخش سایت."
+msgstr "فعال‌سازی نوار اطلاع‌رسانی در بالاترین بخش سایت."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "فوتر منوسافت"
+msgstr "فوتر منوسافت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid ""
+"قدرت جهانی Odoo<br/>\n"
+"                            <span class=\"meno-gradient-text\"> با چابکی MeNo ERP</span>"
+msgstr ""
+"قدرت جهانی Odoo<br/>\n"
+"                            <span class=\"meno-gradient-text\"> با چابکی MeNo ERP</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "قدرت‌گرفته از هسته جهانی Odoo؛ مورد اعتماد پیشگامان صنعت"
+msgstr "قدرت‌گرفته از هسته جهانی Odoo؛ مورد اعتماد پیشگامان صنعت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "لینک دکمه"
+msgstr "لینک دکمه"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_topbar_url
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_topbar_url
+msgid "لینک دکمه اعلان (URL)"
+msgstr "لینک دکمه اعلان (URL)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "لینکدین"
+msgstr "لینکدین"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "لینک‌های سریع"
+msgstr "لینک‌های سریع"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid ""
+"ما با ارائه راهکارهای نوین نرم‌افزاری، پراکندگی داده‌های شما را به یک "
+"<strong>نگاه جامع</strong> تبدیل می‌کنیم تا در لحظه، بهترین تصمیم را برای "
+"سازمان خود بگیرید."
+msgstr ""
+"ما با ارائه راهکارهای نوین نرم‌افزاری، پراکندگی داده‌های شما را به یک "
+"<strong>نگاه جامع</strong> تبدیل می‌کنیم تا در لحظه، بهترین تصمیم را برای "
+"سازمان خود بگیرید."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "مانیتورینگ فعال"
+msgstr "مانیتورینگ فعال"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "متن اعلان"
+msgstr "متن اعلان"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_announcement_text
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_announcement_text
+msgid "متن اعلان هدر"
+msgstr "متن اعلان هدر"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "متن دکمه"
+msgstr "متن دکمه"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_topbar_url_text
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_topbar_url_text
+msgid "متن دکمه اعلان"
+msgstr "متن دکمه اعلان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "متنی که در نوار اعلان نمایش داده می‌شود."
+msgstr "متنی که در نوار اعلان نمایش داده می‌شود."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "مثلاً: ثبت‌نام در همایش"
+msgstr "مثلاً: ثبت‌نام در همایش"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "مدیریت ارتباط و فروش"
+msgstr "مدیریت ارتباط و فروش"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "مدیریت الکترونیک نوآوران اوج"
+msgstr "مدیریت الکترونیک نوآوران اوج"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "مدیریت مالی و مودیان"
+msgstr "مدیریت مالی و مودیان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "مزایای کلیدی مِنوسافت"
+msgstr "مزایای کلیدی مِنوسافت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid ""
+"مزیت اقتصادی: <span class=\"meno-text-gradient\">کاهش هزینه‌ها و بازگشت "
+"سرمایه (ROI)</span>"
+msgstr ""
+"مزیت اقتصادی: <span class=\"meno-text-gradient\">کاهش هزینه‌ها و بازگشت "
+"سرمایه (ROI)</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_showcase
+msgid "مشاهده امکانات <i class=\"fa fa-angle-right ms-2 align-middle\"/>"
+msgstr "مشاهده امکانات <i class=\"fa fa-angle-right ms-2 align-middle\"/>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_template_header_default
+msgid "مشاوره"
+msgstr "مشاوره"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "مشاوره فنی"
+msgstr "مشاوره فنی"
+
+#. module: theme_meno_corporate_pro
+#. odoo-javascript
+#: code:addons/theme_meno_corporate_pro/static/src/xml/dynamic_blog_template.xml:0
+msgid "مطالعه مقاله"
+msgstr "مطالعه مقاله"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "معرفی MeNo ERP (داینامیک)"
+msgstr "معرفی MeNo ERP (داینامیک)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "معرفی MeNoSoft (داینامیک)"
+msgstr "معرفی MeNoSoft (داینامیک)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "معماری مبتنی بر سیستم عصبی یکپارچه Odoo"
+msgstr "معماری مبتنی بر سیستم عصبی یکپارچه Odoo"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "معماری متن‌باز و مقیاس‌پذیر"
+msgstr "معماری متن‌باز و مقیاس‌پذیر"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "مقیاس‌پذیری نامحدود سازمانی"
+msgstr "مقیاس‌پذیری نامحدود سازمانی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid ""
+"منوسافت با ترکیب تخصص و نوآوری، راهکارهای نرم‌افزاری کارآمد و مقیاس‌پذیر "
+"برای کسب‌وکارها ارائه می‌دهد."
+msgstr ""
+"منوسافت با ترکیب تخصص و نوآوری، راهکارهای نرم‌افزاری کارآمد و مقیاس‌پذیر "
+"برای کسب‌وکارها ارائه می‌دهد."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "نام شرکت"
+msgstr "نام شرکت"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "نام و نام خانوادگی"
+msgstr "نام و نام خانوادگی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "نرخ بازگشت سرمایه (ROI)"
+msgstr "نرخ بازگشت سرمایه (ROI)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "نقشه راه استقرار"
+msgstr "نقشه راه استقرار"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "نماد اعتماد الکترونیکی"
+msgstr "نماد اعتماد الکترونیکی"
+
+#. module: theme_meno_corporate_pro
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_res_config_settings__meno_show_topbar
+#: model:ir.model.fields,field_description:theme_meno_corporate_pro.field_website__meno_show_topbar
+msgid "نمایش نوار اعلان"
+msgstr "نمایش نوار اعلان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "نمونه کارها"
+msgstr "نمونه کارها"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "نوار اعلان (Top Bar)"
+msgstr "نوار اعلان (Top Bar)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "نوع خدمات درخواستی"
+msgstr "نوع خدمات درخواستی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "هزینه ادغام و API"
+msgstr "هزینه ادغام و API"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "هزینه لایسنس ماژول‌های جداگانه"
+msgstr "هزینه لایسنس ماژول‌های جداگانه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "هزینه نگهداری سرورهای متعدد"
+msgstr "هزینه نگهداری سرورهای متعدد"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid ""
+"همگامی کامل با آخرین تکنولوژی‌های مِنو، تضمین به‌روزرسانی‌های مداوم و "
+"پشتیبانی فنی اختصاصی توسط تیم متخصص مِنوسافت."
+msgstr ""
+"همگامی کامل با آخرین تکنولوژی‌های مِنو، تضمین به‌روزرسانی‌های مداوم و "
+"پشتیبانی فنی اختصاصی توسط تیم متخصص مِنوسافت."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_financial_dashboard
+msgid ""
+"هوش تجاری (<span class=\"title-highlight\" style=\"color: var(--meno-accent,"
+" #07adce);\">BI</span>) و پایش بلادرنگ: تصمیم‌گیری بر مبنای داده‌های قطعی"
+msgstr ""
+"هوش تجاری (<span class=\"title-highlight\" style=\"color: var(--meno-accent,"
+" #07adce);\">BI</span>) و پایش بلادرنگ: تصمیم‌گیری بر مبنای داده‌های قطعی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "هوش مصنوعی و یادگیری ماشین"
+msgstr "هوش مصنوعی و یادگیری ماشین"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "هیرو منو (Hero)"
+msgstr "هیرو منو (Hero)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "واتس‌اپ"
+msgstr "واتس‌اپ"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_global_trust
+msgid "ورود به محیط دموی زنده"
+msgstr "ورود به محیط دموی زنده"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "پارک ملی علوم و فناوری های نرم و صنایع فرهنگی"
+msgstr "پارک ملی علوم و فناوری‌های نرم و صنایع فرهنگی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"پایان جزیره‌های نرم‌افزاری: تمام سازمان در اکوسیستم هوشمند <span "
+"class=\"s_meno_highlight\">MeNo ERP</span>"
+msgstr ""
+"پایان جزیره‌های نرم‌افزاری: تمام سازمان در اکوسیستم هوشمند <span "
+"class=\"s_meno_highlight\">MeNo ERP</span>"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:ir.ui.view,arch_db:theme_meno_corporate_pro.res_config_settings_view_form_meno_header
+msgid "پس از بستن نوار توسط کاربر، چند ساعت دوباره نمایش داده نشود."
+msgstr "پس از بستن نوار توسط کاربر، چند ساعت دوباره نمایش داده نشود."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "پشتیبانی ۲۴/۷"
+msgstr "پشتیبانی ۲۴ ساعته در ۷ روز هفته"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "پیکربندی و<br/>سفارشی‌سازی"
+msgstr "پیکربندی و<br/>سفارشی‌سازی"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "کاربر در سراسر جهان"
+msgstr "کاربر در سراسر جهان"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_roi
+msgid "کاهش هزینه کل مالکیت (TCO)"
+msgstr "کاهش هزینه کل مالکیت (TCO)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_contact
+msgid "کد‌پستی: 1461968151"
+msgstr "کدپستی: ۱۴۶۱۹۶۸۱۵۱"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_deployment_roadmap_vector
+msgid "کسب و کار شما، تخصص ما، فردایی هوشمندتر"
+msgstr "کسب‌وکار شما، تخصص ما، فردایی هوشمندتر"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.meno_snippets_inherit
+msgid "کپی‌رایت منوسافت"
+msgstr "تمامی حقوق برای منوسافت محفوظ است"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid "گزارش‌های مالی، تولید و فروش در لحظه، بدون وابستگی به اکسل"
+msgstr "گزارش‌های مالی، تولید و فروش در لحظه، بدون وابستگی به اکسل"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "گزارش‌های یکپارچه"
+msgstr "گزارش‌های یکپارچه"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "گیت‌هاب"
+msgstr "گیت‌هاب (GitHub)"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "یک تصمیـم درسـت."
+msgstr "یک تصمیم درست."
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_footer
+msgid "یک نگاه، یک سازمان، یک تصمیم درست"
+msgstr "یک نگاه، یک سازمان، یک تصمیم درست"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_menosoft_executive
+msgid "یک نگـاه، یک سـازمان،"
+msgstr "یک نگاه، یک سازمان،"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_paradigm_shift
+msgid ""
+"یک پلتفرم، بی‌نهایت\n"
+"                                        راهکار"
+msgstr ""
+"یک پلتفرم، بی‌نهایت\n"
+"                                        راهکار"
+
+#. module: theme_meno_corporate_pro
+#: model_terms:theme.ir.ui.view,arch:theme_meno_corporate_pro.s_meno_hero
+msgid "یکپارچگی خط فروش و CRM سازمانی"
+msgstr "یکپارچگی خط فروش و CRM سازمانی"

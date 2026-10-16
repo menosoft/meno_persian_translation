@@ -1,0 +1,120 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* marketing_automation_crm
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "CRM"
+msgstr "مدیریت ارتباط با مشتری (CRM)"
+
+#. module: marketing_automation_crm
+#: model:ir.model.fields,field_description:marketing_automation_crm.field_marketing_campaign__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: marketing_automation_crm
+#: model:ir.model.fields,field_description:marketing_automation_crm.field_marketing_campaign__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid ""
+"If lead is created for existing contact, schedule a call with their "
+"salesperson."
+msgstr "اگر سرنخ برای مخاطب موجود ایجاد شد، یک تماس با فروشنده او تنظیم شود."
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "If not opened, priority = 0"
+msgstr "در صورت عدم بازگشایی، اولویت = ۰"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "If replied, assign 3 stars"
+msgstr "در صورت دریافت پاسخ، ۳ ستاره اختصاص یابد"
+
+#. module: marketing_automation_crm
+#: model:ir.model,name:marketing_automation_crm.model_marketing_campaign
+msgid "Marketing Campaign"
+msgstr "کمپین بازاریابی"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Next activity: Call"
+msgstr "فعالیت بعدی: تماس تلفنی"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Not Opened, Low Priority"
+msgstr "بازنشده، اولویت کم"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Prioritize Hot Leads"
+msgstr "اولویت‌بندی سرنخ‌های داغ"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Replied High Priority"
+msgstr "پاسخ‌داده‌شده با اولویت بالا"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Schedule Call"
+msgstr "برنامه‌ریزی تماس"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Schedule Calls"
+msgstr "برنامه‌ریزی تماس‌ها"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Send Email"
+msgstr "ارسال ایمیل"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid ""
+"Send an email to new leads and assign them a high priority if they open it."
+msgstr ""
+"ارسال ایمیل به سرنخ‌های جدید و در صورت بازکردن آن، تعیین اولویت بالا برای "
+"آن‌ها."
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "Send welcome Email"
+msgstr "ارسال ایمیل خوش‌آمدگویی"
+
+#. module: marketing_automation_crm
+#. odoo-python
+#: code:addons/marketing_automation_crm/models/marketing_campaign.py:0
+msgid "user_id"
+msgstr "شناسه کاربر"

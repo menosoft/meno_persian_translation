@@ -1,0 +1,289 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_sale_comparison
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:35+0000\n"
+"PO-Revision-Date: 2026-10-12 18:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "<i class=\"fa fa-shopping-cart me-2\" aria-hidden=\"true\"/>Add to Cart"
+msgstr ""
+"<i class=\"fa fa-shopping-cart me-2\" aria-hidden=\"true\"/>افزودن به سبد "
+"خرید"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "<i class=\"oi oi-chevron-left me-1\"/> Back to shop"
+msgstr "<i class=\"oi oi-chevron-left me-1\"/> بازگشت به فروشگاه"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.add_to_compare
+msgid ""
+"<span class=\"fa fa-exchange fa-fw o_not-animable\"/>\n"
+"                    <span class=\"o_label small ms-2\">Compare</span>"
+msgstr ""
+"<span class=\"fa fa-exchange fa-fw o_not-animable\"/>\n"
+"                    <span class=\"o_label small ms-2\">مقایسه</span>"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_add_to_compare
+msgid "Add to compare"
+msgstr "افزودن به مقایسه"
+
+#. module: website_sale_comparison
+#: model:ir.actions.act_window,name:website_sale_comparison.product_attribute_category_action
+#: model:ir.ui.menu,name:website_sale_comparison.menu_attribute_category_action
+msgid "Attribute Categories"
+msgstr "دسته‌بندی ویژگی‌ها"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/website_builder/product_page_option.xml:0
+msgid "Bottom of Page"
+msgstr "پایین صفحه"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__name
+msgid "Category Name"
+msgstr "نام دسته‌بندی"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
+#: code:addons/website_sale_comparison/static/src/website_builder/product_page_option.xml:0
+#: code:addons/website_sale_comparison/static/src/website_builder/products_design_panel.xml:0
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.add_to_compare
+msgid "Compare"
+msgstr "مقایسه"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Compare Products"
+msgstr "مقایسه محصولات"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
+msgid "Compare products"
+msgstr "مقایسه محصولات"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Contact Us"
+msgstr "تماس با ما"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Continue shopping"
+msgstr "ادامه خرید"
+
+#. module: website_sale_comparison
+#: model_terms:ir.actions.act_window,help:website_sale_comparison.product_attribute_category_action
+msgid "Create a new attribute category"
+msgstr "ایجاد یک دسته‌بندی ویژگی جدید"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__create_uid
+msgid "Created by"
+msgstr "ایجاد شده توسط"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__create_date
+msgid "Created on"
+msgstr "ایجادشده در"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute__display_name
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__display_name
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_product__display_name
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_template_attribute_line__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: website_sale_comparison
+#: model_terms:ir.actions.act_window,help:website_sale_comparison.product_attribute_category_action
+msgid ""
+"Group attributes by category that will appear in the specification\n"
+"                part of a product page."
+msgstr ""
+"دسته‌بندی ویژگی‌ها به گروه‌هایی که در بخش مشخصات فنی صفحه محصول نمایش داده "
+"می‌شوند."
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute__id
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__id
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_product__id
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_template_attribute_line__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/website_builder/product_page_option.xml:0
+msgid "In accordion"
+msgstr "در قالب آکاردئونی"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__write_uid
+msgid "Last Updated by"
+msgstr "آخرین تغییر توسط"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__write_date
+msgid "Last Updated on"
+msgstr "آخرین به‌روزرسانی در"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/website_builder/product_page_option.xml:0
+msgid "None"
+msgstr "هیچ‌کدام"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.accordion_specs_item
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.specifications_table
+msgid "Others"
+msgstr "سایر"
+
+#. module: website_sale_comparison
+#: model:ir.model,name:website_sale_comparison.model_product_attribute
+msgid "Product Attribute"
+msgstr "ویژگی محصول"
+
+#. module: website_sale_comparison
+#: model:ir.model,name:website_sale_comparison.model_product_attribute_category
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_attribute_category_tree_view
+msgid "Product Attribute Category"
+msgstr "دسته‌بندی ویژگی‌های محصول"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_row/product_row.xml:0
+msgid "Product Image"
+msgstr "تصویر محصول"
+
+#. module: website_sale_comparison
+#: model:ir.model,name:website_sale_comparison.model_product_template_attribute_line
+msgid "Product Template Attribute Line"
+msgstr "سطر ویژگی قالب محصول"
+
+#. module: website_sale_comparison
+#: model:ir.model,name:website_sale_comparison.model_product_product
+msgid "Product Variant"
+msgstr "گونه محصول"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Product image"
+msgstr "تصویر محصول"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__attribute_ids
+msgid "Related Attributes"
+msgstr "ویژگی‌های مرتبط"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
+msgid "Remove All"
+msgstr "حذف همه"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Remove all"
+msgstr "حذف همه"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Remove all products from comparison"
+msgstr "حذف همه محصولات از لیست مقایسه"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_row/product_row.xml:0
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Remove product from comparison"
+msgstr "حذف محصول از لیست مقایسه"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__sequence
+msgid "Sequence"
+msgstr "ترتیب نمایش"
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,help:website_sale_comparison.field_product_attribute__category_id
+msgid ""
+"Set a category to regroup similar attributes under the same section in the "
+"Comparison page of eCommerce."
+msgstr ""
+"دسته‌ای را تعیین کنید تا ویژگی‌های مشابه در یک بخش در صفحه مقایسه فروشگاه "
+"اینترنتی گروه‌بندی شوند."
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Shop Comparator"
+msgstr "ابزار مقایسه فروشگاه"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
+msgid "Show products added to comparison"
+msgstr "نمایش محصولات اضافه‌شده به مقایسه"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/website_builder/product_page_option.xml:0
+msgid "Specification"
+msgstr "مشخصات فنی"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.accordion_specs_item
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_attributes_body
+msgid "Specifications"
+msgstr "مشخصات فنی"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/interactions/product_comparison.js:0
+msgid "This product has already been added to the comparison."
+msgstr "این محصول قبلاً به لیست مقایسه اضافه شده است."
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/interactions/product_comparison.js:0
+msgid "Too many products to compare"
+msgstr "تعداد محصولات برای مقایسه بیش از حد مجاز است"
+
+#. module: website_sale_comparison
+#: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
+msgid "Uncategorized"
+msgstr "دسته‌بندی‌نشده"
+
+#. module: website_sale_comparison
+#. odoo-javascript
+#: code:addons/website_sale_comparison/static/src/interactions/product_comparison.js:0
+msgid "You can compare up to 4 products at a time."
+msgstr "شما می‌توانید حداکثر ۴ محصول را به‌طور همزمان مقایسه کنید."
+
+#. module: website_sale_comparison
+#: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute__category_id
+msgid "eCommerce Category"
+msgstr "دسته‌بندی فروشگاه اینترنتی"

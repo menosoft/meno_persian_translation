@@ -1,0 +1,133 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_hierarchy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:34+0000\n"
+"PO-Revision-Date: 2026-10-12 18:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_hierarchy
+#: model:ir.model,name:web_hierarchy.model_ir_actions_act_window_view
+msgid "Action Window View"
+msgstr "نمای پنجره اقدام"
+
+#. module: web_hierarchy
+#: model:ir.model,name:web_hierarchy.model_base
+msgid "Base"
+msgstr "پایه"
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_model.js:0
+msgid "Cannot change the parent because it will cause a cyclic."
+msgstr ""
+"امکان تغییر رکورد والد وجود ندارد زیرا منجر به ایجاد رابطه دورانی (حلقه "
+"نامتناهی) می‌شود."
+
+#. module: web_hierarchy
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_actions_act_window_view__display_name
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_ui_view__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_card.xml:0
+msgid "Fold"
+msgstr "جمع‌کردن"
+
+#. module: web_hierarchy
+#: model:ir.model.fields.selection,name:web_hierarchy.selection__ir_actions_act_window_view__view_mode__hierarchy
+#: model:ir.model.fields.selection,name:web_hierarchy.selection__ir_ui_view__type__hierarchy
+msgid "Hierarchy"
+msgstr "سلسله‌مراتب"
+
+#. module: web_hierarchy
+#. odoo-python
+#: code:addons/web_hierarchy/models/ir_ui_view.py:0
+msgid "Hierarchy child can only be field or template, got %s"
+msgstr ""
+"گره فرزند در ساختار سلسله‌مراتبی فقط می‌تواند فیلد یا الگو باشد، مقدار "
+"دریافت شده: %s"
+
+#. module: web_hierarchy
+#. odoo-python
+#: code:addons/web_hierarchy/models/ir_ui_view.py:0
+msgid "Hierarchy view can contain only one templates tag"
+msgstr "نمای سلسله‌مراتبی تنها می‌تواند شامل یک برچسب templates باشد"
+
+#. module: web_hierarchy
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_actions_act_window_view__id
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_ui_view__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_renderer.js:0
+msgid ""
+"Impossible to update the parent node of the dragged node because no parent "
+"has been found."
+msgstr ""
+"به‌روزرسانی گره والد برای این گره جابه‌جاشده ناممکن است زیرا گره والدی یافت "
+"نشد."
+
+#. module: web_hierarchy
+#. odoo-python
+#: code:addons/web_hierarchy/models/ir_ui_view.py:0
+msgid ""
+"Invalid attributes (%(invalid_attributes)s) in hierarchy view. Attributes "
+"must be in (%(valid_attributes)s)"
+msgstr ""
+"ویژگی‌های نامعتبر (%(invalid_attributes)s) در نمای سلسله‌مراتبی. ویژگی‌ها "
+"باید شامل (%(valid_attributes)s) باشند"
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_controller.xml:0
+msgid "New"
+msgstr "جدید"
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_model.js:0
+msgid ""
+"The parent of \"%s\" was successfully updated. Reloading records to account "
+"for other changes."
+msgstr ""
+"والد مربوط به \"%s\" با موفقیت به‌روزرسانی شد. بازخوانی رکوردها برای اعمال "
+"سایر تغییرات انجام می‌شود."
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_model.js:0
+msgid "The parent record cannot be the record dragged."
+msgstr "رکورد والد نمی‌تواند همان رکوردی باشد که جابه‌جا شده است."
+
+#. module: web_hierarchy
+#. odoo-javascript
+#: code:addons/web_hierarchy/static/src/hierarchy_card.xml:0
+msgid "Unfold"
+msgstr "گسترش"
+
+#. module: web_hierarchy
+#: model:ir.model,name:web_hierarchy.model_ir_ui_view
+msgid "View"
+msgstr "نما"
+
+#. module: web_hierarchy
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_actions_act_window_view__view_mode
+#: model:ir.model.fields,field_description:web_hierarchy.field_ir_ui_view__type
+#: model:ir.model.fields,field_description:web_hierarchy.field_website_controller_page__type
+#: model:ir.model.fields,field_description:web_hierarchy.field_website_page__type
+msgid "View Type"
+msgstr "نوع نما"

@@ -1,0 +1,516 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* meno_iranian_invoice_template
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:24+0000\n"
+"PO-Revision-Date: 2026-10-12 18:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.actions.report,print_report_name:meno_iranian_invoice_template.action_report_iranian_formal_invoice
+msgid "'فاکتور رسمی - %s' % (object.name)"
+msgstr "'فاکتور رسمی - %s' % (object.name)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid ""
+"<br/>\n"
+"                                            بنام"
+msgstr ""
+"<br/>\n"
+"                                            به‌نام"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid ""
+"<br/>\n"
+"                            <strong>تاریخ پیش فاکتور: </strong>"
+msgstr ""
+"<br/>\n"
+"                            <strong>تاریخ پیش‌فاکتور: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong style=\"font-size: 11px;\">تاریخ: </strong>"
+msgstr "<strong style=\"font-size: 11px;\">تاریخ: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid ""
+"<strong style=\"font-size: 11px;\">تاریخ: </strong>\n"
+"                                            <span style=\"color: white;\">_</span>"
+msgstr ""
+"<strong style=\"font-size: 11px;\">تاریخ: </strong>\n"
+"                                            <span style=\"color: white;\">_</span>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid ""
+"<strong style=\"font-size: 11px;\">مهر و امضای خریدار:</strong>\n"
+"                                            <br/>"
+msgstr ""
+"<strong style=\"font-size: 11px;\">مهر و امضای خریدار:</strong>\n"
+"                                            <br/>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid ""
+"<strong style=\"font-size: 11px;\">مهر و امضای فروشنده:</strong>\n"
+"                                            <br/>"
+msgstr ""
+"<strong style=\"font-size: 11px;\">مهر و امضای فروشنده:</strong>\n"
+"                                            <br/>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>تاریخ امضا:</strong>"
+msgstr "<strong>تاریخ امضا:</strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>تاریخ فاکتور: </strong>"
+msgstr "<strong>تاریخ فاکتور: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>توضیحات:</strong>"
+msgstr "<strong>توضیحات:</strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>جمع کل صورت حساب به حروف: </strong>"
+msgstr "<strong>جمع کل صورت‌حساب به حروف: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>جمع کل صورت حساب: </strong>"
+msgstr "<strong>جمع کل صورت‌حساب: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>شماره تلفن / نمابر: </strong>"
+msgstr "<strong>شماره تلفن / نمابر: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره تلفن: </strong>"
+msgstr "<strong>شماره تلفن: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره ثبت/شناسه ملی: </strong>"
+msgstr "<strong>شماره ثبت / شناسه ملی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره حساب: </strong>"
+msgstr "<strong>شماره حساب: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>شماره سریال: </strong>"
+msgstr "<strong>شماره سریال: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره شبا: </strong> IR"
+msgstr "<strong>شماره شبا: </strong> IR"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره پیش فاکتور: </strong>"
+msgstr "<strong>شماره پیش‌فاکتور: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>شماره کارت: </strong>"
+msgstr "<strong>شماره کارت: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>شناسه ثبت: </strong>"
+msgstr "<strong>شناسه / شماره ثبت: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>شناسه ملی: </strong>"
+msgstr "<strong>شناسه ملی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>شهر: </strong>"
+msgstr "<strong>شهر: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>مهر و امضا خریدار</strong>"
+msgstr "<strong>مهر و امضای خریدار</strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>مهر و امضا فروشنده</strong>"
+msgstr "<strong>مهر و امضای فروشنده</strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>نام شخص حقیقی/حقوقی: </strong>"
+msgstr "<strong>نام شخص حقیقی / حقوقی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>نام فروشنده: </strong>"
+msgstr "<strong>نام فروشنده: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "<strong>نشانی: </strong>"
+msgstr "<strong>نشانی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>کد / شناسه ملی: </strong>"
+msgstr "<strong>کد / شناسه ملی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "<strong>کدپستی ۱۰ رقمی: </strong>"
+msgstr "<strong>کد پستی ۱۰ رقمی: </strong>"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model,name:meno_iranian_invoice_template.model_res_partner_bank
+msgid "Bank Accounts"
+msgstr "حساب‌های بانکی"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model,name:meno_iranian_invoice_template.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model,name:meno_iranian_invoice_template.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_move__display_name
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_company__display_name
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_partner_bank__display_name
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_sale_order__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_move__id
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_company__id
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_config_settings__id
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_partner_bank__id
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_sale_order__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model,name:meno_iranian_invoice_template.model_account_move
+msgid "Journal Entry"
+msgstr "سند حسابداری"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "Logo"
+msgstr "لوگو"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model,name:meno_iranian_invoice_template.model_sale_order
+msgid "Sales Order"
+msgstr "سفارش فروش"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_sale_order__receipt_email
+msgid "ایمیل دریافت فیش"
+msgstr "ایمیل دریافت فیش"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_sale_order__receipt_email
+msgid "ایمیلی که مشتری باید فیش واریزی را به آن ارسال کند."
+msgstr "ایمیلی که مشتری باید فیش واریزی را به آن ارسال کند."
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_account_bank_statement_line__use_electronic_stamp
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_account_move__use_electronic_stamp
+msgid ""
+"با فعال کردن این گزینه، مهر و امضای تعریف شده در تنظیمات شرکت در فایل PDF "
+"چاپ خواهد شد."
+msgstr ""
+"با فعال کردن این گزینه، مهر و امضای تعریف شده در تنظیمات شرکت در فایل PDF "
+"چاپ خواهد شد."
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "تاریخ پرداخت"
+msgstr "تاریخ پرداخت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "تخفیفات"
+msgstr "تخفیفات"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_res_company__company_stamp
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_res_config_settings__company_stamp
+msgid ""
+"تصویر مهر و امضای رسمی شرکت را با پس‌زمینه شفاف (PNG) اینجا آپلود کنید تا در"
+" پیش‌فاکتورها نمایش داده شود."
+msgstr ""
+"تصویر مهر و امضای رسمی شرکت را با پس‌زمینه شفاف (PNG) اینجا بارگذاری کنید تا"
+" در پیش‌فاکتورها نمایش داده شود."
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.res_config_settings_view_form_inherit_stamp
+msgid ""
+"تصویر مهر و امضای رسمی شرکت را با پس‌زمینه شفاف (PNG) اینجا آپلود کنید."
+msgstr ""
+"تصویر مهر و امضای رسمی شرکت را با پس‌زمینه شفاف (PNG) اینجا بارگذاری کنید."
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "تعداد"
+msgstr "تعداد"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_sale_order__company_bank_id
+msgid "حساب بانکی / شبا"
+msgstr "حساب بانکی / شبا"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_sale_order__company_bank_id
+msgid ""
+"حساب بانکی پیش‌فرض شرکت به صورت خودکار انتخاب شده است. در صورت نیاز "
+"می‌توانید آن را تغییر دهید."
+msgstr ""
+"حساب بانکی پیش‌فرض شرکت به صورت خودکار انتخاب شده است. در صورت نیاز "
+"می‌توانید آن را تغییر دهید."
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "خواهشمند است مبلغ فوق به اطلاعات بانکی زیر واریز گردد: <br/>"
+msgstr "خواهشمند است مبلغ فوق به اطلاعات بانکی زیر واریز گردد: <br/>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "درگاه"
+msgstr "درگاه پرداخت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "ردیف"
+msgstr "ردیف"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "شرح کالا و خدمات"
+msgstr "شرح کالا و خدمات"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_sale_order__company_partner_id
+msgid "شریک تجاری شرکت"
+msgstr "طرف‌حساب تجاری شرکت"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_setup_bank_manual_config__bank_shaba_number
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_partner_bank__bank_shaba_number
+msgid "شماره شبا"
+msgstr "شماره شبا"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_account_setup_bank_manual_config__bank_shaba_number
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_res_partner_bank__bank_shaba_number
+msgid "شماره شبا بدون IR"
+msgstr "شماره شبا بدون IR"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_setup_bank_manual_config__bank_card_number
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_partner_bank__bank_card_number
+msgid "شماره کارت"
+msgstr "شماره کارت"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_account_setup_bank_manual_config__bank_card_number
+#: model:ir.model.fields,help:meno_iranian_invoice_template.field_res_partner_bank__bank_card_number
+msgid "شماره کارت ۱۶ رقمی بانکی"
+msgstr "شماره کارت ۱۶ رقمی بانکی"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "شناسه پرداخت"
+msgstr "شناسه پرداخت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "صفحه <span class=\"page\"/> از <span class=\"topage\"/>"
+msgstr "صفحه <span class=\"page\"/> از <span class=\"topage\"/>"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "صورت‌حساب فروش کالا و خدمات"
+msgstr "صورت‌حساب فروش کالا و خدمات"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.actions.report,name:meno_iranian_invoice_template.action_report_iranian_formal_invoice
+msgid "فاکتور رسمی دارایی (ایران)"
+msgstr "فاکتور رسمی دارایی (ایران)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "لوگو شرکت"
+msgstr "لوگوی شرکت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مالیات"
+msgstr "مالیات"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مالیات (ریال)"
+msgstr "مالیات (ریال)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مالیات بر ارزش افزوده"
+msgstr "مالیات بر ارزش افزوده"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مبلغ"
+msgstr "مبلغ"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مبلغ واحد"
+msgstr "مبلغ واحد"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مبلغ کل"
+msgstr "مبلغ کل"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مبلغ کل (ریال)"
+msgstr "مبلغ کل (ریال)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مبلغ کل با احتساب مالیات (ریال)"
+msgstr "مبلغ کل با احتساب مالیات (ریال)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مبلغ کل با مالیات"
+msgstr "مبلغ کل با مالیات"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مبلغ کل بدون مالیات"
+msgstr "مبلغ کل بدون مالیات"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مبلغ کل بعلاوه مالیات بر ارزش افزوده"
+msgstr "مبلغ کل به همراه مالیات بر ارزش افزوده"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مبلغ کل پس از کسر تخفیفات"
+msgstr "مبلغ کل پس از کسر تخفیفات"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.view_partner_bank_form_inherit_iranian
+msgid "مثال: 120120000000000000000000"
+msgstr "مثال: 120120000000000000000000"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مشخصات خریدار"
+msgstr "مشخصات خریدار"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مشخصات فروشنده"
+msgstr "مشخصات فروشنده"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مشخصات پرداخت"
+msgstr "مشخصات پرداخت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مشخصات کالا یا خدمات مورد معامله"
+msgstr "مشخصات کالا یا خدمات مورد معامله"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "مهر شرکت"
+msgstr "مهر شرکت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "مهر فروشنده"
+msgstr "مهر فروشنده"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_company__company_stamp
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_res_config_settings__company_stamp
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.res_config_settings_view_form_inherit_stamp
+msgid "مهر و امضای شرکت"
+msgstr "مهر و امضای شرکت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "موردی یافت نشد / پرداخت نشده"
+msgstr "موردی یافت نشد / پرداخت‌نشده"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "نوع پرداخت"
+msgstr "نوع پرداخت"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "هزینه واحد (ریال)"
+msgstr "هزینه واحد (ریال)"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_invoice_iranian_formal_template
+msgid "پرداخت شده"
+msgstr "پرداخت‌شده"
+
+#. module: meno_iranian_invoice_template
+#: model_terms:ir.ui.view,arch_db:meno_iranian_invoice_template.report_saleorder_document_iranian
+msgid "پیش فاکتور فروش کالا و خدمات"
+msgstr "پیش‌فاکتور فروش کالا و خدمات"
+
+#. module: meno_iranian_invoice_template
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_bank_statement_line__use_electronic_stamp
+#: model:ir.model.fields,field_description:meno_iranian_invoice_template.field_account_move__use_electronic_stamp
+msgid "چاپ مهر و امضای الکترونیک"
+msgstr "چاپ مهر و امضای الکترونیک"

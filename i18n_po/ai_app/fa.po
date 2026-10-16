@@ -1,0 +1,291 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ai_app
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:14+0000\n"
+"PO-Revision-Date: 2026-10-15 20:00+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid ""
+"<i class=\"fa fa-clock-o me-2\"/>\n"
+"                            <span>Processing your sources, it might take a few minutes...</span>"
+msgstr ""
+"<i class=\"fa fa-clock-o me-2\"/>\n"
+"                            <span>در حال پردازش منابع شما، ممکن است چند دقیقه طول بکشد...</span>"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid ""
+"<span class=\"me-1\">Refresh</span>\n"
+"                            <i class=\"fa fa-refresh me-1\"/>"
+msgstr ""
+"<span class=\"me-1\">به‌روزرسانی</span>\n"
+"                            <i class=\"fa fa-refresh me-1\"/>"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid ""
+"<span class=\"text-muted\" invisible=\"(not is_system_default or focused_models) and "
+"interface_key != 'systray_ai_button'\">All Models</span>"
+msgstr ""
+"<span class=\"text-muted\" invisible=\"(not is_system_default or focused_models) and "
+"interface_key != 'systray_ai_button'\">همه مدل‌ها</span>"
+
+#. module: ai_app
+#: model:ir.ui.menu,name:ai_app.ai_menu_root
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "AI"
+msgstr "هوش مصنوعی"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "Add a source"
+msgstr "افزودن منبع"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_kanban
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_search
+msgid "Agent"
+msgstr "عامل (ایجنت)"
+
+#. module: ai_app
+#. odoo-javascript
+#: code:addons/ai_app/static/src/command_palette.js:0
+#: model:ir.actions.act_window,name:ai_app.ai_agent_action
+#: model:ir.ui.menu,name:ai_app.ai_agent_menu_action model:ir.ui.menu,name:ai_app.ai_menu
+msgid "Agents"
+msgstr "عوامل (ایجنت‌ها)"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_agent_action
+msgid "Agents help you manage and organize your AI operations."
+msgstr "عوامل به شما در مدیریت و سازماندهی عملیات هوش مصنوعی کمک می‌کنند."
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "All Models"
+msgstr "همه مدل‌ها"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_kanban
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_search
+msgid "Archived"
+msgstr "بایگانی‌شده"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Buttons"
+msgstr "دکمه‌ها"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Call the Agent"
+msgstr "فراخوانی عامل"
+
+#. module: ai_app
+#: model:ir.ui.menu,name:ai_app.ai_config_menu
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_kanban
+msgid "Configuration"
+msgstr "پیکربندی"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_agent_action
+msgid "Create your first Agent!"
+msgstr "اولین عامل خود را ایجاد کنید!"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_topic_action
+msgid "Create your first topic!"
+msgstr "اولین موضوع خود را ایجاد کنید!"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_view_search
+msgid "Custom Rules"
+msgstr "قوانین سفارشی"
+
+#. module: ai_app
+#: model:ir.actions.act_window,name:ai_app.ai_composer_action
+#: model:ir.ui.menu,name:ai_app.menu_ai_composer
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_tree
+msgid "Default Prompts"
+msgstr "اعلان‌های پیش‌فرض"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_topic_view_form
+msgid "Explain to the Agent what they need to do..."
+msgstr "وظیفه مورد انتظار را برای عامل شرح دهید..."
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_view_search
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "Key"
+msgstr "کلید"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Mail Template extra prompt"
+msgstr "اعلان اضافی قالب ایمیل"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_search
+msgid "Model"
+msgstr "مدل"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_tree
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_kanban
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_tree
+msgid "Name"
+msgstr "نام"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_composer_action
+msgid "No Default Prompts found!"
+msgstr "هیچ اعلان پیش‌فرضی یافت نشد!"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "On the Model"
+msgstr "روی مدل"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_tree
+msgid "Properties"
+msgstr "ویژگی‌ها"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "Provide your API key to connect with your account"
+msgstr "کلید API خود را برای اتصال به حساب کاربری وارد کنید"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "Providers"
+msgstr "ارائه‌دهندگان"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "Reprocess"
+msgstr "پردازش مجدد"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "Retry"
+msgstr "تلاش مجدد"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Rule Name"
+msgstr "نام قاعده"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Select an action..."
+msgstr "انتخاب یک عملیات..."
+
+#. module: ai_app
+#: model:ir.actions.act_window,name:ai_app.ai_settings_action
+#: model:ir.ui.menu,name:ai_app.ai_general_settings_menu
+msgid "Settings"
+msgstr "تنظیمات"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_search
+msgid "Sources"
+msgstr "منابع"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_topic_view_form
+msgid "Summarize what this topic does"
+msgstr "خلاصه‌ای از کاربرد این موضوع بنویسید"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_view_search
+msgid "System Rules"
+msgstr "قوانین سیستمی"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "Test"
+msgstr "تست"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_composer_action
+msgid ""
+"Those are used to configure when to call a specific agent, or to add an extra prompt to your "
+"request."
+msgstr ""
+"از این موارد برای پیکربندی زمان فراخوانی یک عامل خاص یا افزودن اعلان اضافی به درخواست خود "
+"استفاده می‌شود."
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_topic_view_search
+msgid "Topic"
+msgstr "موضوع"
+
+#. module: ai_app
+#: model:ir.actions.act_window,name:ai_app.ai_topic_action
+#: model:ir.ui.menu,name:ai_app.ai_topic_menu_action
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_search
+msgid "Topics"
+msgstr "موضوعات"
+
+#. module: ai_app
+#: model_terms:ir.actions.act_window,help:ai_app.ai_topic_action
+msgid "Topics help you manage and organize your AI operations."
+msgstr "موضوعات به شما در مدیریت و سازماندهی عملیات هوش مصنوعی کمک می‌کنند."
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "Use your own ChatGPT account"
+msgstr "استفاده از حساب کاربری ChatGPT شخصی"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.res_config_settings_view_form
+msgid "Use your own Google Gemini account"
+msgstr "استفاده از حساب کاربری Google Gemini شخصی"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "When users need to"
+msgstr "هنگامی که کاربران نیاز دارند به"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_composer_form
+msgid "Write your prompt..."
+msgstr "اعلان خود را بنویسید..."
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_topic_view_form
+msgid "e.g. Chat with customers"
+msgstr "مثلاً گفتگو با مشتریان"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "e.g. Get tips to close more sales"
+msgstr "مثلاً دریافت نکاتی برای نهایی کردن فروش‌های بیشتر"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "e.g. SDR Advisor"
+msgstr "مثلاً مشاور توسعه فروش (SDR)"
+
+#. module: ai_app
+#: model_terms:ir.ui.view,arch_db:ai_app.ai_agent_view_form
+msgid "e.g. You are a support operator, you can answer questions related to ..."
+msgstr "مثلاً شما یک کارشناس پشتیبانی هستید و می‌توانید به سوالات مربوط به ... پاسخ دهید ..."

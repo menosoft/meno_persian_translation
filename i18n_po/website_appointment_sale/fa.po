@@ -1,0 +1,155 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_appointment_sale
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e-20260223\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-12 18:34+0000\n"
+"PO-Revision-Date: 2026-10-12 18:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid "<i class=\"fa fa-check me-1\" role=\"img\"/>Booked"
+msgstr "<i class=\"fa fa-check me-1\" role=\"img\"/>رزرو شد"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid "<i class=\"fa fa-clock-o me-1\" role=\"img\"/>Awaiting Payment"
+msgstr "<i class=\"fa fa-clock-o me-1\" role=\"img\"/>در انتظار پرداخت"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid ""
+"<i class=\"fa fa-exclamation-triangle me-1\" role=\"img\"/>\n"
+"                            Please Contact Us"
+msgstr ""
+"<i class=\"fa fa-exclamation-triangle me-1\" role=\"img\"/>\n"
+"                            لطفاً با ما تماس بگیرید"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid "<i class=\"fa fa-thumbs-up me-1\"/>Reserved"
+msgstr "<i class=\"fa fa-thumbs-up me-1\"/>تایید و رزرو شد"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order_line__calendar_booking_ids
+msgid "Bookings"
+msgstr "رزروها"
+
+#. module: website_appointment_sale
+#: model:ir.model,name:website_appointment_sale.model_calendar_event
+msgid "Calendar Event"
+msgstr "رخداد تقویم"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_booking__display_name
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_event__display_name
+#: model:ir.model.fields,field_description:website_appointment_sale.field_product_product__display_name
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order__display_name
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order_line__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_booking__id
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_event__id
+#: model:ir.model.fields,field_description:website_appointment_sale.field_product_product__id
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order__id
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order_line__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_product_product__is_booking_fee
+msgid "Is Booking Fee"
+msgstr "هزینه رزرو است"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order_line__calendar_event_id
+msgid "Meeting"
+msgstr "جلسه"
+
+#. module: website_appointment_sale
+#: model:ir.model,name:website_appointment_sale.model_calendar_booking
+msgid "Meeting Booking"
+msgstr "رزرو جلسه"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_sale_order__calendar_event_count
+msgid "Meetings"
+msgstr "جلسات"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.website_sale_confirmation_appointment
+msgid "Oops, it looks like the following Meeting(s) were not booked smoothly:"
+msgstr "اوه، به نظر می‌رسد جلسات زیر به درستی رزرو نشدند:"
+
+#. module: website_appointment_sale
+#: model:ir.model,name:website_appointment_sale.model_product_product
+msgid "Product Variant"
+msgstr "گونه محصول"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.calendar_event_view_form
+msgid "Sale Order"
+msgstr "سفارش فروش"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_booking__order_line_id
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_event__sale_order_line_ids
+msgid "Sale Order Line"
+msgstr "سطر سفارش فروش"
+
+#. module: website_appointment_sale
+#: model:ir.model,name:website_appointment_sale.model_sale_order
+msgid "Sales Order"
+msgstr "سفارش فروش"
+
+#. module: website_appointment_sale
+#: model:ir.model.fields,field_description:website_appointment_sale.field_calendar_event__sale_order_count
+msgid "Sales Order Count"
+msgstr "تعداد سفارش‌های فروش"
+
+#. module: website_appointment_sale
+#: model:ir.model,name:website_appointment_sale.model_sale_order_line
+msgid "Sales Order Line"
+msgstr "سطر سفارش‌فروش"
+
+#. module: website_appointment_sale
+#. odoo-python
+#: code:addons/website_appointment_sale/models/sale_order.py:0
+msgid ""
+"The following bookings are not available anymore during the selected period and your cart must be updated. We are sorry for the inconvenience.\n"
+"\n"
+"%(bookings)s"
+msgstr ""
+"رزروهای زیر دیگر در بازه زمانی انتخاب‌شده در دسترس نیستند و سبد خرید شما باید به‌روزرسانی شود. از بابت این نارضایتی پوزش می‌طلبیم.\n"
+"\n"
+"%(bookings)s"
+
+#. module: website_appointment_sale
+#. odoo-python
+#: code:addons/website_appointment_sale/models/calendar_booking.py:0
+msgid ""
+"The following bookings were not confirmed due to insufficient availability "
+"or configuration changes: %s"
+msgstr ""
+"رزروهای زیر به دلیل عدم دسترسی کافی یا تغییرات پیکربندی تأیید نشدند: %s"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid "Timezone:"
+msgstr "منطقه زمانی:"
+
+#. module: website_appointment_sale
+#: model_terms:ir.ui.view,arch_db:website_appointment_sale.appointment_sale_confirmation_cards
+msgid "View Details"
+msgstr "مشاهده جزئیات"
