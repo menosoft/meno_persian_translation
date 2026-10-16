@@ -31,7 +31,7 @@ Part of MeNoSoft. See LICENSE file for full copyright and licensing details.
 
 ## 📋 معرفی | Introduction
 
-**MeNo Persian Translator** یک ابزار حرفه‌ای، سریع و زیرساختی جهت بارگذاری و همگام‌سازی دسته‌جمعی پکیج‌های ترجمه فارسی (`fa_IR`) در مِنو ۱۹ است. این ماژول توسط تیم **MeNoSoft** توسعه یافته و با تکیه بر معماری ذخیره‌سازی ترجمه در مِنو مدرن (ستون‌های JSONB)، فایل‌های `.po` موجود در ماژول را با دقت و سرعت بالا در پایگاه‌داده ایمپورت و اعمال می‌کند.
+**MeNo Persian Translator** یک ابزار حرفه‌ای، سریع و زیرساختی جهت بارگذاری و همگام‌سازی دسته‌جمعی پکیج‌های ترجمه فارسی (`fa_IR`) در اودو ۱۹ است. این ماژول توسط تیم **MeNoSoft** توسعه یافته و با تکیه بر معماری ذخیره‌سازی ترجمه در اودو مدرن (ستون‌های JSONB)، فایل‌های `.po` موجود در ماژول را با دقت و سرعت بالا در پایگاه‌داده ایمپورت و اعمال می‌کند.
 
 **MeNo Persian Translator** is a professional and high-performance translation importer designed for Odoo 19. Developed by the **MeNoSoft** team, this module facilitates batch loading and synchronization of Persian (`fa_IR`) `.po` translation files, fully compliant with modern Odoo JSONB translation architecture.
 
