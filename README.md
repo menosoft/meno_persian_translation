@@ -23,7 +23,7 @@ Part of MeNoSoft. See LICENSE file for full copyright and licensing details.
 ### ماژول بارگذاری و همگام‌سازی دسته‌جمعی ترجمه فارسی مِنو ۱۹
 ### MeNo Persian Translator for Odoo 19
 
-[![Odoo Version](https://img.shields.io/badge/Odoo-19.0-blue.svg)](https://www.odoo.com)
+[![MeNoERP Version](https://img.shields.io/badge/MeNoERP-19.0-blue.svg)](https://menosoft.ir)
 [![License](https://img.shields.io/badge/License-AGPL--3-green.svg)](LICENSE)
 [![Development](https://img.shields.io/badge/Developer-MeNoSoft-orange.svg)](https://menosoft.ir)
 
